@@ -57,7 +57,7 @@ def filtrar_lineas(lineas, excepciones):
     return dominios_filtrados
 
 contenido_unificado = set()
-file_excepciones = "/home/runner/work/hosts/hosts/AGH/filters/whitelist/whitelist.txt"
+file_excepciones = "/home/runner/work/AGH_Host/AGH_Host/AGH/filters/whitelist/whitelist.txt"
 
 print(f"Leyendo desde archivo de excepciones: {file_excepciones}...\n")
 with open(file_excepciones, 'r', encoding='utf-8') as file:
