@@ -24,7 +24,7 @@ Esta lista está siendo probada en los siguientes S.O, routers y software
 
 * [AdGuardSDNSFilter](https://github.com/AdguardTeam/AdGuardSDNSFilter)
 * [yoyo filters](https://pgl.yoyo.org/)
-* [uBlock filters](https://github.com/durablenapkin/scamblocklist/)
+* [scamblocklist](https://github.com/durablenapkin/scamblocklist/)
 * [malware-filter](https://gitlab.com/malware-filter/phishing-filter)
 * [oisd filters](https://github.com/sjhgvr/oisd/)
 * [StevenBlack filters](https://github.com/StevenBlack/hosts)
