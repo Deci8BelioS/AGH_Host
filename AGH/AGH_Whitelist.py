@@ -9,7 +9,7 @@ urls_sinfiltrar = [
     'https://raw.githubusercontent.com/swetoast/adguardhome-lists/refs/heads/main/whitelist.txt'
 ]
 
-output_file = '/home/runner/work/hosts/hosts/AGH/filters/whitelist/whitelist.txt'
+output_file = '/home/runner/work/AGH_Host/AGH_Host/AGH/filters/whitelist/whitelist.txt'
 
 l1n34 = ['#', '!']
 l1n34_2 = ['apple.com', 's3.amazonaws.com', 'wp.com', 'amazonaws.com']
