@@ -1,5 +1,9 @@
 # AGH Host by DeciBelioS
+<div align="right">
+
 [**Spanish**](README_ES.md)
+
+</div>
 
 Unified filters optimized for use in Adguard home.
 
