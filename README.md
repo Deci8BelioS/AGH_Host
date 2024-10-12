@@ -22,6 +22,7 @@ Esta lista está siendo probada en los siguientes S.O, routers y software
 ## Filtros en los que se ha basado esta lista:
 
 
+* [HaGeZi's Light DNS Blocklist](https://github.com/hagezi/dns-blocklists)
 * [AdGuardSDNSFilter](https://github.com/AdguardTeam/AdGuardSDNSFilter)
 * [yoyo filters](https://pgl.yoyo.org/)
 * [scamblocklist](https://github.com/durablenapkin/scamblocklist/)
