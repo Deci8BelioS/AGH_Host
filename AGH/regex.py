@@ -92,6 +92,56 @@ REGEX_WHITELIST = [
 ]
 
 REGEX_WHITELIST2 = [
+    "ruehuwer.xyz",
+    "rufangchemical.com",
+    "rugfdl.com",
+    "ruggeddaddy.com",
+    "ruggeddaddy.org",
+    "g-cointrad.top",
+    "ruinag.com",
+    "ruinak.pics",
+    "rukmalegedera.com",
+    "ruletka-systemy.com",
+    "ruletkasystem.eu",
+    "rullion.com",
+    "rumahjudi.com",
+    "rumandcoco.com",
+    "rumian.shop",
+    "rumorvoice.click",
+    "rumrevelry.xyz",
+    "run-germany.com",
+    "run6it.space",
+    "runaddict.pl",
+    "rundadl.com",
+    "runfolaforjustice.com",
+    "rungearshop.com",
+    "rungfast.site",
+    "runpods.com",
+    "runrunshop.com",
+    "runuzee9.com",
+    "ruoilinhden.com",
+    "ruparelvivanzabyculla.com",
+    "rupifyu1.xyz",
+    "ruppoo.com",
+    "roundcube.pl",
+    "roundhouse.cfd",
+    "roundupbarandgrill.com",
+    "roupasdecandomble.com",
+    "rousset-peynier-osteopathie.com",
+    "routeofdreams.com",
+    "rowanberrys.com",
+    "rowanboyle.com",
+    "rowanjboyle.com",
+    "rowanmclean.com",
+    "rower-hurt24.com",
+    "rownet.pl",
+    "rowopyu7.pro",
+    "roxannemaddrey.com",
+    "roxecl.com",
+    "tiiny.site",
+    "korrelate.net",
+    "optinmonster.com",
+    "libertystmedia.com",
     "bet365affiliates.com",
     "luckyorange.com",
     "freshmarketer.com",
@@ -789,7 +839,7 @@ REGEX_WHITELIST2 = [
     "valuecommerce.ne.jp"
 ]
 
-SUBDOMINIO_DUPLICADO= "vinted-"
-SUBDOMINIO_DUPLICADO2= "r2.dev"
-SUBDOMINIO_DUPLICADO3= "hotel-"
-SUBDOMINIO_DUPLICADO4= "aomg5bzv7.com"
+SUBDOMINIO_DUPLICADO    = "vinted-"
+SUBDOMINIO_DUPLICADO2   = "r2.dev"
+SUBDOMINIO_DUPLICADO3   = "hotel-"
+SUBDOMINIO_DUPLICADO4   = "aomg5bzv7.com"
