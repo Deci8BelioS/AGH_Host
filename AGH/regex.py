@@ -92,6 +92,14 @@ REGEX_WHITELIST = [
 ]
 
 REGEX_WHITELIST2 = [
+    "bet365affiliates.com",
+    "luckyorange.com",
+    "freshmarketer.com",
+    "appsflyersdk.com",
+    "clevertap-prod.com",
+    "sexplaycam.com",
+    "doublepimp.com",
+    "adonweb.ru",
     "cleansite.us",
     "tynt.com",
     "gasterrzcs.top",
