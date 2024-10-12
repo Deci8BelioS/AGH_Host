@@ -1903,6 +1903,7 @@
 @@||metropcs.net^$important
 @@||mic1.com.lb^$important
 @@||microg.org^$important
+@@||microsoft.com^$important
 @@||microsoftonline.com^$important
 @@||midrivers.csky.us^$important
 @@||milton-keynes.gov.uk^$important
