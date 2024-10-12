@@ -64,7 +64,7 @@ with open(file_excepciones, 'r', encoding='utf-8') as file:
     excepciones = file.readlines()
 
 urls = [
-    # 'https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adblock/light.txt',
+    'https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adblock/light.txt',
     'https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt',
     'https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&amp;showintro=0&amp;mimetype=plaintext',
     'https://pgl.yoyo.org/adservers/serverlist.php?hostformat=adblockplus&showintro=1&mimetype=plaintext',
