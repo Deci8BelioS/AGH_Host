@@ -24,8 +24,6 @@
 @@||revanced.net^
 @@||atomixhq.baby^
 @@||atresmedia.com^
-@@||microsoft.com^
-#@@||apple.com^
 @@||leinad4mind.top^
 @@||split.io^
 @@||github.io^
@@ -63,3 +61,5 @@
 @@||ddnsfree.com^
 @@||duckdns.org^
 @@||dynu.com^
+@@||microsoft.com^
+#@@||apple.com^
