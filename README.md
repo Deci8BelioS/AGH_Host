@@ -3,6 +3,8 @@
 Filtros unificados optimizados para su uso en Adguard home.
 
 * [Haz click aquí para copiar la url del archivo HOST](https://raw.githubusercontent.com/Deci8BelioS/AGH_Host/refs/heads/main/AGH/hosts.txt)
+  
+    (100k+ de filtros, eliminando subdominios si en las listas originales aparecen para bloquear el dominio principal)
 
 Se recomienda el uso de los siguientes filtros para complementar el archivo HOST
 | Blocklist | Whitelist | 
