@@ -66,8 +66,7 @@ with open(file_excepciones, 'r', encoding='utf-8') as file:
 urls = [
     'https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adblock/light.txt',
     'https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt',
-    'https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&amp;showintro=0&amp;mimetype=plaintext',
-    'https://pgl.yoyo.org/adservers/serverlist.php?hostformat=adblockplus&showintro=1&mimetype=plaintext',
+    'https://pgl.yoyo.org/adservers/serverlist.php?hostformat=adblockplus&mimetype=plaintext',
     'https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/adguard.txt',
     'https://malware-filter.gitlab.io/malware-filter/phishing-filter-agh.txt',
     'https://raw.githubusercontent.com/sjhgvr/oisd/refs/heads/main/oisd_small.txt',
