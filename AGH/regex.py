@@ -92,6 +92,7 @@ REGEX_WHITELIST = [
 ]
 
 DOMAIN_LIST = [
+    "ziffdavis.com",
     "sply.com",
     "adtelligent.com",
     "33across.com",
