@@ -92,6 +92,7 @@ REGEX_WHITELIST = [
 ]
 
 DOMAIN_LIST = [
+    "ewp.live",
     "adrevolver.com",
     "mixpanel.com",
     "ziffdavis.com",
