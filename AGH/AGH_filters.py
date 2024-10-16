@@ -1,6 +1,6 @@
 import requests, re
 
-from regex import REGEX, REGEX_WHITELIST, DOMAIN_LIST, SUBDOMAIN_DUPLICATE, SUBDOMAIN_DUPLICATE2, SUBDOMAIN_DUPLICATE3, SUBDOMAIN_DUPLICATE4
+from regex import REGEX, REGEX_WHITELIST, DOMAIN_LIST, SUBDOMAIN_DUPLICATE, SUBDOMAIN_DUPLICATE2, SUBDOMAIN_DUPLICATE3, SUBDOMAIN_DUPLICATE4, SUBDOMAIN_DUPLICATE5
 
 output_file = r'hosts.txt'
 
@@ -44,6 +44,9 @@ def filter_lines(lines, exceptions):
             continue
         if line.endswith(f"{SUBDOMAIN_DUPLICATE4}"):
             normal_domains.add(f"{SUBDOMAIN_DUPLICATE4}")
+            continue
+        if line.startswith(f"{SUBDOMAIN_DUPLICATE5}"):
+            normal_domains.add(f"{SUBDOMAIN_DUPLICATE5}*")
             continue
         if any(pattern.search(line) for pattern in REGEX) or not line:
             continue
