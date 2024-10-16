@@ -1,6 +1,6 @@
 import requests, re
 
-from regex import REGEX, REGEX_WHITELIST, DOMAIN_LIST, SUBDOMAIN_DUPLICATE, SUBDOMAIN_DUPLICATE2, SUBDOMAIN_DUPLICATE3, SUBDOMAIN_DUPLICATE4, SUBDOMAIN_DUPLICATE5
+from regex import REGEX, LIST_WHITELIST, DOMAIN_LIST, SUBDOMAIN_DUPLICATE, SUBDOMAIN_DUPLICATE2, SUBDOMAIN_DUPLICATE3, SUBDOMAIN_DUPLICATE4, SUBDOMAIN_DUPLICATE5
 
 output_file = r'hosts.txt'
 
@@ -50,7 +50,7 @@ def filter_lines(lines, exceptions):
             continue
         if any(pattern.search(line) for pattern in REGEX) or not line:
             continue
-        if line.endswith(tuple(REGEX_WHITELIST)) or not line:
+        if line.endswith(tuple(LIST_WHITELIST)) or not line:
             continue
         if line.endswith(tuple(DOMAIN_LIST)) and not line.startswith(tuple(DOMAIN_LIST)) or not line:
             continue
