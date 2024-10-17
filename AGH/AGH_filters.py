@@ -3,7 +3,6 @@ import requests, re
 from regex import REGEX, LIST_WHITELIST, DOMAIN_LIST, SUBDOMAIN_DUPLICATE, SUBDOMAIN_DUPLICATE2, SUBDOMAIN_DUPLICATE3, SUBDOMAIN_DUPLICATE4, SUBDOMAIN_DUPLICATE5
 
 output_file = r'hosts.txt'
-
 l1n3 = ['#', '!', '-', '*', '/', '.', '&', '%', '~', '?', '[', ']', '^', ':', '@', '<', 'fe80::', 'ff00::', 'ff02::']
 
 def download_file(url):
@@ -26,9 +25,8 @@ def clean_line(line):
     line = line.replace('http://', '').replace('https://', '').replace('||', '').replace('|', '').replace('^', '')
     return line
 
-def filter_lines(lines, exceptions):
+def filter_lines(lines):
     normal_domains = set()
-    exception_domains = set()
     for line in lines:
         line = clean_line(line)
         if line.startswith(tuple(l1n3)) or not line:
@@ -48,23 +46,15 @@ def filter_lines(lines, exceptions):
         if line.startswith(f"{SUBDOMAIN_DUPLICATE5}"):
             normal_domains.add(f"{SUBDOMAIN_DUPLICATE5}*")
             continue
-        if any(pattern.search(line) for pattern in REGEX) or not line:
-            continue
-        if line.endswith(tuple(LIST_WHITELIST)) or not line:
-            continue
-        if line.endswith(tuple(DOMAIN_LIST)) and not line.startswith(tuple(DOMAIN_LIST)) or not line:
-            continue
         normal_domains.add(line.strip())
-    filtered_domains = normal_domains - {d[2:] for d in exception_domains}
-    filtered_domains.update(exception_domains)
-    return filtered_domains
+    return normal_domains
 
 unified_content = set()
-file_exceptions = r"/home/runner/work/AGH_Host/AGH_Host/AGH/filters/whitelist/whitelist.txt"
 
+file_exceptions = r"/home/runner/work/AGH_Host/AGH_Host/AGH/filters/whitelist/whitelist.txt"
 print(f"Reading from exception file: {file_exceptions}...\n")
 with open(file_exceptions, 'r', encoding='utf-8') as file:
-    exceptions = file.readlines()
+    exceptions = [line.strip() for line in file]
 
 urls = [
     'https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adblock/light.txt',
@@ -79,11 +69,17 @@ urls = [
 for url in urls:
     print(f"Downloading from '{url}'...")
     lines = download_file(url)
-    filtered_domains = filter_lines(lines, exceptions)
+    filtered_domains = filter_lines(lines)
     unified_content.update(filtered_domains)
 
 with open(output_file, 'w', encoding='utf-8') as f:
     for domain in sorted(unified_content):
+        if any(pattern.search(domain) for pattern in REGEX) or not domain:
+            continue
+        if domain.endswith(tuple(LIST_WHITELIST)) or not domain:
+            continue
+        if domain.endswith(tuple(DOMAIN_LIST)) and not domain.startswith(tuple(DOMAIN_LIST)) or not domain:
+            continue
         if domain.startswith('@@'):
             domain = f'{domain}^'.replace('|^', '^|')
         if not domain.startswith('||') and not domain.startswith('@@') and not domain.startswith('|') and not domain.startswith('<'):
