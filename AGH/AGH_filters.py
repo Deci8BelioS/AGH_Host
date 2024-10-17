@@ -1,6 +1,6 @@
 import requests, re
 
-from regex import REGEX, LIST_WHITELIST, DOMAIN_LIST, SUBDOMAIN_DUPLICATE, SUBDOMAIN_DUPLICATE2, SUBDOMAIN_DUPLICATE3, SUBDOMAIN_DUPLICATE4, SUBDOMAIN_DUPLICATE5
+from regex import REGEX, LIST_WHITELIST, DOMAIN_LIST, SUBDOMAIN_DUPLICATE, SUBDOMAIN_DUPLICATE2, SUBDOMAIN_DUPLICATE3, SUBDOMAIN_DUPLICATE4, SUBDOMAIN_DUPLICATE5, SUBDOMAIN_DUPLICATE6, SUBDOMAIN_DUPLICATE7, SUBDOMAIN_DUPLICATE8, SUBDOMAIN_DUPLICATE9, SUBDOMAIN_DUPLICATE10
 
 output_file = r'hosts.txt'
 l1n3 = ['#', '!', '-', '*', '/', '.', '&', '%', '~', '?', '[', ']', '^', ':', '@', '<', 'fe80::', 'ff00::', 'ff02::']
@@ -31,20 +31,35 @@ def filter_lines(lines):
         line = clean_line(line)
         if line.startswith(tuple(l1n3)) or not line:
             continue
-        if line.startswith(f"{SUBDOMAIN_DUPLICATE}"):
-            normal_domains.add(f"{SUBDOMAIN_DUPLICATE}*.*")
-            continue
-        if line.endswith(f"{SUBDOMAIN_DUPLICATE2}"):
+        if line.endswith(SUBDOMAIN_DUPLICATE2):
             normal_domains.add(f"*.{SUBDOMAIN_DUPLICATE2}")
             continue
-        if line.startswith(f"{SUBDOMAIN_DUPLICATE3}"):
-            normal_domains.add(f"{SUBDOMAIN_DUPLICATE3}*.eu")
-            continue
-        if line.endswith(f"{SUBDOMAIN_DUPLICATE4}"):
+        if line.endswith(SUBDOMAIN_DUPLICATE4):
             normal_domains.add(f"{SUBDOMAIN_DUPLICATE4}")
             continue
-        if line.startswith(f"{SUBDOMAIN_DUPLICATE5}"):
+        if line.startswith(SUBDOMAIN_DUPLICATE):
+            normal_domains.add(f"{SUBDOMAIN_DUPLICATE}*.*")
+            continue
+        if line.startswith(SUBDOMAIN_DUPLICATE3):
+            normal_domains.add(f"{SUBDOMAIN_DUPLICATE3}*.*")
+            continue
+        if line.startswith(SUBDOMAIN_DUPLICATE5):
             normal_domains.add(f"{SUBDOMAIN_DUPLICATE5}*")
+            continue
+        if line.startswith(SUBDOMAIN_DUPLICATE6):
+            normal_domains.add(f"{SUBDOMAIN_DUPLICATE6}*")
+            continue
+        if line.startswith(SUBDOMAIN_DUPLICATE7):
+            normal_domains.add(f"{SUBDOMAIN_DUPLICATE7}*")
+            continue
+        if line.startswith(SUBDOMAIN_DUPLICATE8):
+            normal_domains.add(f"{SUBDOMAIN_DUPLICATE8}*.*")
+            continue
+        if line.startswith(SUBDOMAIN_DUPLICATE9):
+            normal_domains.add(f"{SUBDOMAIN_DUPLICATE9}*")
+            continue
+        if line.startswith(SUBDOMAIN_DUPLICATE10):
+            normal_domains.add(f"{SUBDOMAIN_DUPLICATE10}*.*")
             continue
         normal_domains.add(line.strip())
     return normal_domains
