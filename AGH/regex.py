@@ -34,6 +34,11 @@ SUBDOMAIN_DUPLICATE2    = "r2.dev"
 SUBDOMAIN_DUPLICATE3    = "hotel-"
 SUBDOMAIN_DUPLICATE4    = "aomg5bzv7.com"
 SUBDOMAIN_DUPLICATE5    = "piwik."
+SUBDOMAIN_DUPLICATE6    = "matomo."
+SUBDOMAIN_DUPLICATE7    = "metric."
+SUBDOMAIN_DUPLICATE8    = "olx-"
+SUBDOMAIN_DUPLICATE9    = "olx."
+SUBDOMAIN_DUPLICATE10   = "mdp-appconf-"
 
 DOMAIN_WHITELIST = ["rain-alarm.com","activision.com","chomikuj.pl","firebasedynamiclinks.googleapis.com","epic.download","geotrust.com","cloudflare.com","evyy.net","adjust.com","alimentacionchino.com","cbsivideo.com","pluto.tv","onetrust.com","cbsi.com","tiqcdn.com","instagram.com","typekit.net","robertsspaceindustries.com","soundcloud.com","ipqualityscore.com","suyu.dev","plex.direct","revanced.net","atomixhq.baby","atresmedia.com","microsoft.com","leinad4mind.top","split.io","github.io","gitlab.com","raw.githubusercontent.com","digidip.net","chollometro.digidip.net","tradedoubler.com","plex.tv","fapality.com","virtualbox.org","ddos-guard.net","bbva.es","pccomponentes.com","es.spankbang.com","tinder.com","haiku-os.org","milanuncios.com","aliexpress.com","alicdn.com","go-mpulse.net","nsw2u.com","waaw.to","raidrive.com","netflixmirror.com","oraclecloud.com","eset.com","elamigos-games.net","mparticle.com","cookielaw.org","mmcdn.com","azure.com","nickchan.lol","ddnsfree.com","duckdns.org","dynu.com"]
 
