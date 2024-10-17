@@ -625,6 +625,7 @@
 @@||comcast.rslr.vzwentp^$important
 @@||comcel.com.co^$important
 @@||commercial.ocsp.identrust.com^$important
+@@||community.chocolatey.org^$important
 @@||comodo.com^$important
 @@||comodoca.com.cdn.cloudflare.net^$important
 @@||comodoca.com^$important
