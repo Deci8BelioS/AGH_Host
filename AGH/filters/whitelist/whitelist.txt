@@ -112,6 +112,8 @@
 @@||4g.tele2.se^$important
 @@||8ta.com^$important
 @@||988lifeline.org^$important
+@@||_http._tcp.security.ubuntu.com^$important
+@@||_https._tcp.packages.mozilla.org^$important
 @@||a-subca1.athexnet.gr^$important
 @@||a1.net^$important
 @@||a2bouygtel.com^$important
@@ -249,6 +251,7 @@
 @@||api.apple-cloudkit.fe2.apple-dns.net^$important
 @@||api.ipify.org^$important
 @@||api.rlje.net^$important
+@@||api.snapcraft.io^$important
 @@||apn.fastweb.it^$important
 @@||apn01.cwpanama.com.pa^$important
 @@||apn02.cwpanama.com.pa^$important
@@ -293,6 +296,7 @@
 @@||aus4-admin.mozilla.org^$important
 @@||aus5.mozilla.org^$important
 @@||aut2know.co.za^$important
+@@||auth.contracts.canonical.com^$important
 @@||autism-india.org^$important
 @@||autism-society.org^$important
 @@||autism.ie^$important
@@ -362,6 +366,12 @@
 @@||boystown.org^$important
 @@||bplmobile.com^$important
 @@||brasiltelecom.com.br^$important
+@@||brave-browser-apt-beta.s3.brave.com^$important
+@@||brave-browser-apt-nightly.s3.brave.com^$important
+@@||brave-browser-apt-release.s3.brave.com^$important
+@@||brave-browser-rpm-beta.s3.brave.com^$important
+@@||brave-browser-rpm-nightly.s3.brave.com^$important
+@@||brave-browser-rpm-release.s3.brave.com^$important
 @@||brave-core-ext.s3.brave.com^$important
 @@||breathingspace.scot^$important
 @@||brevo.com^$important
@@ -437,6 +447,10 @@
 @@||campaigns.health.gov.au^$important
 @@||canada.ca^$important
 @@||cancer.gov^$important
+@@||canonical-bos01.cdn.snapcraftcontent.com^$important
+@@||canonical-lcy01.cdn.snapcraftcontent.com^$important
+@@||canonical-lcy02.cdn.snapcraftcontent.com^$important
+@@||canonical-lgw01.cdn.snapcraftcontent.com^$important
 @@||caps.fujixerox.co.jp^$important
 @@||capsau.org^$important
 @@||captcha-delivery.com^$important
@@ -473,6 +487,8 @@
 @@||cdn.kde.org^$important
 @@||cdn.mullvad.net^$important
 @@||cdn.optimizely.com^$important
+@@||cdn.snapcraft.io^$important
+@@||cdn.snapcraftcontent.com^$important
 @@||cdn.statically.io^$important
 @@||cdn.vidible.tv^$important
 @@||cdn2.optimizely.com^$important
@@ -568,6 +584,7 @@
 @@||cinet.spcs^$important
 @@||cingular.com^$important
 @@||cipsc.coloriuris.net^$important
+@@||ciscobinary.openh264.org^$important
 @@||ciscocerts.cisco.com^$important
 @@||cisters.org.uk^$important
 @@||citicp.ocsp.identrust.com^$important
@@ -594,6 +611,7 @@
 @@||clients6.google.com^$important
 @@||cloud-images.ubuntu.com^$important
 @@||cloudflarechallenge.com^$important
+@@||cloudfront.cdn.snapcraftcontent.com^$important
 @@||cloudmesh.net^$important
 @@||cluster-ca.igc.education.fr^$important
 @@||cmail19.com^$important
@@ -638,6 +656,7 @@
 @@||contact.org.uk^$important
 @@||content-signature-2.cdn.mozilla.net^$important
 @@||content-signature-chains.prod.webservices.mozgcp.net^$important
+@@||contracts.canonical.com^$important
 @@||coop.it^$important
 @@||copr.fedorainfracloud.org^$important
 @@||coriolis.fr^$important
@@ -1086,11 +1105,13 @@
 @@||d2gatte9o95jao.cloudfront.net^$important
 @@||d2l.org^$important
 @@||dan247.org.uk^$important
+@@||dashboard.snapcraft.io^$important
 @@||data1.eronet.ba^$important
 @@||data2.eronet.ba^$important
 @@||dataplicity.com^$important
 @@||datawikim^$important
 @@||deb.debian.org^$important
+@@||deb.librewolf.net^$important
 @@||definitionupdates.microsoft.com.edgekey.net^$important
 @@||deheremws02.emea.adsint.biz^$important
 @@||delivery.vidible.tv^$important
@@ -1182,6 +1203,7 @@
 @@||download.kde.org^$important
 @@||download.lineageos.org^$important
 @@||download.mozilla.org^$important
+@@||download.opensuse.org^$important
 @@||download.rbn.com^$important
 @@||download.sonarr.tv^$important
 @@||downloaddispatch-cdn.itunes-apple.com.akadns.net^$important
@@ -1304,6 +1326,7 @@
 @@||era.pl^$important
 @@||erikson.edu^$important
 @@||eroskimovil.es^$important
+@@||esm.ubuntu.com^$important
 @@||eszigno.t-systems.magyartelekom.hu^$important
 @@||etc.com^$important
 @@||etisalat.ae^$important
@@ -1364,6 +1387,8 @@
 @@||familysupportni.gov.uk^$important
 @@||farbg.eu^$important
 @@||fast.metropcs.com^$important
+@@||fastly-global.cdn.snapcraftcontent.com^$important
+@@||fastly.cdn.snapcraftcontent.com^$important
 @@||fastweb.it^$important
 @@||fcsc.caritas.org.hk^$important
 @@||fdroid-repo.calyxinstitute.org^$important
@@ -1826,6 +1851,7 @@
 @@||lgbthealth.org.uk^$important
 @@||lgbthotline.org^$important
 @@||lgbtqindiaresource.in^$important
+@@||librewolf.net^$important
 @@||life.com.by^$important
 @@||lifeline.org.au^$important
 @@||lifeline.org.nz^$important
@@ -1838,6 +1864,8 @@
 @@||live.vodafone.com.fj^$important
 @@||live.vodafone.com^$important
 @@||livepassdl.conviva.com^$important
+@@||livepatch-files.canonical.com^$important
+@@||livepatch.canonical.com^$important
 @@||liveupdate01.asus.com^$important
 @@||livingautism.com^$important
 @@||livingfreefoundationph.com^$important
@@ -1846,6 +1874,7 @@
 @@||localbattle.net^$important
 @@||location.nexteldata.com.mx^$important
 @@||login.microsoftonline.com^$important
+@@||login.ubuntu.com^$important
 @@||login.wifigem.com^$important
 @@||loopmobile.in^$important
 @@||lovelife.org.za^$important
@@ -2781,6 +2810,8 @@
 @@||ovivomobile.com^$important
 @@||ovivomvno.com^$important
 @@||p01-swdownload.swu-apple.com.akadns.net^$important
+@@||packages.mozilla.org^$important
+@@||palemoon.org^$important
 @@||palliumindia.org^$important
 @@||pandapush-iad-prod.inscloudgate.net^$important
 @@||papyrus-uk.org^$important
@@ -2851,6 +2882,7 @@
 @@||psut.sledcom.ru^$important
 @@||pt.lu^$important
 @@||ptci.net^$important
+@@||public.apps.ubuntu.com^$important
 @@||pubsub.plex.bz^$important
 @@||pulsfoundation.org^$important
 @@||push-apple.com.akadns.net^$important
@@ -2901,8 +2933,11 @@
 @@||repeater.asus.com^$important
 @@||repo.iut.ac.ir^$important
 @@||repo.jing.rocks^$important
+@@||repo.librewolf.net^$important
 @@||repo.manjaro.org^$important
+@@||repo.vivaldi.com^$important
 @@||report.cybertip.org^$important
+@@||repository.mullvad.net^$important
 @@||repository.swisssign.com^$important
 @@||reprolegalhelpline.org^$important
 @@||res.cloudinary.com^$important
@@ -2921,6 +2956,7 @@
 @@||router.asus.com^$important
 @@||routerlogin.com^$important
 @@||routerlogin.net^$important
+@@||rpm.librewolf.net^$important
 @@||rpmfusion.org^$important
 @@||rsp.sysmocom.de^$important
 @@||rsp.truphone.com^$important
@@ -2980,12 +3016,14 @@
 @@||secure.brightcove.com^$important
 @@||secure.surveymonkey.com^$important
 @@||securenetsystems.net^$important
+@@||security.ubuntu.com^$important
 @@||sekis-berlin.de^$important
 @@||selfinjury.com^$important
 @@||selfinjurysupport.org.uk^$important
 @@||seniorline.org.nz^$important
 @@||seniors.gov.au^$important
 @@||sercomtel.com.br^$important
+@@||services.addons.mozilla.org^$important
 @@||services.glocalnet.se^$important
 @@||services.sonarr.tv^$important
 @@||services.telenor.se^$important
@@ -3019,6 +3057,7 @@
 @@||smdpp.test.rsp.sysmocom.de^$important
 @@||smile.world^$important
 @@||smokefree.gov^$important
+@@||snapcraftcontent.com^$important
 @@||snehaindia.org^$important
 @@||snehamumbai.org^$important
 @@||solavei.mmsmvno.com^$important
@@ -3056,6 +3095,7 @@
 @@||steppingstonesnorthwales.co.uk^$important
 @@||stop-nasilju.com^$important
 @@||stopitnow.org^$important
+@@||storage.snapcraftcontent.com^$important
 @@||store.nethunter.com^$important
 @@||su-applak.itunes-apple.com.akadns.net^$important
 @@||su-cdn.itunes-apple.com.akadns.net^$important
@@ -3249,6 +3289,7 @@
 @@||twimg.com^$important
 @@||ublockorigin.com^$important
 @@||ublockorigin.pages.dev^$important
+@@||ubuntu-mirror-3.ps6.canonical.com^$important
 @@||ufone.com^$important
 @@||ufone.mms^$important
 @@||ufone.pinternet^$important
@@ -3285,6 +3326,7 @@
 @@||updates.cdn-apple.com^$important
 @@||updates.g.aaplimg.com^$important
 @@||updates.mozilla.org^$important
+@@||upload.apps.ubuntu.com^$important
 @@||uqmobile.jp^$important
 @@||us-ne-courier-4.push-apple.com.akadns.net^$important
 @@||us-sandbox-courier-4.push-apple.com.akadns.net^$important
@@ -3307,6 +3349,7 @@
 @@||ventelomms.telia.se^$important
 @@||verbreekdestilte.nl^$important
 @@||verisign.com^$important
+@@||versioncheck-bg.addons.mozilla.org^$important
 @@||vertrouwenscentrum-kindermishandeling.be^$important
 @@||vetcenter.va.gov^$important
 @@||veterans.gc.ca^$important
