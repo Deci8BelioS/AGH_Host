@@ -25,31 +25,26 @@ def download_file(url):
         print(f"Error downloading '{url}': {e}")
         return []
 
+def clean_line(line):
+    line = line.strip()
+    line = re.sub(r'^(0\.0\.0\.0|127\.0\.0\.1)\s+', '', line)
+    line = re.sub(r'\b(?:\d{1,3}\.){3}\d{1,3}\b', '', line)
+    line = re.sub(r'##.*', '', line)
+    line = re.sub(r'#.*', '', line)
+    line = re.sub(r'www\.', '', line)
+    line = re.sub(r'\$.*$', '', line)
+    line = line.replace('http://', '').replace('https://', '').replace('@@||', '').replace('^', '').replace('@@|', '')
+    return line
+
 def line_filter(lines):
     valid_domains = set()
     for line in lines:
-        line = line.strip()
-        line = re.sub(r'^(0\.0\.0\.0|127\.0\.0\.1)\s+', '', line)
-        line = re.sub(r'\b(?:\d{1,3}\.){3}\d{1,3}\b', '', line)
-        line = re.sub(r'##.*', '', line)
-        line = re.sub(r'#.*', '', line)
-        line = re.sub(r'www\.', '', line)
-        line = re.sub(r'\$.*$', '', line)
-        line = line.replace('http://', '').replace('https://', '').replace('@@||', '').replace('^', '').replace('@@|', '')
+        line = clean_line(line)
         if line.startswith(tuple(l1n3)) or not line:
             continue
         if line.startswith(tuple(l1n3_2)) or not line:
             continue
-        if line.startswith(DOMAIN_WHITELIST3):
-            continue
-        if line.endswith(tuple(DOMAIN_WHITELIST)) and not line.startswith(tuple(DOMAIN_WHITELIST)) or not line:
-            continue
-        if line.endswith(tuple(DOMAIN_WHITELIST2)) and not line.startswith(tuple(DOMAIN_WHITELIST2)) or not line:
-            continue
-        if not line.startswith('||') and not line.startswith('@@') and not line.startswith('|') and not line.startswith('@@/') and not line.endswith('$important'):
-            line = f'@@||{line}^$important'
-        if line:
-            valid_domains.add(line.strip())
+        valid_domains.add(line.strip())
     return valid_domains
 
 def unfiltered_lines(lines):
@@ -58,8 +53,7 @@ def unfiltered_lines(lines):
         if line.startswith(tuple(l1n3)) or not line:
             continue
         line = line.strip()
-        if line:
-            valid_domains.add(line.strip())
+        valid_domains.add(line.strip())
     return valid_domains
 
 unified_content = set()
@@ -78,6 +72,14 @@ for url in unfiltered_urls:
 
 with open(output_file, 'w', encoding='utf-8') as f:
     for domain in sorted(unified_content):
+        if domain.startswith(DOMAIN_WHITELIST3):
+            continue
+        if domain.endswith(tuple(DOMAIN_WHITELIST)) and not domain.startswith(tuple(DOMAIN_WHITELIST)) or not domain:
+            continue
+        if domain.endswith(tuple(DOMAIN_WHITELIST2)) and not domain.startswith(tuple(DOMAIN_WHITELIST2)) or not domain:
+            continue
+        if not domain.startswith(('||', '@@', '|', '@@/', '/')) and not domain.endswith('$important'):
+            domain = f'@@||{domain}^$important'
         f.write(domain + '\n')
 
 print(f"File '{output_file}' generated successfully.")
