@@ -47,11 +47,6 @@ def filter_lines(lines):
 
 unified_content = set()
 
-file_exceptions = r"/home/runner/work/AGH_Host/AGH_Host/AGH/filters/whitelist/whitelist.txt"
-print(f"Reading from exception file: {file_exceptions}...\n")
-with open(file_exceptions, 'r', encoding='utf-8') as file:
-    exceptions = [line.strip() for line in file]
-
 urls = [
     'https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adblock/light.txt',
     'https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt',
@@ -76,7 +71,7 @@ with open(output_file, 'w', encoding='utf-8') as f:
             continue
         if domain.endswith(tuple(DOMAIN_LIST)) and not domain.startswith(tuple(DOMAIN_LIST)) or not domain:
             continue
-        if not domain.startswith('||') and not domain.startswith('@@') and not domain.startswith('|') and not domain.startswith('<') and not domain.endswith('^'):
+        if not domain.startswith(('||', '@@', '|', '<')) and not domain.endswith('^'):
             domain = f'||{domain}^'
         f.write(f"{domain}\n")
 
