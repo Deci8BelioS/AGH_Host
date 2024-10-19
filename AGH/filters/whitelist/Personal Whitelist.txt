@@ -51,15 +51,11 @@
 @@||netflixmirror.com^
 @@||oraclecloud.com^
 @@||eset.com^
-@@||elamigos-games.net^
 @@||mparticle.com^
 @@||cookielaw.org^
 @@||mmcdn.com^
 @@||azure.com^
 @@||nickchan.lol^
 @@||t.co^
-@@||ddnsfree.com^
-@@||duckdns.org^
-@@||dynu.com^
 @@||microsoft.com^
 #@@||apple.com^
