@@ -4,20 +4,23 @@
 [**Inglés**](README.md)
 
 </div>
-Filtros unificados optimizados para su uso en Adguard home.
 
-* [**Haz click aquí para copiar la url del archivo HOST**](https://raw.githubusercontent.com/Deci8BelioS/AGH_Host/refs/heads/main/AGH/hosts.txt)
-  
-    (100k+ de filtros, eliminando subdominios si en las listas originales aparecen para bloquear el dominio principal)
+## Filtros unificados optimizados para su uso en Adguard home.
 
-Se recomienda el uso de los siguientes filtros para complementar el archivo HOST
+| Enlaces | Descripción | 
+| -- | -- |
+| [**Enlace sin procesar a AGH_Host**](https://raw.githubusercontent.com/Deci8BelioS/AGH_Host/refs/heads/main/AGH/hosts.txt) | (100k+ de filtros, eliminando subdominios si en las listas originales aparecen para bloquear el dominio principal) |
+| [**Enlace sin procesar a AGH_Host+**](https://raw.githubusercontent.com/Deci8BelioS/AGH_Host/refs/heads/main/AGH/AGH_Host%2B.txt) | (200k+ de filtros, eliminando subdominios si en las listas originales aparecen para bloquear el dominio principal) |
+
+
+# Se recomienda el uso de los siguientes filtros para complementar el archivo AGH_Host o AGH_Host+
 | Blocklist | Whitelist | 
 | -- | -- |
 | [**AGH_Host - Regex Blocklist**](https://raw.githubusercontent.com/Deci8BelioS/AGH_Host/refs/heads/main/AGH/filters/blocklist/Regex%20Blocklist.txt) | [**AGH_Host - Custom Whitelist**](https://raw.githubusercontent.com/Deci8BelioS/AGH_Host/refs/heads/main/AGH/filters/whitelist/Custom%20Whitelist.txt) |
 | [**AGH_Host - Custom Blocklist**](https://raw.githubusercontent.com/Deci8BelioS/AGH_Host/refs/heads/main/AGH/filters/blocklist/Custom%20Blocklist.txt) | [**AGH_Host - Whitelist**](https://raw.githubusercontent.com/Deci8BelioS/AGH_Host/refs/heads/main/AGH/filters/whitelist/whitelist.txt) |
 | [**swetoast - adguardhome-lists "REGEX"**](https://raw.githubusercontent.com/swetoast/adguardhome-lists/refs/heads/main/blacklist.txt) |
 
-## AVISO: Esta lista de filtros ha sido creada especificamente para Adguard Home
+# AVISO: Esta lista de filtros ha sido creada especificamente para Adguard Home
 
 Esta lista está siendo probada en los siguientes S.O, routers y software
 
