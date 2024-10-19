@@ -28,10 +28,13 @@ This list is being tested on the following O.S., routers and software
 
 ## Filters on which this list is based:
 
-* [**HaGeZi's Light DNS Blocklist**](https://github.com/hagezi/dns-blocklists)
+* [**HaGeZi's Blocklist**](https://github.com/hagezi/dns-blocklists)
 * [**AdGuardSDNSFilter**](https://github.com/AdguardTeam/AdGuardSDNSFilter)
 * [**yoyo filters**](https://pgl.yoyo.org/)
 * [**scamblocklist**](https://github.com/durablenapkin/scamblocklist/)
 * [**malware-filter**](https://gitlab.com/malware-filter/phishing-filter)
 * [**oisd filters**](https://github.com/sjhgvr/oisd/)
 * [**StevenBlack filters**](https://github.com/StevenBlack/hosts)
+* [**uBlockOrigin uAssets**](https://github.com/uBlockOrigin/uAssets/)
+* [**ShadowWhisperer filters**](https://github.com/ShadowWhisperer/BlockLists/)
+* [**hoshsadiq nocoin filters**](https://github.com/hoshsadiq/adblock-nocoin-list)
