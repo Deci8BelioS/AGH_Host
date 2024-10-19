@@ -1,6 +1,5 @@
 @@||rain-alarm.com^
 @@||activision.com^
-@@||xyz^
 @@||chomikuj.pl^
 @@||firebasedynamiclinks.googleapis.com^
 @@||epic.download^
@@ -56,6 +55,3 @@
 @@||mmcdn.com^
 @@||azure.com^
 @@||nickchan.lol^
-@@||t.co^
-@@||microsoft.com^
-#@@||apple.com^
