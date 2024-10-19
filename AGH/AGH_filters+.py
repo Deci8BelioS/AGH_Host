@@ -56,7 +56,6 @@ urls = [
     r'https://raw.githubusercontent.com/sjhgvr/oisd/refs/heads/main/oisd_big.txt',
     r'https://raw.githubusercontent.com/StevenBlack/hosts/refs/heads/master/hosts',
     r'https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Malware',
-    r'https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/badware.txt',
     r'https://malware-filter.gitlab.io/malware-filter/urlhaus-filter-agh.txt',
     r'https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/dyndns.txt',
     r'https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/hoster.txt',
