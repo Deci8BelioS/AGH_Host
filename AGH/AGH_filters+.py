@@ -48,20 +48,21 @@ def filter_lines(lines):
 unified_content = set()
 
 urls = [
-    r'https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adblock/light.txt',
-    r'https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt',
-    r'https://pgl.yoyo.org/adservers/serverlist.php?hostformat=adblockplus&mimetype=plaintext',
-    r'https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/adguard.txt',
-    r'https://malware-filter.gitlab.io/malware-filter/phishing-filter-agh.txt',
-    r'https://raw.githubusercontent.com/sjhgvr/oisd/refs/heads/main/oisd_big.txt',
-    r'https://raw.githubusercontent.com/StevenBlack/hosts/refs/heads/master/hosts',
-    r'https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Malware',
-    r'https://malware-filter.gitlab.io/malware-filter/urlhaus-filter-agh.txt',
-    r'https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/dyndns.txt',
-    r'https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/hoster.txt',
-    r'https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/doh-vpn-proxy-bypass.txt',
-    r'https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/spam-tlds.txt',
-    r'https://raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/master/hosts.txt'
+    'https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adblock/light.txt',
+    'https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt',
+    'https://pgl.yoyo.org/adservers/serverlist.php?hostformat=adblockplus&mimetype=plaintext',
+    'https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/adguard.txt',
+    'https://malware-filter.gitlab.io/malware-filter/phishing-filter-agh.txt',
+    'https://raw.githubusercontent.com/sjhgvr/oisd/refs/heads/main/oisd_big.txt',
+    'https://raw.githubusercontent.com/StevenBlack/hosts/refs/heads/master/hosts',
+    'https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Malware',
+    'https://malware-filter.gitlab.io/malware-filter/urlhaus-filter-agh.txt',
+    'https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/dyndns.txt',
+    'https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/hoster.txt',
+    'https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/doh-vpn-proxy-bypass.txt',
+    'https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/spam-tlds.txt',
+    'https://raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/master/hosts.txt',
+    'https://o0.pages.dev/Lite/adblock.txt'
 ]
 
 for url in urls:
