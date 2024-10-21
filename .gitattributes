@@ -1,1 +1,5 @@
-*.txt linguist-language=AdBlock linguist-detectable
+# Format
+/hosts/*.txt linguist-language=hosts linguist-detectable
+
+# Auto detect text files and perform LF normalization
+* text=auto eol=lf
