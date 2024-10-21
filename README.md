@@ -27,7 +27,7 @@ This list is being tested on the following O.S., routers and software
 | OpenWrt 23.05.5 | Xiaomi Redmi Router AX6S/AX3200 | AdGuard Home v0.107.53 |
 
 ## Filters on which this list is based:
-
+* [**1Hosts (Lite)**](https://github.com/badmojr/1Hosts)
 * [**HaGeZi's Blocklist**](https://github.com/hagezi/dns-blocklists)
 * [**AdGuardSDNSFilter**](https://github.com/AdguardTeam/AdGuardSDNSFilter)
 * [**yoyo filters**](https://pgl.yoyo.org/)
