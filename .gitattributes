@@ -1,5 +1,12 @@
 # Format
-/hosts/*.txt linguist-language=hosts linguist-detectable
+AGH_Host+.txt linguist-language=hosts linguist-detectable
+hosts.txt linguist-language=hosts linguist-detectable
+"Custom Blocklist.txt" linguist-language=hosts linguist-detectable
+"Personal Blocklist.txt" linguist-language=hosts linguist-detectable
+"Regex Blocklist.txt" linguist-language=regex linguist-detectable
+"Custom Whitelist.txt" linguist-language=hosts linguist-detectable
+"Personal Whitelist.txt" linguist-language=hosts linguist-detectable
+whitelist.txt linguist-language=hosts linguist-detectable
 
 # Auto detect text files and perform LF normalization
 * text=auto eol=lf
