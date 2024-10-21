@@ -30,6 +30,7 @@ Esta lista está siendo probada en los siguientes S.O, routers y software
 
 ## Filtros en los que se ha basado esta lista:
 
+* [**1Hosts (Lite)**](https://github.com/badmojr/1Hosts)
 * [**HaGeZi's Blocklist**](https://github.com/hagezi/dns-blocklists)
 * [**AdGuardSDNSFilter**](https://github.com/AdguardTeam/AdGuardSDNSFilter)
 * [**yoyo filters**](https://pgl.yoyo.org/)
