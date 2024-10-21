@@ -62,7 +62,7 @@ urls = [
     'https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/doh-vpn-proxy-bypass.txt',
     'https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/spam-tlds.txt',
     'https://raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/master/hosts.txt',
-    'https://o0.pages.dev/Lite/adblock.txt'
+    'https://raw.githubusercontent.com/badmojr/1Hosts/master/Lite/adblock.txt'
 ]
 
 for url in urls:
