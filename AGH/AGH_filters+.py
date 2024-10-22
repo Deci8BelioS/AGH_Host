@@ -45,24 +45,6 @@ def filter_lines(lines):
             normal_domains.add(line.strip())
     return normal_domains
 
-def filter_domains_with_subdomains(lines, export_domains):
-    domain_pattern = r'([a-zA-Z0-9-]+\.[a-zA-Z]{2,8})$'
-    subdomain_pattern = r'([a-zA-Z0-9-]+\.[a-zA-Z0-9-]+\.[a-zA-Z]{2,8})$'
-    main_domains = set()
-    domains_with_subdomains = set()
-    for line in lines:
-        line = line.strip()
-        domain_match = re.match(domain_pattern, line)
-        subdomain_match = re.match(subdomain_pattern, line)
-        if domain_match:
-            main_domain = domain_match.group(1)
-            main_domains.add(main_domain)
-        elif subdomain_match:
-            subdomain = subdomain_match.group(1)
-            main_domain = ".".join(subdomain.split(".")[-2:])
-            domains_with_subdomains.add(main_domain)
-    export_domains.update(main_domains.intersection(domains_with_subdomains))
-
 unified_content = set()
 
 urls = [
@@ -89,9 +71,6 @@ for url in urls:
     filtered_domains = filter_lines(lines)
     unified_content.update(filtered_domains)
 
-export_domains = set()
-filter_domains_with_subdomains(unified_content, export_domains)
-
 with open(output_file, 'w', encoding='utf-8') as f:
     for domain in sorted(unified_content):
         if any(pattern.search(domain) for pattern in REGEX) or not domain:
@@ -99,8 +78,6 @@ with open(output_file, 'w', encoding='utf-8') as f:
         if domain.endswith(tuple(LIST_WHITELIST)) or not domain:
             continue
         if domain.endswith(tuple(DOMAIN_LIST)) and not domain.startswith(tuple(DOMAIN_LIST)) or not domain:
-            continue
-        if domain.endswith(tuple(export_domains)) and not domain.startswith(tuple(export_domains)) or not domain:
             continue
         if not domain.startswith(('||', '@@', '|', '<')) and not domain.endswith('^'):
             domain = f'||{domain}^'
