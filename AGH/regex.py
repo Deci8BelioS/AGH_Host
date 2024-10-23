@@ -37,6 +37,19 @@ SUBDOMAIN_PATTERNS = {
     "metric.": "*",
     "olx-": "*.*",
     "olx.": "*",
+    "xn--": "*.*",
+    "news-": "*.*",
+    "news.": "*",
+    "newcp.": "*",
+    "newcpp.": "*",
+    "oascentral.": "*",
+    "tr.": "*",
+    "trk.": "*",
+    "a8.": "*",
+    "a8clk.": "*",
+    "a8cv.": "*",
+    "mobileoffers-": "*.*",
+    "mon-": "*.*",
     "mdp-appconf-": "*.*"
 }
 
