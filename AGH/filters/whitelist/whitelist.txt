@@ -217,8 +217,11 @@
 @@||alpha.gnu.org^$important
 @@||alpine.northrepo.ca^$important
 @@||alt1-mtalk.google.com^$important
+@@||alt1-safebrowsing.google.com^$important
 @@||alt2-mtalk.google.com^$important
+@@||alt2-safebrowsing.google.com^$important
 @@||alt3-mtalk.google.com^$important
+@@||alt3-safebrowsing.google.com^$important
 @@||alt4-mtalk.google.com^$important
 @@||alt5-mtalk.google.com^$important
 @@||alt6-mtalk.google.com^$important
@@ -276,6 +279,7 @@
 @@||apt.sonarr.tv^$important
 @@||archive.mozilla.org^$important
 @@||archive.raspbian.org^$important
+@@||archive.ubuntu.com^$important
 @@||arcor.easybox^$important
 @@||ardsi.org^$important
 @@||areyouok.org.nz^$important
@@ -464,6 +468,10 @@
 @@||carersupport.org.au^$important
 @@||carrefourdata.be^$important
 @@||carrefourmms.be^$important
+@@||carrierbundle-cdn.itunes-apple.com.akadns.net^$important
+@@||carrierbundle.itunes-apple.com.akadns.net^$important
+@@||carrierbundle.itunes.apple.com^$important
+@@||carrierbundle.itunes.apple.com.edgesuite.net^$important
 @@||cat3g.com^$important
 @@||catch.net.tw^$important
 @@||cavaria.be^$important
@@ -483,6 +491,8 @@
 @@||cdn.d-trust-cloudcrl.net^$important
 @@||cdn.embedly.com^$important
 @@||cdn.fwupd.org^$important
+@@||cdn.globalsigncdn.com^$important
+@@||cdn.globalsigncdn.com.cdn.cloudflare.net^$important
 @@||cdn.intertek.com^$important
 @@||cdn.kde.org^$important
 @@||cdn.mullvad.net^$important
@@ -1480,6 +1490,8 @@
 @@||gdcrl.gi-de.com^$important
 @@||gdir.is-energy.de^$important
 @@||gdl.repository.ssc.lt^$important
+@@||gdmf-ados.apple.com^$important
+@@||gdmf-ados.v.aaplimg.com^$important
 @@||gdmf.apple.com^$important
 @@||gdmf.v.aaplimg.com^$important
 @@||gdtsrv01.guidant.com^$important
@@ -1506,6 +1518,8 @@
 @@||github.io^$important
 @@||giveusashout.org^$important
 @@||globalsign.com^$important
+@@||globalsigncdn.com^$important
+@@||globalsigncdn.com.cdn.cloudflare.net^$important
 @@||globe.com.ph^$important
 @@||gloworld.com^$important
 @@||go-updater.brave.com^$important
@@ -1785,6 +1799,7 @@
 @@||iot1.com^$important
 @@||ip.primetel^$important
 @@||ip.videotron.ca^$important
+@@||iphonediags.apple.com^$important
 @@||iskambebe.bg^$important
 @@||iskorak.hr^$important
 @@||isp.cellularoneaz.net^$important
@@ -2869,15 +2884,19 @@
 @@||powa.co.za^$important
 @@||ppmms1.btcbahamas.com^$important
 @@||ppnet.apuapcs.ag^$important
+@@||ppq-ext.v.aaplimg.com^$important
+@@||ppq.apple.com^$important
 @@||prepago.ancel^$important
 @@||prepay.tesco-mobile.com^$important
 @@||pricelist.skype.com^$important
 @@||primgw.vowifi2.spcsdns.net^$important
 @@||private.centennialwireless.com^$important
+@@||proget.makedeb.org^$important
 @@||protonapps.com^$important
 @@||proximus.be^$important
 @@||proxy.aiowireless.net^$important
 @@||proxy.plex.bz^$important
+@@||proxy.safebrowsing.apple^$important
 @@||proxy02.pop.ord.plex.bz^$important
 @@||psi.mchs.gov.ru^$important
 @@||psut.sledcom.ru^$important
@@ -2893,6 +2912,7 @@
 @@||pxt.vodafone.net.au^$important
 @@||pxt.vodafone.net.fj^$important
 @@||q-mms.myq.gr^$important
+@@||qa2-int-swscan.apple.com^$important
 @@||qbmore.mobi^$important
 @@||qlife.org.au^$important
 @@||quam.com.ar^$important
@@ -2973,9 +2993,11 @@
 @@||safebaby.org^$important
 @@||safebrowsing-proxy.g.aaplimg.com^$important
 @@||safebrowsing.apple^$important
+@@||safebrowsing.apple.com^$important
 @@||safebrowsing.brave.com^$important
 @@||safebrowsing.brave.software^$important
 @@||safebrowsing.bravesoftware.com^$important
+@@||safebrowsing.clients.google.com^$important
 @@||safebrowsing.google.com^$important
 @@||safebrowsing2.brave.com^$important
 @@||safebrowsing2.brave.software^$important
@@ -3006,6 +3028,8 @@
 @@||sb-ssl.brave.com^$important
 @@||sb-ssl.brave.software^$important
 @@||sb-ssl.bravesoftware.com^$important
+@@||sb-ssl.google.com^$important
+@@||sb-ssl.l.google.com^$important
 @@||sbhk.org.hk^$important
 @@||sbux.co^$important
 @@||scomo.tmh-gprs.se^$important
@@ -3086,6 +3110,7 @@
 @@||sps.org.hk^$important
 @@||sptime.se^$important
 @@||ssl.p.jwpcdn.com^$important
+@@||st11p01su-swcdnlocator.swu-apple.com.akadns.net^$important
 @@||standffov.org^$important
 @@||starfieldtech.com^$important
 @@||starhubgee.com.sg^$important
@@ -3112,6 +3137,8 @@
 @@||surfmail.com^$important
 @@||swcdn.apple.com^$important
 @@||swcdn.g.aaplimg.com^$important
+@@||swcdnlocator.apple.com^$important
+@@||swcdnlocator.swu-apple.com.akadns.net^$important
 @@||swdist.apple.com^$important
 @@||swdist.apple.com.akadns.net^$important
 @@||swdist.apple.com.edgekey.net^$important
@@ -3230,9 +3257,13 @@
 @@||tim.br^$important
 @@||tim.it^$important
 @@||timbrasil.br^$important
+@@||time-ios.apple.com^$important
+@@||time-ios.g.aaplimg.com^$important
+@@||time-macos.apple.com^$important
 @@||time-osx.g.aaplimg.com^$important
 @@||time.android.com^$important
 @@||time.apple.com^$important
+@@||time.asia.apple.com^$important
 @@||time.euro.apple.com^$important
 @@||time.g.aaplimg.com^$important
 @@||time.google.com^$important
@@ -3250,6 +3281,8 @@
 @@||tiscali.mobi^$important
 @@||tma.vvm.mone.pan-net.eu^$important
 @@||tmovil.cl^$important
+@@||token.safebrowsing.apple^$important
+@@||token.safebrowsing.apple.com^$important
 @@||tor.bravesoftware.com^$important
 @@||tot3g.net^$important
 @@||tplinkap.net^$important
@@ -3331,8 +3364,11 @@
 @@||uqmobile.jp^$important
 @@||us-ne-courier-4.push-apple.com.akadns.net^$important
 @@||us-sandbox-courier-4.push-apple.com.akadns.net^$important
+@@||us.archive.ubuntu.com^$important
 @@||uscc.net^$important
 @@||usccims.com^$important
+@@||use1-ppq-ext-prod.apple.com^$important
+@@||use1-wps-prod.apple.com^$important
 @@||usertrust.com^$important
 @@||uvm.mmsmvno.com^$important
 @@||uwap.orange.co.il^$important
@@ -3569,6 +3605,8 @@
 @@||womensaid.ie^$important
 @@||womensrefuge.org.nz^$important
 @@||wosign.com^$important
+@@||wps.apple.com^$important
+@@||wps.v.aaplimg.com^$important
 @@||wroaming.lguplus.co.kr^$important
 @@||ws.audioscrobbler.com^$important
 @@||www1.defence.gov.au^$important
