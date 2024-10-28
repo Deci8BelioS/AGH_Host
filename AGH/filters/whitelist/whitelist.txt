@@ -487,6 +487,7 @@
 @@||ccsa.ca^$important
 @@||cdimage.debian.org^$important
 @@||cdimage.ubuntu.com^$important
+@@||cdn.altstore.io^$important
 @@||cdn.cloudflare.net^$important
 @@||cdn.d-trust-cloudcrl.net^$important
 @@||cdn.embedly.com^$important
@@ -2704,6 +2705,9 @@
 @@||ns2.dropbox.com^$important
 @@||nshealth.ca^$important
 @@||nspcc.org.uk^$important
+@@||nsu.lge.com^$important
+@@||nsu.lge.com.usgcac.cdnetworks.net^$important
+@@||nsu.lge.com.wtxcdn.com^$important
 @@||ntcp.nhp.gov.in^$important
 @@||ntelospcs.net^$important
 @@||ntp.netnod.se^$important
@@ -3085,6 +3089,8 @@
 @@||snapcraftcontent.com^$important
 @@||snehaindia.org^$important
 @@||snehamumbai.org^$important
+@@||snu-dev.lge.com^$important
+@@||snu.lge.com^$important
 @@||solavei.mmsmvno.com^$important
 @@||sonera.fi^$important
 @@||song.fi^$important
@@ -3125,8 +3131,12 @@
 @@||store.nethunter.com^$important
 @@||su-applak.itunes-apple.com.akadns.net^$important
 @@||su-cdn.itunes-apple.com.akadns.net^$important
+@@||su-ssl.lge.com^$important
+@@||su-ssl.lge.com.edgekey.net^$important
 @@||su.itunes.apple.com^$important
 @@||su.itunes.apple.com.edgekey.net^$important
+@@||su.lge.com^$important
+@@||su.lge.com.edgesuite.net^$important
 @@||suchtundwendepunkt.de^$important
 @@||suicidecallbackservice.org.au^$important
 @@||suicideprevention.ca^$important
