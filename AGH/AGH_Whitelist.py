@@ -3,7 +3,7 @@ import requests, re
 from regex import DOMAIN_WHITELIST, DOMAIN_WHITELIST2, DOMAIN_WHITELIST3
 
 urls = [
-    'https://raw.githubusercontent.com/celenityy/BadBlock/refs/heads/main/wildcards-no-star/whitelist.txt',
+    'https://raw.githubusercontent.com/celenityy/BadBlock/pages/wildcards-no-star/whitelist.txt',
     'https://raw.githubusercontent.com/anudeepND/whitelist/master/domains/whitelist.txt'
 ]
 
