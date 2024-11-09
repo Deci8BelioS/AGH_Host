@@ -1,7 +1,7 @@
 name: Build Filters AGH
 
 on:
-  schedule: [{cron: "0 */4 * * *"}]
+  schedule: [{cron: "0 */6 * * *"}]
   workflow_dispatch:
 
 concurrency:
