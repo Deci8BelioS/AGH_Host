@@ -1221,6 +1221,7 @@
 @@||downloaddispatch-cdn.itunes-apple.com.akadns.net^$important
 @@||downloaddispatch.itunes.apple.com^$important
 @@||downloaddispatch.itunes.apple.com.edgesuite.net^$important
+@@||downloads.dell.com^$important
 @@||dream.jp^$important
 @@||drei.at^$important
 @@||drift.com^$important
