@@ -286,6 +286,7 @@
 @@||argentina.gob.ar^$important
 @@||arkoselabs.com^$important
 @@||arkoselabs.com.cdn.cloudflare.net^$important
+@@||arkoselabs.roblox.com^$important
 @@||aspnetcdn.com^$important
 @@||aster.internet^$important
 @@||aster.mms^$important
@@ -613,6 +614,9 @@
 @@||classic.ocsp.dhimyotis.com^$important
 @@||cleartalk.csky.us^$important
 @@||client-abc.adamuser.app^$important
+@@||client-update.akamai.steamstatic.com^$important
+@@||client-update.fastly.steamstatic.com^$important
+@@||client-update.steamstatic.com^$important
 @@||clientconfig.passport.net^$important
 @@||clients1.google.com^$important
 @@||clients2.google.com^$important
@@ -2961,6 +2965,7 @@
 @@||repo.jing.rocks^$important
 @@||repo.librewolf.net^$important
 @@||repo.manjaro.org^$important
+@@||repo.steampowered.com^$important
 @@||repo.vivaldi.com^$important
 @@||report.cybertip.org^$important
 @@||repository.mullvad.net^$important
@@ -3124,6 +3129,7 @@
 @@||starthealing.org^$important
 @@||startssl.com^$important
 @@||static.pib.gov.in^$important
+@@||steamcdn-a.akamaihd.net^$important
 @@||steamloopback.host^$important
 @@||steppingstonesnorthwales.co.uk^$important
 @@||stop-nasilju.com^$important
