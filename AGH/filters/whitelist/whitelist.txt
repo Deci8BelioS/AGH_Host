@@ -351,6 +351,7 @@
 @@||bhmobile.ba^$important
 @@||biglobe.jp^$important
 @@||bilitis.org^$important
+@@||bin.entware.net^$important
 @@||biz.immix.com^$important
 @@||blackyouth.ca^$important
 @@||blijfgroep.nl^$important
@@ -1200,6 +1201,7 @@
 @@||dl.flathub.org^$important
 @@||dl.google.com^$important
 @@||dl.vanadium.app^$important
+@@||dlcdnets.asus.com^$important
 @@||dm.jplat.net^$important
 @@||dmm.com^$important
 @@||dna.fi^$important
@@ -1434,6 +1436,7 @@
 @@||foma01.wi-gate.net^$important
 @@||fonts.gstatic.com^$important
 @@||foobar.turbo.net.id^$important
+@@||formulae.brew.sh^$important
 @@||forums.sonarr.tv^$important
 @@||foundation.abs-cbn.com^$important
 @@||fp.com.attz^$important
@@ -1470,6 +1473,7 @@
 @@||ftpmirror1.infania.net^$important
 @@||ftpmirror2.infania.net^$important
 @@||fundatiasensiblu.ro^$important
+@@||fwupdate.asuswrt-merlin.net^$important
 @@||fxcapb.ocsp.secomtrust.net^$important
 @@||g2ocsp.managedpki.com^$important
 @@||g3ocsp.managedpki.com^$important
@@ -1805,7 +1809,9 @@
 @@||iot1.com^$important
 @@||ip.primetel^$important
 @@||ip.videotron.ca^$important
+@@||ipdeny.com^$important
 @@||iphonediags.apple.com^$important
+@@||iplists.firehol.org^$important
 @@||iskambebe.bg^$important
 @@||iskorak.hr^$important
 @@||isp.cellularoneaz.net^$important
@@ -2985,6 +2991,8 @@
 @@||rogers-core-appl1.apn^$important
 @@||roshan.af^$important
 @@||router.asus.com^$important
+@@||routerahs.asus.com^$important
+@@||routerfeedback.asus.com^$important
 @@||routerlogin.com^$important
 @@||routerlogin.net^$important
 @@||rpm.librewolf.net^$important
@@ -3136,6 +3144,7 @@
 @@||stopitnow.org^$important
 @@||storage.snapcraftcontent.com^$important
 @@||store.nethunter.com^$important
+@@||stun.services.mozilla.com^$important
 @@||su-applak.itunes-apple.com.akadns.net^$important
 @@||su-cdn.itunes-apple.com.akadns.net^$important
 @@||su-ssl.lge.com^$important
