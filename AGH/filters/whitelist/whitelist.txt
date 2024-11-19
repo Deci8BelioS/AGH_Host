@@ -91,6 +91,7 @@
 @@||2.android.pool.ntp.org^$important
 @@||2.ca.tian.science^$important
 @@||2048crl.lawtrust.co.za^$important
+@@||280blocker.net^$important
 @@||2degreesmobile.net.nz^$important
 @@||2shine.nz^$important
 @@||2shine.org.nz^$important
@@ -133,6 +134,7 @@
 @@||abitabov.crl.certum.pl^$important
 @@||abitabov.ocsp-certum.com^$important
 @@||ablink.account.quizlet.com^$important
+@@||abpvn.com^$important
 @@||ac.economia.gob.mx^$important
 @@||ac.siger.gob.mx^$important
 @@||aca-ocsp.disig.sk^$important
@@ -156,6 +158,7 @@
 @@||action.wataniya.com^$important
 @@||active.bhmobile.ba^$important
 @@||adaway.org^$important
+@@||adblock.ee^$important
 @@||addiss.co.uk^$important
 @@||addons.allizom.org^$important
 @@||addons.mozilla.org^$important
@@ -320,7 +323,9 @@
 @@||b.ica.cz^$important
 @@||ba.amx^$important
 @@||babe.hr^$important
+@@||badblock.celenity.codeberg.page^$important
 @@||badblock.celenity.dev^$important
+@@||badmojr.gitlab.io^$important
 @@||bahnhofab.tmhgprs^$important
 @@||bahnhofab.tmhmms^$important
 @@||bahnhoflda.tmhgprs^$important
@@ -349,14 +354,17 @@
 @@||bfotoronto.ca^$important
 @@||bghelsinki.org^$important
 @@||bhmobile.ba^$important
+@@||big.oisd.nl^$important
 @@||biglobe.jp^$important
 @@||bilitis.org^$important
 @@||bin.entware.net^$important
 @@||biz.immix.com^$important
+@@||blacklist.3coresec.net^$important
 @@||blackyouth.ca^$important
 @@||blijfgroep.nl^$important
 @@||blocked.cdn.mozilla.net^$important
 @@||blocklist.addons.mozilla.org^$important
+@@||blocklist.de^$important
 @@||blocklists.settings.services.mozilla.com^$important
 @@||blueunlimited.com^$important
 @@||bmobile.com.bn^$important
@@ -497,6 +505,7 @@
 @@||cdn.globalsigncdn.com^$important
 @@||cdn.globalsigncdn.com.cdn.cloudflare.net^$important
 @@||cdn.intertek.com^$important
+@@||cdn.jsdelivr.net^$important
 @@||cdn.kde.org^$important
 @@||cdn.mullvad.net^$important
 @@||cdn.optimizely.com^$important
@@ -596,6 +605,7 @@
 @@||childwelfaresa.org.za^$important
 @@||cinet.spcs^$important
 @@||cingular.com^$important
+@@||cinsscore.com^$important
 @@||cipsc.coloriuris.net^$important
 @@||ciscobinary.openh264.org^$important
 @@||ciscocerts.cisco.com^$important
@@ -1188,6 +1198,7 @@
 @@||display.ugc.bazaarvoice.com^$important
 @@||dist.torproject.org^$important
 @@||ditekrize.cz^$important
+@@||diversion.ch^$important
 @@||divest.zw.is^$important
 @@||divested.dev^$important
 @@||divestos.org^$important
@@ -1269,6 +1280,8 @@
 @@||e911.mobilefrdm.ca^$important
 @@||eapu.com.au^$important
 @@||easy.box^$important
+@@||easylist-downloads.adblockplus.org^$important
+@@||easylist.to^$important
 @@||eating-disorders.org.uk^$important
 @@||ebouygtel.com^$important
 @@||ec2pki.multicert.com^$important
@@ -1416,9 +1429,12 @@
 @@||fe.csp.multicertify.com^$important
 @@||feddcsweb.managed.entrust.com^$important
 @@||fedir.comsign.co.il^$important
+@@||feodotracker.abuse.ch^$important
 @@||fi.omv.es^$important
 @@||fido.ca^$important
 @@||fier.nl^$important
+@@||filterlists.com^$important
+@@||filters.adtidy.org^$important
 @@||fire.walla^$important
 @@||firefox-settings-attachments.cdn.mozilla.net^$important
 @@||firefox.settings.services.mozilla.com^$important
@@ -1525,6 +1541,7 @@
 @@||gisca.ocsp-certum.com^$important
 @@||gisca.ocsp.certum.pl^$important
 @@||github.com^$important
+@@||github.developerdan.com^$important
 @@||github.io^$important
 @@||giveusashout.org^$important
 @@||globalsign.com^$important
@@ -1589,6 +1606,7 @@
 @@||haloproject.org.uk^$important
 @@||harmonyhousehk.org^$important
 @@||hawkeyeswitch.net^$important
+@@||hblock.molinero.dev^$important
 @@||hcaptcha.com^$important
 @@||hdgender.eu^$important
 @@||headspace.org.au^$important
@@ -1610,10 +1628,13 @@
 @@||hk.chinamobile.com^$important
 @@||hkcsl.com^$important
 @@||hls.ted.com^$important
+@@||hmirror.molinero.dev^$important
 @@||home.beeline.ru^$important
 @@||homerouter.cpe^$important
 @@||hopeforwellness.ca^$important
 @@||hospicefoundation.ie^$important
+@@||hostfiles.frogeye.fr^$important
+@@||hostsfile.org^$important
 @@||hotmobile.co.il^$important
 @@||hrabritelefon.hr^$important
 @@||htgprs.hr^$important
@@ -1929,6 +1950,8 @@
 @@||m.numericable.fr^$important
 @@||mahilabol.org^$important
 @@||maingate.telia.se^$important
+@@||malware-filter.gitlab.io^$important
+@@||malware-filter.pages.dev^$important
 @@||manifest.googlevideo.com^$important
 @@||mankind.org.uk^$important
 @@||manntalks.org^$important
@@ -2714,6 +2737,8 @@
 @@||ns.itunes.apple.com^$important
 @@||ns1.dropbox.com^$important
 @@||ns2.dropbox.com^$important
+@@||nsfw-small.oisd.nl^$important
+@@||nsfw.oisd.nl^$important
 @@||nshealth.ca^$important
 @@||nspcc.org.uk^$important
 @@||nsu.lge.com^$important
@@ -2735,6 +2760,7 @@
 @@||nwmobility.com^$important
 @@||nwn.no^$important
 @@||o.pki.goog^$important
+@@||o0.pages.dev^$important
 @@||o2.co.uk^$important
 @@||o2active.cz^$important
 @@||o2world.sk^$important
@@ -2784,6 +2810,7 @@
 @@||office.vodafone.nl^$important
 @@||office365.com^$important
 @@||ofnew.fr^$important
+@@||oisd.nl^$important
 @@||oister.dk^$important
 @@||ola.com.co^$important
 @@||old-releases.ubuntu.com^$important
@@ -2831,6 +2858,7 @@
 @@||oscdn.apple.com^$important
 @@||oscdn.apple.com.edgesuite.net^$important
 @@||oscdn.origin-apple.com.akadns.net^$important
+@@||osint.digitalside.it^$important
 @@||osrecovery.apple.com^$important
 @@||osrecovery.swu-apple.com.akadns.net^$important
 @@||ota-internal.nvidia.com^$important
@@ -2861,6 +2889,8 @@
 @@||pflagcanada.ca^$important
 @@||pgl.yoyo.org^$important
 @@||pgsm.hu^$important
+@@||phishing-filter.pages.dev^$important
+@@||phishing.army^$important
 @@||phoenix.celenity.dev^$important
 @@||phoneweb.tmh-gprs.se^$important
 @@||phoneweb.tmh-mms.se^$important
@@ -2918,6 +2948,7 @@
 @@||pt.lu^$important
 @@||ptci.net^$important
 @@||public.apps.ubuntu.com^$important
+@@||publicsuffix.org^$important
 @@||pubsub.plex.bz^$important
 @@||pulsfoundation.org^$important
 @@||push-apple.com.akadns.net^$important
@@ -3057,6 +3088,7 @@
 @@||sectigo.com^$important
 @@||secure.avangate.com^$important
 @@||secure.brightcove.com^$important
+@@||secure.fanboy.co.nz^$important
 @@||secure.surveymonkey.com^$important
 @@||securenetsystems.net^$important
 @@||security.ubuntu.com^$important
@@ -3092,6 +3124,7 @@
 @@||skylight.org.nz^$important
 @@||slachtofferhulp.nl^$important
 @@||sloughsafeguardingpartnership.org.uk^$important
+@@||small.oisd.nl^$important
 @@||smart.com^$important
 @@||smartone.com^$important
 @@||smartone.com.mo^$important
@@ -3106,6 +3139,7 @@
 @@||snu-dev.lge.com^$important
 @@||snu.lge.com^$important
 @@||solavei.mmsmvno.com^$important
+@@||someonewhocares.org^$important
 @@||sonera.fi^$important
 @@||song.fi^$important
 @@||sonofon.dk^$important
@@ -3130,8 +3164,10 @@
 @@||sps.org.hk^$important
 @@||sptime.se^$important
 @@||ssl.p.jwpcdn.com^$important
+@@||sslbl.abuse.ch^$important
 @@||st11p01su-swcdnlocator.swu-apple.com.akadns.net^$important
 @@||standffov.org^$important
+@@||stanev.org^$important
 @@||starfieldtech.com^$important
 @@||starhubgee.com.sg^$important
 @@||starthealing.org^$important
@@ -3153,6 +3189,7 @@
 @@||su.itunes.apple.com.edgekey.net^$important
 @@||su.lge.com^$important
 @@||su.lge.com.edgesuite.net^$important
+@@||subscribe.adblockplus.org^$important
 @@||suchtundwendepunkt.de^$important
 @@||suicidecallbackservice.org.au^$important
 @@||suicideprevention.ca^$important
@@ -3178,6 +3215,7 @@
 @@||symantec.com^$important
 @@||symcb.com^$important
 @@||symcd.com^$important
+@@||sysctl.org^$important
 @@||sysmocom.de^$important
 @@||t-2.net^$important
 @@||t-mobile.at^$important
@@ -3270,6 +3308,7 @@
 @@||thesleepcharity.org.uk^$important
 @@||thetrevorproject.org^$important
 @@||thetvdb.com^$important
+@@||threatfox.abuse.ch^$important
 @@||three.co.id^$important
 @@||three.co.uk^$important
 @@||three.com.mo^$important
@@ -3366,6 +3405,7 @@
 @@||umniah.com^$important
 @@||umob.jp^$important
 @@||umobile.jp^$important
+@@||unchecky.com^$important
 @@||unico.tim.it^$important
 @@||union.mms.com^$important
 @@||unionwireless.com^$important
@@ -3388,6 +3428,7 @@
 @@||updates.mozilla.org^$important
 @@||upload.apps.ubuntu.com^$important
 @@||uqmobile.jp^$important
+@@||urlhaus.abuse.ch^$important
 @@||us-ne-courier-4.push-apple.com.akadns.net^$important
 @@||us-sandbox-courier-4.push-apple.com.akadns.net^$important
 @@||us.archive.ubuntu.com^$important
@@ -3468,6 +3509,7 @@
 @@||vodafone.net.nz^$important
 @@||vodafone.pt^$important
 @@||vodaphone.com.gh^$important
+@@||void.gr^$important
 @@||volte.aptg.com.tw^$important
 @@||volte.mobilefrdm.ca^$important
 @@||vowifi.jio.com^$important
@@ -3620,6 +3662,7 @@
 @@||windmobile.ca^$important
 @@||windowsupdate.com^$important
 @@||windtre.it^$important
+@@||winhelp2002.mvps.org^$important
 @@||wireless.dish.com^$important
 @@||wirelessfour.mmsmvno.com^$important
 @@||wisp.mobi.eastlink.ca^$important
@@ -3658,6 +3701,7 @@
 @@||zelfmoord1813.be^$important
 @@||zenskapomocsada.hr^$important
 @@||zenskasoba.hr^$important
+@@||zerodot1.gitlab.io^$important
 @@||zestni.org^$important
 @@||ziggo.dataxs.mobi^$important
 @@||zonamovil.com.pa^$important
