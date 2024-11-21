@@ -40,6 +40,9 @@ def line_filter(lines):
     valid_domains = set()
     for line in lines:
         line = clean_line(line)
+        if line.endswith("ntp.org"):
+            valid_domains.add("ntp.org")
+            continue
         if line.startswith(tuple(l1n3)) or not line:
             continue
         if line.startswith(tuple(l1n3_2)) or not line:
