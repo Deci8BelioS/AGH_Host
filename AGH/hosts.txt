@@ -12092,6 +12092,7 @@
 ||apps-blue.com^
 ||apps-cloud.xyz^
 ||apps-for-pc.com^
+||apps-pbd.ctraffic.io^
 ||apps-ups.com^
 ||apps.beblon.com^
 ||apps.co.pl^
@@ -28001,6 +28002,7 @@
 ||createurcube.com^
 ||creating.studio^
 ||creatingaiads.com^
+||creative*.bidease.com^
 ||creative-bars1.com^
 ||creative-cdn.appgrowth.com^
 ||creative-klepon-3f0ecb.netlify.app^
@@ -32117,7 +32119,6 @@
 ||delightful-page.pro^
 ||delightfuldecadence.xyz^
 ||delightfuldorian.xyz^
-||delightfulhour.com^
 ||delightfulmachine.pro^
 ||delightspiritedtroop.com^
 ||deligrassdull.com^
@@ -78306,7 +78307,6 @@
 ||overratedlively.com^
 ||overreactperverse.com^
 ||oversailor.com^
-||overseagyassa.com^
 ||overseasdeveloper.com^
 ||overseasearchopped.com^
 ||overseasinfringementsaucepan.com^
