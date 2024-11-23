@@ -2905,6 +2905,8 @@
 @@||osint.digitalside.it^$important
 @@||osrecovery.apple.com^$important
 @@||osrecovery.swu-apple.com.akadns.net^$important
+@@||osxapps.itunes.apple.com^$important
+@@||osxapps.itunes.g.aaplimg.com^$important
 @@||ota-cache1.googlezip.net^$important
 @@||ota-cache2.googlezip.net^$important
 @@||ota-internal.nvidia.com^$important
@@ -2926,6 +2928,7 @@
 @@||parentline.com.au^$important
 @@||parentline.ie^$important
 @@||parentsbeyondbreakup.com^$important
+@@||paulcarroty.gitlab.io^$important
 @@||payandgo.o2.co.uk^$important
 @@||payg.mobilebysainsburys.co.uk^$important
 @@||payg.talkmobile.co.uk^$important
@@ -3048,6 +3051,7 @@
 @@||remote-settings.prod.webservices.mozgcp.net^$important
 @@||repeater.asus.com^$important
 @@||repo.iut.ac.ir^$important
+@@||repo.ivpn.net^$important
 @@||repo.jing.rocks^$important
 @@||repo.librewolf.net^$important
 @@||repo.manjaro.org^$important
