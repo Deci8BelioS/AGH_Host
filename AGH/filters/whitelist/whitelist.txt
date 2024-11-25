@@ -161,6 +161,7 @@
 @@||addiss.co.uk^$important
 @@||addons.allizom.org^$important
 @@||addons.mozilla.org^$important
+@@||addons.thunderbird.net^$important
 @@||adfstichting.nl^$important
 @@||adguard-dns.io^$important
 @@||adguard.com^$important
@@ -313,6 +314,7 @@
 @@||au.au-net.ne.jp^$important
 @@||aur.archlinux.org^$important
 @@||auroraoss.com^$important
+@@||aus.thunderbird.net^$important
 @@||aus4-admin.mozilla.org^$important
 @@||aus5.mozilla.org^$important
 @@||aut2know.co.za^$important
@@ -323,6 +325,7 @@
 @@||autismcanada.org^$important
 @@||autismnz.org.nz^$important
 @@||autismspectrum.org.au^$important
+@@||autoconfig.thunderbird.net^$important
 @@||autograph.services.mozaws.net^$important
 @@||autopush.prod.mozaws.net^$important
 @@||avea.com.tr^$important
@@ -559,7 +562,6 @@
 @@||cdpg.digitalcertvalidation.com^$important
 @@||cdph.digitalcertvalidation.com^$important
 @@||celcom.net.my^$important
-@@||celenity.dev^$important
 @@||cellcom.co.il^$important
 @@||cellcom.com^$important
 @@||celloneet.com^$important
@@ -1425,6 +1427,7 @@
 @@||experian.managed.entrust.com^$important
 @@||expertwifi.net^$important
 @@||expresate.digitel.ve^$important
+@@||extension-finder.thunderbird.net^$important
 @@||extensionupdater.brave.com^$important
 @@||extensionupdater.brave.software^$important
 @@||extensionupdater.bravesoftware.com^$important
@@ -1942,12 +1945,14 @@
 @@||lists.blocklist.de^$important
 @@||live.com^$important
 @@||live.pre.vodafone.com^$important
+@@||live.thunderbird.net^$important
 @@||live.vodafone.com^$important
 @@||live.vodafone.com.fj^$important
 @@||livepassdl.conviva.com^$important
 @@||livepatch-files.canonical.com^$important
 @@||livepatch.canonical.com^$important
 @@||liveupdate01.asus.com^$important
+@@||liveupdate01s.asus.com^$important
 @@||livingautism.com^$important
 @@||livingfreefoundationph.com^$important
 @@||livingwell.org.au^$important
@@ -1989,6 +1994,7 @@
 @@||mankind.org.uk^$important
 @@||manntalks.org^$important
 @@||manxpronto.net^$important
+@@||marketplace.visualstudio.com^$important
 @@||mass.at^$important
 @@||mclaropr.com^$important
 @@||mda.nifty.com^$important
@@ -2768,7 +2774,9 @@
 @@||nisd.gov.in^$important
 @@||no-ip.com^$important
 @@||node.plexapp.com^$important
+@@||notifications-stage.thunderbird.net^$important
 @@||notifications.google.com^$important
+@@||notifications.thunderbird.net^$important
 @@||nova.gr^$important
 @@||nova.is^$important
 @@||npr-news.streaming.adswizz.com^$important
@@ -2871,10 +2879,12 @@
 @@||ono.com^$important
 @@||ontario.cmha.ca^$important
 @@||ontariocaregiver.ca^$important
+@@||open-vsx.org^$important
 @@||open.softbank.ne.jp^$important
 @@||openarms.gov.au^$important
 @@||opencolo.mm.fcix.net^$important
 @@||openmobilepr.com^$important
+@@||openvsxorg.blob.core.windows.net^$important
 @@||optus.com.au^$important
 @@||orange.acte^$important
 @@||orange.at^$important
@@ -3155,11 +3165,13 @@
 @@||seniors.gov.au^$important
 @@||sercomtel.com.br^$important
 @@||services.addons.mozilla.org^$important
+@@||services.addons.thunderbird.net^$important
 @@||services.glocalnet.se^$important
 @@||services.sonarr.tv^$important
 @@||services.telenor.se^$important
 @@||setar.aw^$important
 @@||setera.fi^$important
+@@||settings.dev.mozaws.net^$important
 @@||sfad.org.uk^$important
 @@||shaktiinternational.org^$important
 @@||shallwetalk.hk^$important
@@ -3372,6 +3384,7 @@
 @@||three.net.au^$important
 @@||threshold-das.org.uk^$important
 @@||thumbcell.com^$important
+@@||thunderbird-settings.thunderbird.net^$important
 @@||thursdayschild.org^$important
 @@||tigo.3g^$important
 @@||tigo.com.gh^$important
@@ -3515,6 +3528,7 @@
 @@||verbreekdestilte.nl^$important
 @@||verisign.com^$important
 @@||versioncheck-bg.addons.mozilla.org^$important
+@@||versioncheck-bg.addons.thunderbird.net^$important
 @@||vertrouwenscentrum-kindermishandeling.be^$important
 @@||vetcenter.va.gov^$important
 @@||veterans.gc.ca^$important
@@ -3580,6 +3594,8 @@
 @@||vpssg142.ocsp.omniroot.com^$important
 @@||vsb.vzw.otgeuicc.com^$important
 @@||vsblims.com^$important
+@@||vscodium.now.sh^$important
+@@||vscodium.vercel.app^$important
 @@||vselena.bg^$important
 @@||vtext.com^$important
 @@||vvm.ee.co.uk^$important
