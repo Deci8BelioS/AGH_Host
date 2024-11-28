@@ -315,6 +315,8 @@
 @@||aur.archlinux.org^$important
 @@||auroraoss.com^$important
 @@||aus.thunderbird.net^$important
+@@||aus1.torproject.org^$important
+@@||aus2.torproject.org^$important
 @@||aus4-admin.mozilla.org^$important
 @@||aus5.mozilla.org^$important
 @@||aut2know.co.za^$important
@@ -2770,6 +2772,7 @@
 @@||ngf-mindstrong.org^$important
 @@||nhs.uk^$important
 @@||nhsinform.scot^$important
+@@||nightlies.tbb.torproject.org^$important
 @@||nine.plugins.plexapp.com^$important
 @@||nisd.gov.in^$important
 @@||no-ip.com^$important
