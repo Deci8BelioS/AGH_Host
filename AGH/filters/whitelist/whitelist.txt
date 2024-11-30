@@ -407,6 +407,7 @@
 @@||brave-browser-rpm-nightly.s3.brave.com^$important
 @@||brave-browser-rpm-release.s3.brave.com^$important
 @@||brave-core-ext.s3.brave.com^$important
+@@||brazil.time.system76.com^$important
 @@||breathingspace.scot^$important
 @@||brevo.com^$important
 @@||brightcove.net^$important
@@ -2796,12 +2797,19 @@
 @@||nsu.lge.com.wtxcdn.com^$important
 @@||ntcp.nhp.gov.in^$important
 @@||ntelospcs.net^$important
+@@||ntp-g7g.amazon.com^$important
 @@||ntp.glb.nist.gov^$important
 @@||ntp.netnod.se^$important
 @@||ntp.org^$important
 @@||ntp.se^$important
+@@||ntp.time.nl^$important
 @@||ntp.ubuntu.com^$important
 @@||ntp1.glb.nist.gov^$important
+@@||ntp1.time.nl^$important
+@@||ntp2.time.nl^$important
+@@||ntppool.time.nl^$important
+@@||ntppool1.time.nl^$important
+@@||ntppool2.time.nl^$important
 @@||nts.netnod.se^$important
 @@||ntt.setup^$important
 @@||ntv.org.au^$important
@@ -2864,6 +2872,7 @@
 @@||office.vodafone.nl^$important
 @@||office365.com^$important
 @@||ofnew.fr^$important
+@@||ohio.time.system76.com^$important
 @@||oisd.nl^$important
 @@||oister.dk^$important
 @@||ola.com.co^$important
@@ -2911,6 +2920,7 @@
 @@||orangecaraibe.com^$important
 @@||orangenet.com.do^$important
 @@||orangerun.acte^$important
+@@||oregon.time.system76.com^$important
 @@||org.pelephone.net.il^$important
 @@||oscdn.apple.com^$important
 @@||oscdn.apple.com.edgesuite.net^$important
@@ -2922,10 +2932,12 @@
 @@||osxapps.itunes.g.aaplimg.com^$important
 @@||ota-cache1.googlezip.net^$important
 @@||ota-cache2.googlezip.net^$important
+@@||ota-downloads.nvidia.com^$important
 @@||ota-internal.nvidia.com^$important
 @@||ota.googlezip.net^$important
 @@||ota.inland.com^$important
 @@||ota.nvidia.com^$important
+@@||otaadmin.nvidia.com^$important
 @@||otgeuicc.com^$important
 @@||outline.org.nz^$important
 @@||ovivomobile.com^$important
@@ -2941,6 +2953,7 @@
 @@||parentline.com.au^$important
 @@||parentline.ie^$important
 @@||parentsbeyondbreakup.com^$important
+@@||paris.time.system76.com^$important
 @@||paulcarroty.gitlab.io^$important
 @@||payandgo.o2.co.uk^$important
 @@||payg.mobilebysainsburys.co.uk^$important
@@ -3010,6 +3023,10 @@
 @@||psi.mchs.gov.ru^$important
 @@||psut.sledcom.ru^$important
 @@||pt.lu^$important
+@@||ptbtime1.ptb.de^$important
+@@||ptbtime2.ptb.de^$important
+@@||ptbtime3.ptb.de^$important
+@@||ptbtime4.ptb.de^$important
 @@||ptci.net^$important
 @@||public.apps.ubuntu.com^$important
 @@||publicsuffix.org^$important
@@ -3153,6 +3170,7 @@
 @@||scomo.tmh-mms.se^$important
 @@||scottishautism.org^$important
 @@||sdafmh.org.uk^$important
+@@||seamlessupdate.app^$important
 @@||sectigo.com^$important
 @@||secure.avangate.com^$important
 @@||secure.brightcove.com^$important
@@ -3251,6 +3269,7 @@
 @@||stopitnow.org^$important
 @@||storage.snapcraftcontent.com^$important
 @@||store.nethunter.com^$important
+@@||stratum1.time.cifelli.xyz^$important
 @@||stun.services.mozilla.com^$important
 @@||su-applak.itunes-apple.com.akadns.net^$important
 @@||su-cdn.itunes-apple.com.akadns.net^$important
@@ -3394,6 +3413,8 @@
 @@||tim.br^$important
 @@||tim.it^$important
 @@||timbrasil.br^$important
+@@||time-b-wwv.nist.gov^$important
+@@||time-c-b.nist.gov^$important
 @@||time-ios.apple.com^$important
 @@||time-ios.g.aaplimg.com^$important
 @@||time-macos.apple.com^$important
@@ -3401,13 +3422,13 @@
 @@||time.android.com^$important
 @@||time.apple.com^$important
 @@||time.asia.apple.com^$important
+@@||time.cifelli.xyz^$important
+@@||time.dfm.dk^$important
 @@||time.euro.apple.com^$important
 @@||time.g.aaplimg.com^$important
 @@||time.google.com^$important
 @@||time.grapheneos.org^$important
 @@||time.nist.gov^$important
-@@||time.nl^$important
-@@||time.system76.com^$important
 @@||time.windows.com^$important
 @@||time01.mel.optusnet.com.au^$important
 @@||time01.syd.optusnet.com.au^$important
@@ -3555,6 +3576,7 @@
 @@||vipoperator.com.mk^$important
 @@||vipoperator.mms^$important
 @@||virgin-mobile.fr^$important
+@@||virginia.time.system76.com^$important
 @@||virginmms.fr^$important
 @@||virginmobile.cl^$important
 @@||virginmobile.co.uk^$important
