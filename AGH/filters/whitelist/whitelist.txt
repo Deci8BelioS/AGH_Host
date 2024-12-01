@@ -258,6 +258,7 @@
 @@||api.apple-cloudkit.com^$important
 @@||api.apple-cloudkit.fe2.apple-dns.net^$important
 @@||api.ipify.org^$important
+@@||api.palera.in^$important
 @@||api.rlje.net^$important
 @@||api.snapcraft.io^$important
 @@||apn.fastweb.it^$important
@@ -3202,6 +3203,7 @@
 @@||shaw.ca^$important
 @@||sheltersafe.ca^$important
 @@||shine.ie^$important
+@@||sign.kravasign.com^$important
 @@||signal.org^$important
 @@||simi.is^$important
 @@||singtel.com^$important
