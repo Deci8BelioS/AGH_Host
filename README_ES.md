@@ -9,9 +9,9 @@
 
 | Enlaces | Descripción | 
 | -- | -- |
-| [**Enlace sin procesar a AGH_Host**](https://raw.githubusercontent.com/Deci8BelioS/AGH_Host/main/Filters/AGH_Host.txt)| (100k+ de filtros, eliminando subdominios si en las listas originales aparecen para bloquear el dominio principal) |
-| [**Enlace sin procesar a AGH_Host+**](https://raw.githubusercontent.com/Deci8BelioS/AGH_Host/main/Filters/AGH_Host%2B.txt) | (200k+ de filtros, eliminando subdominios si en las listas originales aparecen para bloquear el dominio principal) |
-| [**Enlace sin procesar a dnsmasq+**](https://raw.githubusercontent.com/Deci8BelioS/AGH_Host/main/Filters/dnsmasq.txt) | (200k+ de filtros, eliminando subdominios si en las listas originales aparecen para bloquear el dominio principal) |
+| [**Enlace a AGH_Host**](https://raw.githubusercontent.com/Deci8BelioS/AGH_Host/main/Filters/AGH_Host.txt) (Sólo AGH) | (100k+ de filtros, eliminando subdominios si en las listas originales aparecen para bloquear el dominio principal) |
+| [**Enlace a AGH_Host+**](https://raw.githubusercontent.com/Deci8BelioS/AGH_Host/main/Filters/AGH_Host%2B.txt) (Sólo AGH) | (200k+ de filtros, eliminando subdominios si en las listas originales aparecen para bloquear el dominio principal) |
+| [**Enlace a dnsmasq+**](https://raw.githubusercontent.com/Deci8BelioS/AGH_Host/main/Filters/dnsmasq.txt) (Solo adblock-lean) | (200k+ de filtros, eliminando subdominios si en las listas originales aparecen para bloquear el dominio principal) |
 
 Nota: la lista dnsmasq+ solo ha sido testeada en openWRT usando [adblock-lean](https://github.com/lynxthecat/adblock-lean)
 
