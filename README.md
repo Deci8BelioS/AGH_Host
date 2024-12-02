@@ -14,7 +14,7 @@
 
 Note: dnsmasq+ list has only been tested in openWRT using [adblock-lean](https://github.com/lynxthecat/adblock-lean)
 
-# The use of the following filters is recommended to complement the HOST file for Adguard Home
+# The use of the following filters is recommended to complement the AGH_Host or AGH_Host+ file
 | Blocklist (Only AGH) | Whitelist (Only AGH) | 
 | -- | -- |
 | [**AGH_Host - Regex Blocklist**](https://raw.githubusercontent.com/Deci8BelioS/AGH_Host/main/Filters/blocklist/Regex%20Blocklist.txt) | [**AGH_Host - Custom Whitelist**](https://raw.githubusercontent.com/Deci8BelioS/AGH_Host/main/Filters/whitelist/Custom%20Whitelist.txt) |
