@@ -8,9 +8,9 @@
 ## Unified filters optimized for use in Adguard home and [adblock-lean](https://github.com/lynxthecat/adblock-lean).
 | Links | Description | 
 | -- | -- |
-| [**Link raw to AGH_Host**](https://raw.githubusercontent.com/Deci8BelioS/AGH_Host/main/Filters/AGH_Host.txt) | (100k+ of filters, eliminating subdomains if they appear in the original lists to block the main domain) |
-| [**Link raw to AGH_Host+**](https://raw.githubusercontent.com/Deci8BelioS/AGH_Host/main/Filters/AGH_Host%2B.txt) | (200k+ of filters, eliminating subdomains if they appear in the original lists to block the main domain) |
-| [**Link raw to dnsmasq+**](https://raw.githubusercontent.com/Deci8BelioS/AGH_Host/main/Filters/dnsmasq.txt) | (200k+ of filters, eliminating subdomains if they appear in the original lists to block the main domain) |
+| [**Link raw to AGH_Host**](https://raw.githubusercontent.com/Deci8BelioS/AGH_Host/main/Filters/AGH_Host.txt) (Only AGH) | (100k+ of filters, eliminating subdomains if they appear in the original lists to block the main domain) |
+| [**Link raw to AGH_Host+**](https://raw.githubusercontent.com/Deci8BelioS/AGH_Host/main/Filters/AGH_Host%2B.txt) (Only AGH) | (200k+ of filters, eliminating subdomains if they appear in the original lists to block the main domain) |
+| [**Link raw to dnsmasq+**](https://raw.githubusercontent.com/Deci8BelioS/AGH_Host/main/Filters/dnsmasq.txt) (Only adblock-lean) | (200k+ of filters, eliminating subdomains if they appear in the original lists to block the main domain) |
 
 Note: dnsmasq+ list has only been tested in openWRT using [adblock-lean](https://github.com/lynxthecat/adblock-lean)
 
