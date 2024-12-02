@@ -2,7 +2,7 @@ import requests, re
 
 from regex import REGEX, LIST_WHITELIST, DOMAIN_LIST, SUBDOMAIN_PATTERNS
 
-output_file = r'H:/Escritorio/AGH_Host-main/Filters/AGH_Host+.txt'
+output_file = r'/home/runner/work/AGH_Host/Filters/AGH_Host+.txt'
 
 l1n3 = ['#', '!', '-', '*', '/', '.', '&', '%', '~', '?', '[', ']', '^', ':', '@', '<', 'fe80::', 'ff00::', 'ff02::']
 

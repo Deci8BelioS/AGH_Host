@@ -11,7 +11,7 @@ unfiltered_urls = [
     'https://raw.githubusercontent.com/swetoast/adguardhome-lists/refs/heads/main/whitelist.txt'
 ]
 
-output_file = r'H:/Escritorio/AGH_Host-main/Filters/whitelist/whitelist.txt'
+output_file = r'/home/runner/work/AGH_Host/Filters/whitelist/whitelist.txt'
 
 l1n3 = ['#', '!']
 l1n3_2 = ['apple.com', 's3.amazonaws.com', 'wp.com', 'amazonaws.com']

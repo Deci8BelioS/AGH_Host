@@ -2,7 +2,7 @@ import requests, re
 
 from regex import LIST_WHITELIST, DOMAIN_LIST
 
-output_file = r'H:/Escritorio/AGH_Host-main/Filters/dnsmasq.txt'
+output_file = r'/home/runner/work/AGH_Host/Filters/dnsmasq.txt'
 
 l1n3 = ['#', '!', '-', '*', '/', '.', '&', '%', '~', '?', '[', ']', '^', ':', '@', '<', 'fe80::', 'ff00::', 'ff02::']
 
