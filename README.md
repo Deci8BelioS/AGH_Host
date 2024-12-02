@@ -28,6 +28,7 @@ This list is being tested on the following O.S., routers and software
 | Operating System | Router | Software | 
 | -- | -- | -- |
 | OpenWrt 23.05.5 | Xiaomi Redmi Router AX6S/AX3200 | AdGuard Home v0.107.54 |
+| OpenWrt 23.05.5 | Xiaomi Redmi Router AX6S/AX3200 | [adblock-lean](https://github.com/lynxthecat/adblock-lean) |
 
 ## Filters on which this list is based:
 * [**1Hosts (Lite)**](https://github.com/badmojr/1Hosts)
