@@ -5,7 +5,7 @@
 
 </div>
 
-## Filtros unificados optimizados para su uso en Adguard home.
+## Filtros unificados optimizados para su uso en Adguard home y [adblock-lean](https://github.com/lynxthecat/adblock-lean).
 
 | Enlaces | Descripción | 
 | -- | -- |
@@ -22,7 +22,7 @@ Nota: la lista dnsmasq+ solo ha sido testeada en openWRT usando [adblock-lean](h
 | [**AGH_Host - Custom Blocklist**](https://raw.githubusercontent.com/Deci8BelioS/AGH_Host/main/Filters/blocklist/Custom%20Blocklist.txt) | [**AGH_Host - Whitelist**](https://raw.githubusercontent.com/Deci8BelioS/AGH_Host/main/Filters/whitelist/whitelist.txt) |
 | [**swetoast - adguardhome-lists "REGEX"**](https://raw.githubusercontent.com/swetoast/adguardhome-lists/main/blacklist.txt) |
 
-# AVISO: Esta lista de filtros ha sido creada especificamente para Adguard Home
+# AVISO: Esta lista de filtros ha sido creada especificamente para Adguard Home y [adblock-lean](https://github.com/lynxthecat/adblock-lean)
 
 Esta lista está siendo probada en los siguientes S.O, routers y software
 
