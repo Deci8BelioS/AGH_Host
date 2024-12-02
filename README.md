@@ -5,7 +5,7 @@
 
 </div>
 
-## Unified filters optimized for use in Adguard home and adblock-lean.
+## Unified filters optimized for use in Adguard home and [adblock-lean](https://github.com/lynxthecat/adblock-lean).
 | Links | Description | 
 | -- | -- |
 | [**Link raw to AGH_Host**](https://raw.githubusercontent.com/Deci8BelioS/AGH_Host/main/Filters/AGH_Host.txt) | (100k+ of filters, eliminating subdomains if they appear in the original lists to block the main domain) |
