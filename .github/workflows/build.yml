@@ -52,17 +52,25 @@ jobs:
 
       - name: Execute script AGH_filters+.py
         run: |
-          cd AGH/
+          cd dnsmasq/script
           chmod +x AGH_filters+.py
           python3 ./AGH_filters+.py
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
+          
+      - name: Execute script dnsmasq_filters+.py
+        run: |
+          cd AGH/
+          chmod +x dnsmasq_filters+.py
+          python3 ./dnsmasq_filters+.py
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          
       - name: Apply changes
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          git add AGH/hosts.txt AGH/filters/whitelist/whitelist.txt AGH/AGH_Host+.txt
+          git add AGH/hosts.txt AGH/filters/whitelist/whitelist.txt AGH/AGH_Host+.txt dnsmasq/dnsmasq.txt
           # Check for changes in the staging area before attempting to commit.
           if git diff --cached --quiet; then
             echo "There are no changes to the selected files, nothing to do."
