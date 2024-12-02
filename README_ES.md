@@ -9,16 +9,18 @@
 
 | Enlaces | Descripción | 
 | -- | -- |
-| [**Enlace sin procesar a AGH_Host**](https://raw.githubusercontent.com/Deci8BelioS/AGH_Host/refs/heads/main/AGH/hosts.txt) | (100k+ de filtros, eliminando subdominios si en las listas originales aparecen para bloquear el dominio principal) |
-| [**Enlace sin procesar a AGH_Host+**](https://raw.githubusercontent.com/Deci8BelioS/AGH_Host/refs/heads/main/AGH/AGH_Host%2B.txt) | (200k+ de filtros, eliminando subdominios si en las listas originales aparecen para bloquear el dominio principal) |
+| [**Enlace sin procesar a AGH_Host**](https://raw.githubusercontent.com/Deci8BelioS/AGH_Host/main/Filters/AGH_Host.txt)| (100k+ de filtros, eliminando subdominios si en las listas originales aparecen para bloquear el dominio principal) |
+| [**Enlace sin procesar a AGH_Host+**](https://raw.githubusercontent.com/Deci8BelioS/AGH_Host/main/Filters/AGH_Host%2B.txt) | (200k+ de filtros, eliminando subdominios si en las listas originales aparecen para bloquear el dominio principal) |
+| [**Enlace sin procesar a dnsmasq+**](https://raw.githubusercontent.com/Deci8BelioS/AGH_Host/main/Filters/dnsmasq.txt) | (200k+ de filtros, eliminando subdominios si en las listas originales aparecen para bloquear el dominio principal) |
 
+Note: Nota: la lista dnsmasq+ solo ha sido testeada en openWRT usando [adblock-lean](https://github.com/lynxthecat/adblock-lean)
 
 # Se recomienda el uso de los siguientes filtros para complementar el archivo AGH_Host o AGH_Host+
-| Blocklist | Whitelist | 
+| Blocklist (Sólo AGH) | Whitelist (Sólo AGH) | 
 | -- | -- |
-| [**AGH_Host - Regex Blocklist**](https://raw.githubusercontent.com/Deci8BelioS/AGH_Host/refs/heads/main/AGH/filters/blocklist/Regex%20Blocklist.txt) | [**AGH_Host - Custom Whitelist**](https://raw.githubusercontent.com/Deci8BelioS/AGH_Host/refs/heads/main/AGH/filters/whitelist/Custom%20Whitelist.txt) |
-| [**AGH_Host - Custom Blocklist**](https://raw.githubusercontent.com/Deci8BelioS/AGH_Host/refs/heads/main/AGH/filters/blocklist/Custom%20Blocklist.txt) | [**AGH_Host - Whitelist**](https://raw.githubusercontent.com/Deci8BelioS/AGH_Host/refs/heads/main/AGH/filters/whitelist/whitelist.txt) |
-| [**swetoast - adguardhome-lists "REGEX"**](https://raw.githubusercontent.com/swetoast/adguardhome-lists/refs/heads/main/blacklist.txt) |
+| [**AGH_Host - Regex Blocklist**](https://raw.githubusercontent.com/Deci8BelioS/AGH_Host/main/Filters/blocklist/Regex%20Blocklist.txt) | [**AGH_Host - Custom Whitelist**](https://raw.githubusercontent.com/Deci8BelioS/AGH_Host/main/Filters/whitelist/Custom%20Whitelist.txt) |
+| [**AGH_Host - Custom Blocklist**](https://raw.githubusercontent.com/Deci8BelioS/AGH_Host/main/Filters/blocklist/Custom%20Blocklist.txt) | [**AGH_Host - Whitelist**](https://raw.githubusercontent.com/Deci8BelioS/AGH_Host/main/Filters/whitelist/whitelist.txt) |
+| [**swetoast - adguardhome-lists "REGEX"**](https://raw.githubusercontent.com/swetoast/adguardhome-lists/main/blacklist.txt) |
 
 # AVISO: Esta lista de filtros ha sido creada especificamente para Adguard Home
 
@@ -26,7 +28,7 @@ Esta lista está siendo probada en los siguientes S.O, routers y software
 
 | Sistema Operativo | Router | Software | 
 | -- | -- | -- |
-| OpenWrt 23.05.5 | Xiaomi Redmi Router AX6S/AX3200 | AdGuard Home v0.107.53 |
+| OpenWrt 23.05.5 | Xiaomi Redmi Router AX6S/AX3200 | AdGuard Home v0.107.54 |
 
 ## Filtros en los que se ha basado esta lista:
 
