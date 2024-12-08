@@ -63,6 +63,7 @@
 /^static\.xx\.fbcdn.net$/
 /^track\.aliexpress\.com/
 /^track\.earlybird\.se$/
+/^tracking\.airmee\.com$/
 /^tracking\.bring\.se$/
 /^tracking\.earlybird\.delivery$/
 /^www\.svt(static)?\.se$/
