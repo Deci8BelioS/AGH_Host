@@ -260,6 +260,7 @@
 @@||active.bhmobile.ba^$important
 @@||adaway.org^$important
 @@||adblock.ee^$important
+@@||adblock.mahakala.is^$important
 @@||addiss.co.uk^$important
 @@||addons.allizom.org^$important
 @@||addons.mozilla.org^$important
@@ -767,6 +768,7 @@
 @@||cmail19.com^$important
 @@||cmha.ca^$important
 @@||cmobile.co.za^$important
+@@||cmswire.com^$important
 @@||cnpea.ca^$important
 @@||cnzd.org^$important
 @@||coalitionforthehomeless.org^$important
@@ -1284,7 +1286,9 @@
 @@||depressievereniging.nl^$important
 @@||depression.org.nz^$important
 @@||dev.virtualearth.net^$important
+@@||devcom.up.netgear.com^$important
 @@||developer.apple.com^$important
+@@||devicelocation.ngxcld.com^$important
 @@||dialogsl.com^$important
 @@||dicasha2.ocsp-certum.com^$important
 @@||dictionary.telemetry.mozilla.org^$important
@@ -1792,6 +1796,7 @@
 @@||hotmobile.co.il^$important
 @@||hrabritelefon.hr^$important
 @@||htgprs.hr^$important
+@@||http.fw.updates1.netgear.com^$important
 @@||http.globe.com.ph^$important
 @@||hu.upcmobile.com^$important
 @@||huaweimobilewifi.com^$important
@@ -3249,12 +3254,14 @@
 @@||sacc.aware.org.sg^$important
 @@||sadag.org^$important
 @@||safebaby.org^$important
+@@||safebrowsing-cache.google.com^$important
 @@||safebrowsing-proxy.g.aaplimg.com^$important
 @@||safebrowsing.apple^$important
 @@||safebrowsing.apple.com^$important
 @@||safebrowsing.brave.com^$important
 @@||safebrowsing.brave.software^$important
 @@||safebrowsing.bravesoftware.com^$important
+@@||safebrowsing.cache.l.google.com^$important
 @@||safebrowsing.clients.google.com^$important
 @@||safebrowsing.google.com^$important
 @@||safebrowsing2.brave.com^$important
@@ -3539,8 +3546,16 @@
 @@||tim.br^$important
 @@||tim.it^$important
 @@||timbrasil.br^$important
+@@||time-a.netgear.com^$important
 @@||time-b-wwv.nist.gov^$important
+@@||time-b.netgear.com^$important
 @@||time-c-b.nist.gov^$important
+@@||time-c.netgear.com^$important
+@@||time-d.netgear.com^$important
+@@||time-e.netgear.com^$important
+@@||time-f.netgear.com^$important
+@@||time-g.netgear.com^$important
+@@||time-h.netgear.com^$important
 @@||time-ios.apple.com^$important
 @@||time-ios.g.aaplimg.com^$important
 @@||time-macos.apple.com^$important
@@ -3581,6 +3596,7 @@
 @@||tplinkwifi.net^$important
 @@||tracfone.com^$important
 @@||tracfone.vzwentp^$important
+@@||tracker.gamesdonequick.com^$important
 @@||tracking-protection.cdn.mozilla.net^$important
 @@||tracking-protection.prod.mozaws.net^$important
 @@||tracking-protection.stage.mozaws.net^$important
