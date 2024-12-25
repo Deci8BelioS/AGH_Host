@@ -285,6 +285,7 @@
 @@||ageaction.ie^$important
 @@||ageuk.org.uk^$important
 @@||agrd.eu^$important
+@@||agsupdate.adobe.com^$important
 @@||aia.pki.abb.com^$important
 @@||aia.sk.ee^$important
 @@||aina.fi^$important
@@ -393,12 +394,20 @@
 @@||archive.raspbian.org^$important
 @@||archive.ubuntu.com^$important
 @@||arcor.easybox^$important
+@@||ardownload.adobe.com^$important
+@@||ardownload.adobe.com.edgesuite.net^$important
+@@||ardownload2.adobe.com^$important
+@@||ardownload3-stls.adobe.com.edgesuite.net^$important
+@@||ardownload3.adobe.com^$important
 @@||ardsi.org^$important
 @@||areyouok.org.nz^$important
 @@||argentina.gob.ar^$important
 @@||arkoselabs.com^$important
 @@||arkoselabs.com.cdn.cloudflare.net^$important
 @@||arkoselabs.roblox.com^$important
+@@||armdl.adobe.com^$important
+@@||armdl.adobe.com.edgesuite.net^$important
+@@||armmf.adobe.com^$important
 @@||aspnetcdn.com^$important
 @@||aster.internet^$important
 @@||aster.mms^$important
@@ -727,6 +736,8 @@
 @@||childlinesa.org.za^$important
 @@||children1st.org.uk^$important
 @@||childwelfaresa.org.za^$important
+@@||chinacdn2swupdl.adobe.com.edgesuite.net^$important
+@@||chinacdn2swupdl.adobe.com.edgesuite.net.globalredir.akadns.net^$important
 @@||chromewebstore.google.com^$important
 @@||cinet.spcs^$important
 @@||cingular.com^$important
@@ -854,6 +865,7 @@
 @@||crl.adacom.net^$important
 @@||crl.addtrust.com^$important
 @@||crl.adobe.com^$important
+@@||crl.adobe.com.edgekey.net^$important
 @@||crl.aetna.com^$important
 @@||crl.affirmtrust.com^$important
 @@||crl.allscripts.com^$important
@@ -1365,6 +1377,7 @@
 @@||dovasan.ocsp.dhimyotis.com^$important
 @@||dove.celenity.dev^$important
 @@||download-installer.cdn.mozilla.net^$important
+@@||download-stls.adobe.com.edgesuite.net^$important
 @@||download.apple.map.fastly.net^$important
 @@||download.cdn.mozilla.net^$important
 @@||download.gnome.org^$important
@@ -1852,6 +1865,7 @@
 @@||inet.tdc.fi^$important
 @@||inet.vivacell.am^$important
 @@||informationchildren.com^$important
+@@||init.push-apple.com.akadns.net^$important
 @@||initiative-vermisste-kinder.de^$important
 @@||inland3g.com^$important
 @@||int.movilnet.com.ve^$important
@@ -3140,6 +3154,7 @@
 @@||pricelist.skype.com^$important
 @@||primgw.vowifi2.spcsdns.net^$important
 @@||private.centennialwireless.com^$important
+@@||prod-pubcerts.licensingstack.com^$important
 @@||prod.balrog.prod.cloudops.mozgcp.net^$important
 @@||prod.content-signature-chains.prod.webservices.mozgcp.net^$important
 @@||proget.makedeb.org^$important
@@ -3157,6 +3172,7 @@
 @@||ptbtime3.ptb.de^$important
 @@||ptbtime4.ptb.de^$important
 @@||ptci.net^$important
+@@||pubcerts.licenses.adobe.com^$important
 @@||public.apps.ubuntu.com^$important
 @@||publicsuffix.org^$important
 @@||pubsub.plex.bz^$important
@@ -3384,6 +3400,7 @@
 @@||sprocketwireless.com^$important
 @@||sps.org.hk^$important
 @@||sptime.se^$important
+@@||ssl-download.adobe.com.edgekey.net^$important
 @@||ssl.p.jwpcdn.com^$important
 @@||sslbl.abuse.ch^$important
 @@||st11p01su-swcdnlocator.swu-apple.com.akadns.net^$important
@@ -3433,6 +3450,8 @@
 @@||switchboard.lgbt^$important
 @@||swscan-cdn.apple.com.akadns.net^$important
 @@||swscan.apple.com^$important
+@@||swupdl.adobe.com^$important
+@@||swupmf.adobe.com^$important
 @@||symacom.fr^$important
 @@||symamobile.com^$important
 @@||symantec.com^$important
@@ -3559,6 +3578,7 @@
 @@||time-ios.apple.com^$important
 @@||time-ios.g.aaplimg.com^$important
 @@||time-macos.apple.com^$important
+@@||time-osx.apple.com^$important
 @@||time-osx.g.aaplimg.com^$important
 @@||time.android.com^$important
 @@||time.apple.com^$important
@@ -3614,6 +3634,8 @@
 @@||truphone.com^$important
 @@||trust-provider.com^$important
 @@||trustid.ocsp.identrust.com^$important
+@@||trustlist.adobe.com^$important
+@@||trustlist.adobe.com.edgekey.net^$important
 @@||trustwave.com^$important
 @@||tsfe.trafficmanager.net^$important
 @@||tubiedronka.pl^$important
