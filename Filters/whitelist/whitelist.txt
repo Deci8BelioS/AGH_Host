@@ -10,6 +10,7 @@
 /^(((cf-svcs|sus\.dhg|svcs|home|appcompatibility)\.)?myharmony\.com$|^(pubsub|ps-[0-9]{1,3})\.pubnub\.com)|accounts\.logi\.com$/
 /^((0\.client-channel|android\.clients|mail|youtube-ui\.l|inbox|clients[1-9]|cse|ogs|play|pki-goog\.l|apis|plus\.l|www(3\.l)?|video-stats\.l|id)\.)?google.com|googleapis\.com|^(ssl\.)?gstatic\.com$|^(manifest|redirector)\.googlevideo\.com|(geo|yt)3\.ggpht\.com$/
 /^(([0-9-]{1,3})+\.mydns|my)\.jdownloader.org$/
+/^(([0-9]\.)?(nz|android|openwrt|arch|ubnt|debian)\.)?pool\.ntp\.org$/
 /^((aapi|se)\.)?shouldianswer\.net$/
 /^((account|catalog)-public-service-prod0[0-9]|datarouter|turn\.rtcp\.on|entitlement-public-service-prod0[0-9]|friends-public-service-prod0[0-9]|launcher-public-service-prod0[0-9]|lightswitch-public-service-prod0[0-9]|merchantpool[0-9]|orderprocessor-public-service-ecomprod0[0-9]|payment-website-pci|xmpp-service-prod|auncher-public-service-prod\.ak|priceengine-public-service-ecomprod0[1-9]|library-service\.live\.use1a\.on|datarouter-prod\.ak)(\.ol)?\.epicgames\.com$/
 /^((account|connect|api-(api-(ubiservices|uplayplusvault)|static-account|lb-prod-acc_ount-pdc|dmx\.upc)\.)ubisoft.com$|^((uplay)?connect|wallet\.ecom|public-ubiservices|useast1-public.aws-ubiservices|channel-service\.upc|public-ws-ubiservices|)\.ubi.com$/
@@ -21,16 +22,16 @@
 /^((broker|dauth|aauth)-lp1\.ndas\.srv|sun\.hac\.lp1\.d4c|broker\.lp1\.npns\.srv|receive-lp1\.dg\.srv|app-a04\.lp1\.npns\.srv|ctest\.cdn|aqua\.hac\.lp1\.d4c|tagaya\.hac\.lp1\.eshop|bcat-(list|data)-lp1\.cdn|capi\.lp1\.op2|nncs[12]-lp1\.n\.n\.srv|ctest-ul-lp1\.cdn|dragons\.hac\.lp1\.dragons|shop|consumer\.lp1\.npns\.srv|pushmo\.hac\.lp1\.eshop|bcat-topics-lp1\.cdn|accounts)\.nintendo\.net$|^((accounts).)?nintendo.com$/
 /^((cdn(2)?|chat|storage|updates(2)?)\.)?signal\.org$/
 /^((community|features|forums|dashboard|v4|assets|meta|metadata-static|plexamp|app|sonos|images|o1\.email|proxy|pubsub|staging|status|tvdb2|o2\.sg0|acoustid|clients|discover\.provider|downloads|scrobbles|lyricfind|mbz|metadata\.provider|songkick|together)?\.)?plex\.tv$|((resources-cdn|my|nine\.plugins|node|tvthemes)\.)?plexapp\.com|^([0-9-]{1,3})+\.\w+\.plex.direct$/
-/^((discovery(-v[46])?|upgrades)\.)?syncthing\.net$/
+/^((discovery-(announce-v[46]|lookup)|discovery(-v[46])?|upgrades)\.syncthing\.net)$/
 /^((download)\.)?wireguard\.com$/
 /^((gamedownloads|(auth-)?rgl-prod\.ros|rgl|prod\.cloud)\.)?rockstargames\.com$|^a\.rsg\.sc|^rockstar-api\.arkoselabs\.com$/
 /^((registration|wanip4|rebindtest4|craftassets|mothership|backup)\.unraid\.net|([0-9]{1,3}-){3}[0-9]{1,3}\.([0-9a-z])+\.myunraid\.net)$/
 /^((rog(-live-service)?|gaming-config|liveupdate01s|dlcdn((web)?imgs|rog)|www|mymessage|rog-content-platform|dlcdn-rogboxbu2|account)\.)?asus.com$/
 /^((tpop-api)\.)?twitter\.com$|(pbs|ton|video|abs|(abs-(0|zero)))\.twimg.com$|^t\.co$/
 /^((tracking|app|portal|account|www)\.)?postnord.com$/
+/^((websocket|stream(2|-(android|extension))?|www|zebra|update|ocelot|static)\.)?pushbullet\.com$/
 /^((www|ipv6)\.msftconnecttest\.com$|^dns\.msftncsi\.com$)/
 /^((www|z-p42-instagram\.c10r)\.)?instagram.com|^(s(content|tatic)\.)cdninstagram\.com$/
-/^([0-9]\.(nz|android|openwrt|arch|ubnt|debian)\.)?pool\.ntp\.org$/
 /^(auth|c(fg|hat|ontent-system|hat)|e(mbed|xternal-(accounts|users))|galaxy-(library|promos)|game(play|sdb)|images|login|marketing-sections|menu|notifications(-pusher(-aws)?)?|presence|r(ecommendations-api|emote-config)|www)\.gog\.com$/
 /^(beehive|nucleo)\.neatocloud\.com$/
 /^(cava(notification|internal)|mexx|www)\.bankid\.com$/
@@ -50,8 +51,8 @@
 /^(time|path[1-3])\.xtracloud\.net/
 /^(userlocation|messages|safebrowsing|play|steamcloud-eu-fra\.storage|fcm|android|maps|www|fonts|youtubei|firebaseremoteconfig|(notifications|gnpfesdk|geller|lamssettings|jnn|androidpay-users|deviceintegritytokens|playatoms|ulp1p|people|reach|semanticlocation|reminders|androidtvlauncherxfe|update)-pa|staging-locationhistory-pa\.sandbox|instantmessaging-pa-preprod-eu)\.googleapis.com$/
 /^(wbsapi|static|sct01-ws|prod\.rudderstack)\.withings\.net$/
-/^(websocket|stream|www|zebra|update|ocelot|stream-android|static)\.)?pushbullet.com$/
 /^api([0-9])?[-\.].*((((((((teslacoilapps|accounts\.nintendo|minecraftservices|techlandonlineservices|gog|pushbullet|github|google|steampowered|blizzard|dropbox|twitter|soundcloud|authy|firefox|discogs|postnord|pushbullet|samsungcloud|telldus|unsplash)\.com|(audnex)\.us)|(snapcraft)\.io)|(signal|jdownloader)\.org)|(epicgames)\.dev$)|(ipdata)\.co)|(svt)\.se)|(plex)\.tv$)/
+/^api\.crealitycloud\.com/
 /^api\.waqi\.info$/
 /^cdn\.fwupd\.org$/
 /^connectivitycheck\.gstatic\.com$/
