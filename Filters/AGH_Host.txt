@@ -5717,7 +5717,6 @@
 ||adinfinitum.in^
 ||adinfo.aol.com^
 ||adinfo.ru^
-||adinfo.support^
 ||adinfo.tango.me^
 ||adinfuse.com^
 ||adingo.jp^
@@ -6016,7 +6015,6 @@
 ||admission.net^
 ||admissiondemeanourusage.com^
 ||admissionguy.com^
-||admissionmining.com^
 ||admissionreceipt.com^
 ||admitad-connect.com^
 ||admitad.com^
@@ -27966,7 +27964,6 @@
 ||cutterinductiv.com^
 ||cuttingstrikingtells.com^
 ||cuttlefly.com^
-||cutty.app^
 ||cuurrycraaft.xyz^
 ||cuveley.com^
 ||cuvtnzv.cn^
@@ -38240,6 +38237,7 @@
 ||expekt.se^
 ||expelledmotivestall.com^
 ||expensesvisionhub.buzz^
+||expensivefire.com^
 ||expensivepillowwatches.com^
 ||expensivesurvey.click^
 ||expepp.de^
@@ -41778,6 +41776,7 @@
 ||freecounterstat.com^
 ||freedailydownload.com^
 ||freedatinghookup.com^
+||freedom-5g.com^
 ||freedom-ca-5g.com^
 ||freedom.saeedporyan001.workers.dev^
 ||freedom.service-update3.com^
@@ -66788,6 +66787,7 @@
 ||modato.ru^
 ||modawanilia.com^
 ||moddb.fr^
+||moddetail.com^
 ||modelatos.com^
 ||modelingfraudulent.com^
 ||modello.co.il^
@@ -69595,6 +69595,7 @@
 ||navi38.ru^
 ||navi39.ru^
 ||navi4.com^
+||navi4.ru^
 ||navi42.ru^
 ||navi45.ru^
 ||navi5.com^
@@ -69604,7 +69605,6 @@
 ||navi58.com^
 ||navi59.ru^
 ||navi6.com^
-||navi61.ru^
 ||navi63.ru^
 ||navi65.com^
 ||navi66.ru^
@@ -70208,7 +70208,6 @@
 ||new-access802.net^
 ||new-adtest.pages.dev^
 ||new-assessment.online^
-||new-bigpenn.com^
 ||new-collect.albacross.com^
 ||new-digital-lab-agency.com^
 ||new-incoming.email^
@@ -87547,6 +87546,7 @@
 ||rps-uk.rockpapershotgun.com^
 ||rpsukimsjy.com^
 ||rpt.kidsfootlocker.com^
+||rptbaa.shop^
 ||rptmoczqsf.com^
 ||rpts.org^
 ||rpvq.lat^
@@ -94602,7 +94602,6 @@
 ||solucx.com.br^
 ||solusisehatkuonline.com^
 ||solution-solutions.com^
-||solution7energieqc.com^
 ||solution911.com^
 ||solutionanalyzer.com^
 ||solutionfun.info^
@@ -98071,6 +98070,7 @@
 ||sultanofhearts.com^
 ||sultanonline.icu^
 ||sultrycartonedward.com^
+||sultrytraffic.com^
 ||suluklima.com.tr^
 ||sulvo.co^
 ||sulyaks.net^
@@ -105960,7 +105960,6 @@
 ||uaiqp.top^
 ||uamobile.net^
 ||uamrnaakv.com^
-||uangmu.top^
 ||uaoaig.xyz^
 ||uaqdgrfr.icu^
 ||uarating.com^
@@ -107626,7 +107625,6 @@
 ||uspspsulakm.top^
 ||uspspsulava.top^
 ||uspsr.buzz^
-||uspw.usspaqn.top^
 ||usr.interactiveone.com^
 ||usr.trava.io^
 ||usrattr.ameba.jp^
@@ -111597,7 +111595,6 @@
 ||wallowwholikedto.info^
 ||wallpapersfacts.com^
 ||wallstrads.com^
-||walmartchina.top^
 ||walmartgiftcard.sbs^
 ||walmartshoping.com^
 ||walmartva.icu^
@@ -112751,7 +112748,6 @@
 ||wextr.wjulstock.info^
 ||weyou-group.com^
 ||wezippogrogri-5402.vercel.app^
-||wezpod.com^
 ||wf.quzu.skin^
 ||wf1k20b7nq6m3c463msromga.petdozzy.com^
 ||wf3ejjlc9a6ljnv5j8gra8de.animalsaidz.com^
