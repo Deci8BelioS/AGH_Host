@@ -3630,6 +3630,7 @@
 @@||selfinjurysupport.org.uk^$important
 @@||seniorline.org.nz^$important
 @@||seniors.gov.au^$important
+@@||sentry.libbyapp.com^$important
 @@||sercomtel.com.br^$important
 @@||service.thecloud.net^$important
 @@||services.addons.mozilla.org^$important
