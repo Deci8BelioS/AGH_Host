@@ -639,6 +639,8 @@
 @@||ca3.magna.com^$important
 @@||ca3.magnapowertrain.com^$important
 @@||ca3.magnasteyr.com^$important
+@@||cache.l.google.com^$important
+@@||cache.pack.google.com^$important
 @@||cachetserveur.ocsp.certigna.fr^$important
 @@||cachetserveur.ocsp.dhimyotis.com^$important
 @@||cacrl.actalis.it^$important
@@ -794,6 +796,7 @@
 @@||chatrisp.apn^$important
 @@||chatrweb.apn^$important
 @@||chatrwireless.com^$important
+@@||checkout.aa.com^$important
 @@||childautism.org.uk^$important
 @@||childfocus.be^$important
 @@||childhelp.org^$important
@@ -1715,7 +1718,9 @@
 @@||fcs-keys.g.aaplimg.com^$important
 @@||fcsc.caritas.org.hk^$important
 @@||fdroid-repo.calyxinstitute.org^$important
+@@||fdroid.ironfoxoss.org^$important
 @@||fdroid.link^$important
+@@||fdroid.tetaneutral.net^$important
 @@||fds.org.au^$important
 @@||fe.csp.multicertify.com^$important
 @@||feddcsweb.managed.entrust.com^$important
@@ -1726,6 +1731,7 @@
 @@||fi.omv.es^$important
 @@||fido.ca^$important
 @@||fier.nl^$important
+@@||files.aa.entertainment.viasat.com^$important
 @@||filterlists.com^$important
 @@||filters.adtidy.org^$important
 @@||fire.walla^$important
@@ -2280,8 +2286,10 @@
 @@||localbattle.net^$important
 @@||location.nexteldata.com.mx^$important
 @@||loggedin.wifigem.it^$important
+@@||login-awe-cluster.attwifi.com^$important
 @@||login-federated.windstream.com^$important
 @@||login.amtrakwifi.com^$important
+@@||login.attwifi.com^$important
 @@||login.cloud5.com^$important
 @@||login.cloudi-fi.net^$important
 @@||login.innflux.com^$important
@@ -2297,9 +2305,11 @@
 @@||loginportal8.wanderingwifi.com^$important
 @@||loopmobile.in^$important
 @@||lostrealm-my.sharepoint.com^$important
+@@||lounge.aa.com^$important
 @@||lovelife.org.za^$important
 @@||lowi.omv.es^$important
 @@||lowi.private.omv.es^$important
+@@||lpv.attwifi.com^$important
 @@||lsmmsc.xtra.co.nz^$important
 @@||lsxtra.co.nz^$important
 @@||lte-d.ocn.ne.jp^$important
@@ -3329,6 +3339,7 @@
 @@||ovivomobile.com^$important
 @@||ovivomvno.com^$important
 @@||p01-swdownload.swu-apple.com.akadns.net^$important
+@@||pack.google.com^$important
 @@||packages.mozilla.org^$important
 @@||palemoon.org^$important
 @@||palliumindia.org^$important
@@ -3509,6 +3520,7 @@
 @@||remote-settings.nonprod.webservices.mozgcp.net^$important
 @@||remote-settings.prod.webservices.mozgcp.net^$important
 @@||repeater.asus.com^$important
+@@||repo.accrescent.app^$important
 @@||repo.ialab.dsu.edu^$important
 @@||repo.iut.ac.ir^$important
 @@||repo.ivpn.net^$important
@@ -3611,6 +3623,7 @@
 @@||sdafmh.org.uk^$important
 @@||seamlessupdate.app^$important
 @@||sectigo.com^$important
+@@||secure-login.attwifi.com^$important
 @@||secure.11os.com^$important
 @@||secure.avangate.com^$important
 @@||secure.brightcove.com^$important
@@ -3927,6 +3940,8 @@
 @@||tmovil.cl^$important
 @@||token.safebrowsing.apple^$important
 @@||token.safebrowsing.apple.com^$important
+@@||tools.google.com^$important
+@@||tools.l.google.com^$important
 @@||tor.bravesoftware.com^$important
 @@||tot3g.net^$important
 @@||tplinkap.net^$important
@@ -4050,6 +4065,7 @@
 @@||verisign.com^$important
 @@||versioncheck-bg.addons.mozilla.org^$important
 @@||versioncheck-bg.addons.thunderbird.net^$important
+@@||versioncheck.addons.mozilla.org^$important
 @@||vertrouwenscentrum-kindermishandeling.be^$important
 @@||vetcenter.va.gov^$important
 @@||veterans.gc.ca^$important
@@ -4057,6 +4073,7 @@
 @@||veteranscrisisline.net^$important
 @@||vfinternet.au^$important
 @@||vfinternet.fj^$important
+@@||vgw1-03.phl-philly-iap.lpv.attwifi.com^$important
 @@||viaero.com^$important
 @@||vibo.net.tw^$important
 @@||victimsupport.org.nz^$important
