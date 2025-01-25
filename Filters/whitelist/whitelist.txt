@@ -813,6 +813,7 @@
 @@||chinacdn2swupdl.adobe.com.edgesuite.net^$important
 @@||chinacdn2swupdl.adobe.com.edgesuite.net.globalredir.akadns.net^$important
 @@||chromewebstore.google.com^$important
+@@||chromiumdash.appspot.com^$important
 @@||cinet.spcs^$important
 @@||cingular.com^$important
 @@||cinsscore.com^$important
@@ -846,6 +847,7 @@
 @@||clients5.google.com^$important
 @@||clients6.google.com^$important
 @@||cloud-images.ubuntu.com^$important
+@@||cloud.imedia.ie^$important
 @@||cloudflarechallenge.com^$important
 @@||cloudfront.cdn.snapcraftcontent.com^$important
 @@||cloudmesh.net^$important
@@ -861,6 +863,7 @@
 @@||coalitionforthehomeless.org^$important
 @@||codeberg.org^$important
 @@||coherentpath.link^$important
+@@||colab.research.google.com^$important
 @@||combatstress.org.uk^$important
 @@||comcast.rslr.vzwentp^$important
 @@||comcel.com.co^$important
@@ -3825,6 +3828,7 @@
 @@||safebrowsing.cache.l.google.com^$important
 @@||safebrowsing.clients.google.com^$important
 @@||safebrowsing.google.com^$important
+@@||safebrowsing.ironfoxoss.org^$important
 @@||safebrowsing2.brave.com^$important
 @@||safebrowsing2.brave.software^$important
 @@||safebrowsing2.bravesoftware.com^$important
@@ -3856,6 +3860,7 @@
 @@||sb-ssl.bravesoftware.com^$important
 @@||sb-ssl.google.com^$important
 @@||sb-ssl.l.google.com^$important
+@@||sb.google.com^$important
 @@||sbhk.org.hk^$important
 @@||sbux-j3.datavalet.io^$important
 @@||sbux-portal.globalreachtech.com^$important
@@ -4525,6 +4530,7 @@
 @@||widget-cdn.rpxnow.com^$important
 @@||wifi-keys.berkeley.edu^$important
 @@||wifi-viarail.ca^$important
+@@||wifi-xdb.boingohotspot.net^$important
 @@||wifi.airasia.com^$important
 @@||wifi.bahn.de^$important
 @@||wifi.cathaypacific.com^$important
