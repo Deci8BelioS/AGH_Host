@@ -450,6 +450,7 @@
 @@||aruba.odyssys.net^$important
 @@||aspnetcdn.com^$important
 @@||asset-acms.anuvu.cloud^$important
+@@||assets.hcaptcha.starlink.com^$important
 @@||aster.internet^$important
 @@||aster.mms^$important
 @@||aster.pl^$important
@@ -1148,6 +1149,7 @@
 @@||consent.google.vn^$important
 @@||consent.google.vu^$important
 @@||consent.google.ws^$important
+@@||consent.youtube.com^$important
 @@||console.gl-inet.com^$important
 @@||contact.org.uk^$important
 @@||content-signature-2.cdn.mozilla.net^$important
@@ -2180,6 +2182,7 @@
 @@||hawkeyeswitch.net^$important
 @@||hblock.molinero.dev^$important
 @@||hcaptcha.com^$important
+@@||hcaptcha.starlink.com^$important
 @@||hdgender.eu^$important
 @@||headspace.org.au^$important
 @@||health.gov.au^$important
