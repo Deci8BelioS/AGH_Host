@@ -52466,6 +52466,7 @@
 ||iecmca.xyz^
 ||iedalo.fr^
 ||iedc.fitbit.com^
+||iedullkg.com^
 ||ieginc.com^
 ||iekasurveyall.com^
 ||ielmzzm.com^
@@ -63936,7 +63937,6 @@
 ||losingfunk.com^
 ||losingoldfry.com^
 ||losingtiger.com^
-||losital.ru^
 ||losittooday.info^
 ||losobo.xyz^
 ||lossactivity.com^
@@ -110160,7 +110160,6 @@
 ||udcm.yahoo.com^
 ||udd1i5.zhihu.com^
 ||uddayan.com^
-||udeghaipekr.com^
 ||udeias.xyz^
 ||udemy-creators.com^
 ||udeztrb.cn^
@@ -116876,7 +116875,6 @@
 ||weensnandow.com^
 ||weensydudler.com^
 ||weepase.chimmato.top^
-||weepauza.com^
 ||weephuwe.xyz^
 ||weepingheartache.com^
 ||weepingpretext.com^
@@ -120010,7 +120008,6 @@
 ||xml-eu-v4.100conversions.com^
 ||xml-eu-v4.9versemedia.com^
 ||xml-eu-v4.a1.0network.com^
-||xml-eu-v4.adkriv.media^
 ||xml-eu-v4.adverttise.com^
 ||xml-eu-v4.adxpoint.com^
 ||xml-eu-v4.adzreach.com^
