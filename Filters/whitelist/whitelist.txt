@@ -759,6 +759,7 @@
 @@||centarsrce.org^$important
 @@||centerforlegalaid.com^$important
 @@||centermaria.org^$important
+@@||central.access.network^$important
 @@||centrenadja.com^$important
 @@||centrumseksueelgeweld.nl^$important
 @@||cepp.cz^$important
@@ -1155,6 +1156,7 @@
 @@||content-signature-2.cdn.mozilla.net^$important
 @@||content-signature-chains.prod.webservices.mozgcp.net^$important
 @@||contracts.canonical.com^$important
+@@||controller.access.network^$important
 @@||coop.it^$important
 @@||copr.fedorainfracloud.org^$important
 @@||coriolis.fr^$important
@@ -2619,6 +2621,7 @@
 @@||meta-db-worker02.pop.ric.plex.bz^$important
 @@||meta.plex.bz^$important
 @@||metric.gstatic.com^$important
+@@||metrics.torproject.org^$important
 @@||metropcs.mmsmvno.com^$important
 @@||metropcs.net^$important
 @@||mic1.com.lb^$important
