@@ -35,6 +35,9 @@ def filter_lines(lines):
         if line.endswith("r2.dev"):
             normal_domains.add("*.r2.dev")
             continue
+        if line.endswith("dweb.link"):
+            normal_domains.add("dweb.link")
+            continue
         if line.endswith("aomg5bzv7.com"):
             normal_domains.add("aomg5bzv7.com")
             continue
