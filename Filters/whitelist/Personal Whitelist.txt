@@ -55,3 +55,15 @@
 @@||mmcdn.com^
 @@||azure.com^
 @@||nickchan.lol^
+@@||dynu.com^$important
+@@||t.co^$important
+@@||ubuntu.com^$important
+@@||dns.notjakob.com^$important
+@@||beatstars.*^$important
+@@||1001tracklists.com^$important
+@@||icloud.com^$important
+@@||apple.com^$important
+@@||nextdns.io^$important
+@@||ingest.sentry.io^$important
+@@||one.one.one.one^$important
+@@||yt.be^$important
