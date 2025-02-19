@@ -3293,6 +3293,7 @@
 @@||movistar.pe^$important
 @@||movistar.sv^$important
 @@||movistar.ve^$important
+@@||mozilla-download.fastly-edge.com^$important
 @@||mp.mobiel.kpn^$important
 @@||mpr2.bizho.net^$important
 @@||mscwifi.com^$important
@@ -3768,6 +3769,7 @@
 @@||release.calyxinstitute.org^$important
 @@||release.org.uk^$important
 @@||releases.grapheneos.org^$important
+@@||releases.mozilla.org^$important
 @@||releases.obsidian.md^$important
 @@||releases.ubuntu.com^$important
 @@||remote-settings-dev.allizom.org^$important
@@ -3781,6 +3783,7 @@
 @@||repo.jing.rocks^$important
 @@||repo.librewolf.net^$important
 @@||repo.manjaro.org^$important
+@@||repo.secureblue.dev^$important
 @@||repo.steampowered.com^$important
 @@||repo.vivaldi.com^$important
 @@||report.cybertip.org^$important
