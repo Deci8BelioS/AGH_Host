@@ -284,6 +284,8 @@
 @@||adhd.org.nz^$important
 @@||adhdfoundation.org.au^$important
 @@||adhdireland.ie^$important
+@@||adl.windows.com^$important
+@@||adl.windows.com.edgesuite.net^$important
 @@||admin.cs4glte.com^$important
 @@||admindir.admin.ch^$important
 @@||adtidy.net^$important
@@ -719,6 +721,7 @@
 @@||cdn.vidible.tv^$important
 @@||cdn2.optimizely.com^$important
 @@||cdn3.optimizely.com^$important
+@@||cdn77.cachyos.org^$important
 @@||cdnhotspot.afd.azureedge.net^$important
 @@||cdnhotspot.azureedge.net^$important
 @@||cdp-east.pki.disney.com^$important
@@ -1673,6 +1676,7 @@
 @@||device.arubanetworks.com^$important
 @@||device.central.arubanetworks.com.cn^$important
 @@||devicelocation.ngxcld.com^$important
+@@||devicemetadataservice.prod.trafficmanager.net^$important
 @@||devices-v2.arubanetworks.com^$important
 @@||dialogsl.com^$important
 @@||dicasha2.ocsp-certum.com^$important
@@ -4008,6 +4012,10 @@
 @@||stopitnow.org^$important
 @@||storage.snapcraftcontent.com^$important
 @@||store.nethunter.com^$important
+@@||storecatalogrevocation.storequality.microsoft.com.edgekey.net^$important
+@@||storeedgefd.dsx.mp.microsoft.com.edgekey.net^$important
+@@||storeedgefd.dsx.mp.microsoft.com.edgekey.net.globalredir.akadns.net^$important
+@@||storeedgefd.xbetservices.akadns.net^$important
 @@||stratum1.time.cifelli.xyz^$important
 @@||stun.services.mozilla.com^$important
 @@||su-applak.itunes-apple.com.akadns.net^$important
