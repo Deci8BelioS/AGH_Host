@@ -434,6 +434,7 @@
 @@||archive.mozilla.org^$important
 @@||archive.raspbian.org^$important
 @@||archive.ubuntu.com^$important
+@@||archlinux.cachyos.org^$important
 @@||arcor.easybox^$important
 @@||ardownload.adobe.com^$important
 @@||ardownload.adobe.com.edgesuite.net^$important
@@ -703,6 +704,7 @@
 @@||ccsa.ca^$important
 @@||cdimage.debian.org^$important
 @@||cdimage.ubuntu.com^$important
+@@||cdn-1.cachyos.org^$important
 @@||cdn.altstore.io^$important
 @@||cdn.cloudflare.net^$important
 @@||cdn.d-trust-cloudcrl.net^$important
@@ -1997,6 +1999,7 @@
 @@||firstcellular.net^$important
 @@||fis.carmarthenshire.gov.wales^$important
 @@||fld.ba^$important
+@@||floorp-update.ablaze.one^$important
 @@||flyfi.com^$important
 @@||fmc.stc.com.sa^$important
 @@||fmgmobie.pl^$important
@@ -3742,6 +3745,7 @@
 @@||quit.org.nz^$important
 @@||quovadisglobal.com^$important
 @@||qxwz.com^$important
+@@||r.bing.com^$important
 @@||rainlily.org.hk^$important
 @@||rainn.org^$important
 @@||rapecrisis.org.uk^$important
@@ -4295,6 +4299,7 @@
 @@||updates.cdn-apple.com.akadns.net^$important
 @@||updates.g.aaplimg.com^$important
 @@||updates.mozilla.org^$important
+@@||updates.zen-browser.app^$important
 @@||upload.apps.ubuntu.com^$important
 @@||upt.wifi.viasat.com^$important
 @@||uqmobile.jp^$important
