@@ -614,9 +614,16 @@
 @@||buy.gogoinflight.com^$important
 @@||buzzard.any.hu^$important
 @@||bwiam.cust.blueprintrf.com^$important
+@@||c.android.clients.google.com^$important
 @@||c.apple.com^$important
+@@||c.doc-0-0-sj.sj.googleusercontent.com^$important
+@@||c.docs.google.com^$important
+@@||c.drive.google.com^$important
+@@||c.pack.google.com^$important
 @@||c.pki.goog^$important
+@@||c.play.google.com^$important
 @@||c.sk.ee^$important
+@@||c.youtube.com^$important
 @@||c10.fi^$important
 @@||c1neaz.csky.us^$important
 @@||c1nepa.csky.us^$important
@@ -1858,6 +1865,7 @@
 @@||drugsinfo-bg.org^$important
 @@||ds-3.c3pki.chamb.disa.mil^$important
 @@||ds-4.c3pki.den.disa.mil^$important
+@@||ds-global3.l7.search.ystg1.b.yahoo.com^$important
 @@||ds.nca.or.kr^$important
 @@||ds.yessign.or.kr^$important
 @@||dsa-amd.com.edgekey.net^$important
@@ -3719,6 +3727,8 @@
 @@||otag.nvidia.com^$important
 @@||otag.nvidia.com.edgekey.net^$important
 @@||otgeuicc.com^$important
+@@||outgoing.nonprod.webservices.mozgcp.net^$important
+@@||outgoing.prod.webservices.mozgcp.net^$important
 @@||outline.org.nz^$important
 @@||ovivomobile.com^$important
 @@||ovivomvno.com^$important
@@ -3836,6 +3846,7 @@
 @@||prod.braze-cdn.prod.webservices.mozgcp.net^$important
 @@||prod.content-signature-chains.prod.webservices.mozgcp.net^$important
 @@||prod.detectportal.prod.cloudops.mozgcp.net^$important
+@@||prod.outgoing.prod.webservices.mozgcp.net^$important
 @@||proget.makedeb.org^$important
 @@||protonapps.com^$important
 @@||proximus.be^$important
@@ -3875,6 +3886,7 @@
 @@||quovadisglobal.com^$important
 @@||qxwz.com^$important
 @@||r.bing.com^$important
+@@||r.search.yahoo.com^$important
 @@||r.us-east-1.awstrack.me^$important
 @@||r.us-west-2.awstrack.me^$important
 @@||rainlily.org.hk^$important
@@ -4137,6 +4149,7 @@
 @@||sso.wendys.com^$important
 @@||st11p01su-swcdnlocator.swu-apple.com.akadns.net^$important
 @@||stage.connect.edge.ihg.com^$important
+@@||stage.outgoing.nonprod.webservices.mozgcp.net^$important
 @@||standffov.org^$important
 @@||stanev.org^$important
 @@||starbucks-east.datavalet.io^$important
@@ -4574,6 +4587,7 @@
 @@||vselena.bg^$important
 @@||vtext.com^$important
 @@||vvm.ee.co.uk^$important
+@@||vvm.mobile.att.net^$important
 @@||vvm.mobistar.be^$important
 @@||vzims.com^$important
 @@||vzw.otgeuicc.com^$important
