@@ -774,6 +774,7 @@
 ||13518450.xyz^
 ||1352924994.rsc.cdn77.org^
 ||13554359.xyz^
+||1361424968.rsc.cdn77.org^
 ||1364c2e769.26e8264baa.com^
 ||1370065b3a.com^
 ||1377x.to^
@@ -2552,7 +2553,6 @@
 ||5e49f053-1a96-4bfe-b2a1-22c24bb08b14-0-membership.fly.dev^
 ||5e49fd4c08.com^
 ||5e6ef8e03b.com^
-||5e6fac45ed.f7f23a189b.com^
 ||5ea36e0eb5.com^
 ||5ed55e7208.com^
 ||5eef1ed9ac.com^
@@ -2854,7 +2854,6 @@
 ||7-7-7-partner.com^
 ||7-companycompany.com^
 ||7.buddappro.top^
-||700f9a0406.b4ba3365d5.com^
 ||7010-poczta-organizowac.noahcze.eu^
 ||701003.com^
 ||7011.stia.cn^
@@ -2869,7 +2868,6 @@
 ||711f8130e4.com^
 ||71803cab47.diruwa.pl^
 ||718unlimited.com^
-||71e0e9090d.com^
 ||71efe2183b8663ad5bf9d7a9320aeb48.leboncoin.fr^
 ||72-news.com^
 ||720171f1e4.com^
@@ -2968,16 +2966,13 @@
 ||7794.com^
 ||7795bfb724d4b16306823af218bc11fd.com^
 ||77b0d74a17.com^
-||77cae4574b.com^
 ||77sky.de^
 ||781.metrd.site^
 ||78161013.xyz^
-||78187cbed6.com^
 ||7821284.shop^
 ||78276.ussdns01.heketwe.com^
 ||78276.ussdns02.heketwe.com^
 ||783a8dad5d.aliegro.click^
-||783c48008d.e7c1562b4f.com^
 ||7841ffda.xyz^
 ||784re0ikiuy7389ui2jer7teyui.pages.dev^
 ||78587924.xyz^
@@ -3037,7 +3032,6 @@
 ||7d04b01f44.a3517b4a5f.com^
 ||7d14ef9c27.ntfix-pl.fun^
 ||7daystodie.cn^
-||7dfbef87b6.com^
 ||7dot.cn^
 ||7dqjgdk.com^
 ||7dvd.ru^
@@ -3327,7 +3321,6 @@
 ||8nugm4l6j.com^
 ||8ooow12xrk.autograalmann.de^
 ||8po6fdwjsym3.com^
-||8pv9vvi9b.com^
 ||8q7tvj34.xyz^
 ||8q88n.icu^
 ||8qen74i3gyrx0fm.ntoprs.pl^
@@ -4112,7 +4105,6 @@
 ||a2.mediagra.com^
 ||a2.xinhuanet.com^
 ||a24help.ru^
-||a272118d17.com^
 ||a289d7760.choyoga.com^
 ||a2975cb2b2.ntfix-pl.fun^
 ||a2b219c0ce.com^
@@ -4558,7 +4550,6 @@
 ||ab8awk.rest^
 ||ab913aa797e78b3.com^
 ||ab93t2kc.de^
-||aba7348092.com^
 ||abacho.net^
 ||abacusfinance.co.uk^
 ||abacusnet.info^
@@ -17022,7 +17013,6 @@
 ||b347.pottsmerc.com^
 ||b34rightym.com^
 ||b395bfcd.xyz^
-||b3ab84c0f7.com^
 ||b3b4e76625.com^
 ||b3b526dee6.com^
 ||b3b69012e5.tvuwa.pl^
@@ -17116,7 +17106,6 @@
 ||ba46b70722.com^
 ||ba7dea6a05.com^
 ||ba8.jp^
-||ba8bed274a.0daa70aafd.com^
 ||ba9e239613.dd0254aae5.com^
 ||baahnj.bezokularow.pl^
 ||baaomenaltho.com^
@@ -18801,7 +18790,6 @@
 ||bertasxt.com^
 ||berthashuzzard.shop^
 ||bertrambawdily.shop^
-||berunews.com^
 ||berush.com^
 ||berwickveered.shop^
 ||berylliumbase.xyz^
@@ -23466,7 +23454,6 @@
 ||c27902fb3d.com^
 ||c2a0076d.xyz^
 ||c2c24.pl^
-||c2ca4a0340.com^
 ||c2dbb597b0.com^
 ||c2dmax.hair^
 ||c2ec494150.8681b70da0.com^
@@ -32898,7 +32885,6 @@
 ||d.5.to^
 ||d.6xw.com^
 ||d.ab126.com^
-||d.adultporn.tv^
 ||d.agazatmasr.com^
 ||d.airtattoo.com^
 ||d.amsterdamsvloerencentrum.nl^
@@ -34272,7 +34258,6 @@
 ||d4a21398764a529772c6dbdd8dee6a06.groupsorlink.com^
 ||d4ax0r5detcsu.cloudfront.net^
 ||d4bt5tknhzghh.cloudfront.net^
-||d4e5ad4b41.com^
 ||d4ebx5h0p80bx.cloudfront.net^
 ||d4eqyxjqusvjj.cloudfront.net^
 ||d4ngwggzm3w7j.cloudfront.net^
@@ -34301,7 +34286,6 @@
 ||d6.mobaders.com^
 ||d6030fe5c6.com^
 ||d63a3au5lqmtu.cloudfront.net^
-||d6774f016a.com^
 ||d6b79f15733d84c8df8062bfd0db3201.mail-bnpparibas-pl.online^
 ||d6cto2pyf2ks.cloudfront.net^
 ||d6dd0a8c-a077-4452-b291-ad8ee7435e14.selstorage.ru^
@@ -41547,7 +41531,6 @@
 ||dm62uysn32ppt.cloudfront.net^
 ||dm7gsepi27zsx.cloudfront.net^
 ||dm7ii62qkhy9z.cloudfront.net^
-||dmakingbyth.com^
 ||dmare.xyz^
 ||dmatica.it^
 ||dmavtliwh.global^
@@ -48605,7 +48588,6 @@
 ||extole.io^
 ||extopae.icu^
 ||extra-ordianrio.com^
-||extra.imoxxnx.com^
 ||extrablocks.ru^
 ||extractdissolve.com^
 ||extracthorizontaldashing.com^
@@ -49810,7 +49792,6 @@
 ||fe-shop.cc^
 ||fe.lea.lycos.es^
 ||fe.lwcvn.com^
-||fe433129dc.com^
 ||fe4r7k22y68p.info^
 ||fe6rrx.lol^
 ||fe7qygqi2p2h.com^
@@ -60178,6 +60159,7 @@
 ||hbplpubcmxylngfnhrphkjhdnu-dot-polished-shore-301017.uk.r.appspot.com^
 ||hbpnnz.cyou^
 ||hbqabbg.cn^
+||hbqaihowimyiuh.com^
 ||hbszmh.essenza.ng^
 ||hbwrapper.com^
 ||hbxiol.numberingwebsite.com^
@@ -70197,7 +70179,6 @@
 ||jhnnnb.xyz^
 ||jhnsnragzemoer.com^
 ||jhongleen.com^
-||jhoolpalmy.click^
 ||jhpirob.cc^
 ||jhprqu.my-deco-shop.com^
 ||jhprvk.skstoa.com^
@@ -76689,6 +76670,7 @@
 ||liskpiculs.shop^
 ||lismasajestantra.com^
 ||lismcanalys.fun^
+||lissaizocmoog.com^
 ||lissapeterson.com^
 ||list.z.qingting.fm^
 ||listbrandnew.com^
@@ -80421,6 +80403,7 @@
 ||lupon.media^
 ||luponmedia.com^
 ||luptbq.lampsplus.com^
+||luqjuzatt.com^
 ||luqyvp.pandorashop.gr^
 ||luracyi.com^
 ||lurdoocu.com^
@@ -98269,6 +98252,7 @@
 ||peevishaboriginalzinc.com^
 ||peewhouheeku.net^
 ||pef.srl.mybluehost.me^
+||pefslhmrktkvami.com^
 ||pefufv.xyz^
 ||pegah.tech^
 ||pegasidjeez.com^
@@ -106489,7 +106473,6 @@
 ||quicklyedit.com^
 ||quicklymuseum.com^
 ||quickmessage.us^
-||quicknewssurge.com^
 ||quickorange.com^
 ||quickpay-etlsalat.com^
 ||quickpcfixer.click^
@@ -110197,6 +110180,7 @@
 ||rktjxj.icu^
 ||rktu.com^
 ||rkulukhwuoc.com^
+||rkvldurquedh.com^
 ||rkvsbobyil.com^
 ||rkwxfi.xyz^
 ||rkxmow.novasol-vacaciones.es^
@@ -115773,6 +115757,7 @@
 ||serviciotecvalencia.com^
 ||servicosfcporto.com^
 ||serving-sys.com^
+||serving.lookverin.com^
 ||servingcdn.net^
 ||servingserved.com^
 ||servingshade.com^
@@ -118192,7 +118177,6 @@
 ||site.johnlewis-insurance.com^
 ||site.johnlewis.com^
 ||site.lp.tuannybacelarnutri.com.br^
-||site.nudeasianpics.net^
 ||site.opbieden.com^
 ||site.tdk.com^
 ||site0298az-red827azj.marzenaa.pl^
@@ -129341,7 +129325,6 @@
 ||terraincompass.com^
 ||terrakulturegallery.com^
 ||terralert.com^
-||terranewsblast.com^
 ||terrapops.com^
 ||terrapsps.com^
 ||terrapush.com^
@@ -136782,7 +136765,6 @@
 ||updatecenter.qq.com^
 ||updatecompletelyfreetheproduct.vip^
 ||updated.com^
-||updatedbut.com^
 ||updateenow.com^
 ||updatefluency.com^
 ||updatehub.cfd^
@@ -140825,6 +140807,7 @@
 ||volysuo.com^
 ||volyxuu.com^
 ||volyze.com^
+||vomerkalpaks.com^
 ||vomitgirl.org^
 ||vomitsuite.com^
 ||vomiyt.superimmoneuf.com^
@@ -140920,6 +140903,7 @@
 ||voostaidoo.net^
 ||voovoacivoa.net^
 ||vop.su^
+||vophothoorom.net^
 ||vopzhl.icu^
 ||voqmux.glamira.com.tr^
 ||voqupoe.com^
@@ -147786,6 +147770,7 @@
 ||yeyvibe.com^
 ||yezztf.pinkelephant.co.kr^
 ||yf5.voyage-prive.at^
+||yf9pkk1q.com^
 ||yfaqgk.xyz^
 ||yfasjfk.icu^
 ||yfaygn.natureetdecouvertes.com^
