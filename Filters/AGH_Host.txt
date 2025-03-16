@@ -12301,7 +12301,6 @@
 ||animeherd.com^
 ||animemiru.com^
 ||animeplaynow.com^
-||animeshoppers.com^
 ||animesvost.ru^
 ||animi2.com^
 ||animits.com^
@@ -13247,7 +13246,6 @@
 ||app-promo.com^
 ||app-sec.buzz^
 ||app-stock.com^
-||app-uniswap.icu^
 ||app-uniswap.uno^
 ||app-uniswapping.org^
 ||app.12thman.com^
@@ -25744,6 +25742,7 @@
 ||certificateuitycenter.com^
 ||certificateuitygroup.com^
 ||certified-apps.com^
+||certified-sale.com^
 ||certified-toolbar.com^
 ||certifiedwinners.info^
 ||certifiedwinners.today^
@@ -25859,6 +25858,7 @@
 ||cfv.yutb.top^
 ||cfvcjyksaerua.fun^
 ||cfw.dexscreener.com^
+||cfwlvmg.top^
 ||cfyhym.weightwatchers.fr^
 ||cfzhjf.xspo.ch^
 ||cfzrh-xqwrv.site^
@@ -54460,7 +54460,6 @@
 ||gearinformer.com^
 ||gearmatch.com^
 ||gearsofghosts.com^
-||gearstastic.com^
 ||geartheworld.org^
 ||gearupguilford.net^
 ||gearver.com^
@@ -111528,7 +111527,6 @@
 ||runesingerschronicles.com^
 ||runetki.co^
 ||rungamepc.ru^
-||rungbred.top^
 ||rungdefendantfluent.com^
 ||rungoverjoyed.com^
 ||rungs.co.uk^
@@ -128695,7 +128693,6 @@
 ||tec.sarl.tk^
 ||tecadit.com^
 ||tecaitouque.net^
-||tecappcloud.com^
 ||tecdef.com^
 ||tech-geek.xyz^
 ||tech-mech.org^
@@ -136195,14 +136192,12 @@
 ||uniswapdefi.xyz^
 ||uniswapetf.xyz^
 ||uniswapfund.xyz^
-||uniswapgo.com^
 ||uniswaphub.xyz^
 ||uniswaplabs.xyz^
 ||uniswaplender.xyz^
 ||uniswaplending.xyz^
 ||uniswapnft.xyz^
 ||uniswapr.org^
-||uniswaps.tech^
 ||uniswaps.website^
 ||uniswapstake.xyz^
 ||uniswapstaking.xyz^
@@ -149019,8 +149014,6 @@
 ||zeratys.com^
 ||zeraxea6.pro^
 ||zercenius.com^
-||zerdaliz.com^
-||zeredress.com^
 ||zerg.pro^
 ||zergnet.com^
 ||zero-mu.com^
@@ -149111,7 +149104,6 @@
 ||zfwgn.icu^
 ||zg.mmyuer.com^
 ||zg2hug.top^
-||zgalaxytee.com^
 ||zgarnij-nagrode.com^
 ||zgfilz.propertyfinder.eg^
 ||zggrzz.com^

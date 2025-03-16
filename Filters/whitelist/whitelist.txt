@@ -2223,6 +2223,7 @@
 @@||gomobile.fi^$important
 @@||good.call^$important
 @@||good2talk.ca^$important
+@@||google-ohttp-relay-safebrowsing.fastly-edge.com^$important
 @@||googleapis.com^$important
 @@||goto.virginmobile.uk^$important
 @@||gov.br^$important
@@ -2720,6 +2721,7 @@
 @@||mankind.org.uk^$important
 @@||manntalks.org^$important
 @@||manxpronto.net^$important
+@@||market.android.com^$important
 @@||marketplace.visualstudio.com^$important
 @@||marriottwifi.com^$important
 @@||mass.at^$important
@@ -4350,6 +4352,7 @@
 @@||time.asia.apple.com^$important
 @@||time.cifelli.xyz^$important
 @@||time.dfm.dk^$important
+@@||time.esa.int^$important
 @@||time.euro.apple.com^$important
 @@||time.g.aaplimg.com^$important
 @@||time.google.com^$important
@@ -4359,6 +4362,7 @@
 @@||time01.mel.optusnet.com.au^$important
 @@||time01.syd.optusnet.com.au^$important
 @@||time02.mel.optusnet.com.au^$important
+@@||time1.esa.int^$important
 @@||time1.google.com^$important
 @@||time2.google.com^$important
 @@||time3.google.com^$important
