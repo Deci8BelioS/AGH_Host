@@ -33,6 +33,7 @@
 /^((www|ipv6)\.msftconnecttest\.com$|^dns\.msftncsi\.com$)/
 /^((www|z-p42-instagram\.c10r)\.)?instagram.com|^(s(content|tatic)\.)cdninstagram\.com$/
 /^(alerts|brands|demo|www)?\.home-assistant\.io|hooks\.nabu\.casa$/
+/^(api|static0|digital-assets)\.fitbit\.com$/
 /^(auth|c(fg|hat|ontent-system|hat)|e(mbed|xternal-(accounts|users))|galaxy-(library|promos)|game(play|sdb)|images|login|marketing-sections|menu|notifications(-pusher(-aws)?)?|presence|r(ecommendations-api|emote-config)|www)\.gog\.com$/
 /^(beehive|nucleo)\.neatocloud\.com$/
 /^(cava(notification|internal)|mexx|www)\.bankid\.com$/
@@ -53,8 +54,7 @@
 /^(userlocation|messages|safebrowsing|play|steamcloud-eu-fra\.storage|fcm|android|maps|www|fonts|youtubei|firebaseremoteconfig|(notifications|gnpfesdk|geller|lamssettings|jnn|androidpay-users|deviceintegritytokens|playatoms|ulp1p|people|reach|semanticlocation|reminders|androidtvlauncherxfe|update)-pa|staging-locationhistory-pa\.sandbox|instantmessaging-pa-preprod-eu)\.googleapis.com$/
 /^(wbsapi|static|sct01-ws|prod\.rudderstack)\.withings\.net$/
 /^api([0-9])?[-\.].*((((((((teslacoilapps|accounts\.nintendo|minecraftservices|techlandonlineservices|gog|pushbullet|github|google|steampowered|blizzard|dropbox|twitter|soundcloud|authy|firefox|discogs|postnord|pushbullet|samsungcloud|telldus|unsplash)\.com|(audnex)\.us)|(snapcraft)\.io)|(signal|jdownloader)\.org)|(epicgames)\.dev$)|(ipdata)\.co)|(svt)\.se)|(plex)\.tv$)/
-/^api\.crealitycloud\.com/
-/^api\.fitbit\.com$/
+/^api\.crealitycloud\.com$/
 /^api\.waqi\.info$/
 /^cdn\.fwupd\.org$/
 /^connectivitycheck\.gstatic\.com$/
