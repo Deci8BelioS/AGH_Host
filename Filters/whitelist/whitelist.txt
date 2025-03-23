@@ -1,15 +1,16 @@
-@@||(^(hub-api|global-api)\.airthin\.gs$|^(ext-api|accounts-api)\.airthings\.com$)^$important
 /(^(dl|ns[12])\.)?dropbox\.com|^(dl)\.dropboxusercontent\.com$/
+/(^(hub-api|global-api)\.airthin\.gs$|^(ext-api|accounts-api)\.airthings\.com$)/
 /(^(pkg|electron)\.)?authy\.com$/
 /(^(static|repo|download(s)?|dl|fw-(download|update))\.ubnt|^global\.(stun|turn)\.twilio|^(client|device|update)\.amplifi|^sp-dir\.uwn|ips1\.unifi-ai)\.com$/
-/(^(x[0-9]\.c|(e[0-9]|r[0-9])\.o)\.lencr\.org$|^letsencrypt\.org$)/
+/(^(x[0-9]{1,2}\.c|(e[0-9]{1,2}|r[0-9]{1,2})\.o)\.lencr\.org$|^letsencrypt\.org$)/
 /(^h(30494|20593)\.www[23]\.hp\.com$|^xmpp005\.hpeprint\.com$)/
+/(^tracking\.earlybird\.delivery$|^track\.earlybird\.se$)/
 /(i18n\.)?prismlauncher.org$/
 /(profile\.accounts|detectportal|www)(\.)firefox\.com$|(aus5|www|(services\.)?addons|(versioncheck-bg|services)\.addons)(\.)mozilla\.org|(assets|(normandy|firefox-settings-attachments|content-signature-2)\.cdn)\.mozilla\.net|((firefox\.settings|classify-client)\.services|(token|push|shavar|location|sync-1-us-west1-g\.sync)\.services)(\.)mozilla\.com|^firefoxusercontent\.com$/
 /^(((a)?live)\.)?github\.com$|^(repository-images|avatars)\.githubusercontent\.com$|^github\.githubassets\.com$/
 /^(((cf-svcs|sus\.dhg|svcs|home|appcompatibility)\.)?myharmony\.com$|^(pubsub|ps-[0-9]{1,3})\.pubnub\.com)|accounts\.logi\.com$/
 /^((0\.client-channel|android\.clients|mail|youtube-ui\.l|inbox|clients[1-9]|cse|ogs|play|pki-goog\.l|apis|plus\.l|www(3\.l)?|video-stats\.l|id)\.)?google.com|googleapis\.com|^(ssl\.)?gstatic\.com$|^(manifest|redirector)\.googlevideo\.com|(geo|yt)3\.ggpht\.com$/
-/^(([0-9-]{1,3})+\.mydns|my)\.jdownloader.org$/
+/^(([0-9-a-z]{1,3})+\.mydns|my|update(s)?)\.jdownloader.org$/
 /^(([0-9]\.)?(nz|android|openwrt|arch|ubnt|debian)\.)?pool\.ntp\.org$/
 /^((aapi|se)\.)?shouldianswer\.net$/
 /^((account|catalog)-public-service-prod0[0-9]|datarouter|turn\.rtcp\.on|entitlement-public-service-prod0[0-9]|friends-public-service-prod0[0-9]|launcher-public-service-prod0[0-9]|lightswitch-public-service-prod0[0-9]|merchantpool[0-9]|orderprocessor-public-service-ecomprod0[0-9]|payment-website-pci|xmpp-service-prod|auncher-public-service-prod\.ak|priceengine-public-service-ecomprod0[1-9]|library-service\.live\.use1a\.on|datarouter-prod\.ak)(\.ol)?\.epicgames\.com$/
@@ -30,7 +31,7 @@
 /^((tpop-api)\.)?twitter\.com$|(pbs|ton|video|abs|(abs-(0|zero)))\.twimg.com$|^t\.co$/
 /^((tracking|app|portal|account|www)\.)?postnord.com$/
 /^((websocket|stream(2|-(android|extension))?|www|zebra|update|ocelot|static)\.)?pushbullet\.com$/
-/^((www|ipv6)\.msftconnecttest\.com$|^dns\.msftncsi\.com$)/
+/^((www|ipv6)\.msftconnecttest\.com$|^(dns|ipv6)\.msftncsi\.com$)/
 /^((www|z-p42-instagram\.c10r)\.)?instagram.com|^(s(content|tatic)\.)cdninstagram\.com$/
 /^(alerts|brands|demo|www)?\.home-assistant\.io|hooks\.nabu\.casa$/
 /^(api|static0|digital-assets)\.fitbit\.com$/
@@ -53,6 +54,7 @@
 /^(time|path[1-3])\.xtracloud\.net/
 /^(userlocation|messages|safebrowsing|play|steamcloud-eu-fra\.storage|fcm|android|maps|www|fonts|youtubei|firebaseremoteconfig|(notifications|gnpfesdk|geller|lamssettings|jnn|androidpay-users|deviceintegritytokens|playatoms|ulp1p|people|reach|semanticlocation|reminders|androidtvlauncherxfe|update)-pa|staging-locationhistory-pa\.sandbox|instantmessaging-pa-preprod-eu)\.googleapis.com$/
 /^(wbsapi|static|sct01-ws|prod\.rudderstack)\.withings\.net$/
+/^ad-block\.dns\.adguard\.com$/
 /^api([0-9])?[-\.].*((((((((teslacoilapps|accounts\.nintendo|minecraftservices|techlandonlineservices|gog|pushbullet|github|google|steampowered|blizzard|dropbox|twitter|soundcloud|authy|firefox|discogs|postnord|pushbullet|samsungcloud|telldus|unsplash)\.com|(audnex)\.us)|(snapcraft)\.io)|(signal|jdownloader)\.org)|(epicgames)\.dev$)|(ipdata)\.co)|(svt)\.se)|(plex)\.tv$)/
 /^api\.crealitycloud\.com$/
 /^api\.waqi\.info$/
@@ -65,10 +67,8 @@
 /^ocsp(2)?\.((digicert|globalsign|sectigo|sca1b\.amazontrust|starfieldtech|usertrust|(root(ca1|g2)\.amazontrust))\.com$|(pki)\.goog)|(swisssign|comodoca\.com\.cdn\.cloudflare)\.net$/
 /^static\.xx\.fbcdn.net$/
 /^track\.aliexpress\.com/
-/^track\.earlybird\.se$/
 /^tracking\.airmee\.com$/
 /^tracking\.bring\.se$/
-/^tracking\.earlybird\.delivery$/
 /^www\.svt(static)?\.se$/
 @@||0.client-channel.google.com^$important
 @@||02.co.uk^$important
