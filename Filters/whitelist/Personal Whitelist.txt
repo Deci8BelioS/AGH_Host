@@ -67,3 +67,11 @@
 @@||ingest.sentry.io^$important
 @@||one.one.one.one^$important
 @@||yt.be^$important
+@@||mb3admin.com^$important
+@@||uii.io^$important
+@@||beatport.com^$important
+@@||trakt.tv^$important
+@@||carrd.co^$important
+@@||matchgroup-tinder.adsbynimbus.com^$important
+@@||sessions.bugsnag.com^$important
+@@||csstats.gg^$important
