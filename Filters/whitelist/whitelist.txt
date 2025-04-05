@@ -925,6 +925,7 @@
 @@||codeberg.org^$important
 @@||coherentpath.link^$important
 @@||colab.research.google.com^$important
+@@||collector-otp-prod.camsys-apps.com^$important
 @@||combatstress.org.uk^$important
 @@||comcast.rslr.vzwentp^$important
 @@||comcel.com.co^$important
