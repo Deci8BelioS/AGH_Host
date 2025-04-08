@@ -926,6 +926,7 @@
 @@||coherentpath.link^$important
 @@||colab.research.google.com^$important
 @@||collector-otp-prod.camsys-apps.com^$important
+@@||collector-otp-qa.camsys-apps.com^$important
 @@||combatstress.org.uk^$important
 @@||comcast.rslr.vzwentp^$important
 @@||comcel.com.co^$important
@@ -3846,6 +3847,7 @@
 @@||primgw.vowifi2.spcsdns.net^$important
 @@||privacy.sexy^$important
 @@||private.centennialwireless.com^$important
+@@||probeinfo.telemetry.mozilla.org^$important
 @@||prod-pubcerts.licensingstack.com^$important
 @@||prod.balrog.prod.cloudops.mozgcp.net^$important
 @@||prod.braze-cdn.prod.webservices.mozgcp.net^$important
@@ -3981,6 +3983,7 @@
 @@||s.marketwatch.com^$important
 @@||s.youtube.com^$important
 @@||s.ytimg.com^$important
+@@||s0.wp.com^$important
 @@||s1.wp.com^$important
 @@||s2.youtube.com^$important
 @@||sabafon.com^$important
