@@ -2306,6 +2306,11 @@
 @@||helpwanted.nl^$important
 @@||hewakatapu.org.nz^$important
 @@||heyah.pl^$important
+@@||hg-edge-mozilla.fastly-edge.com^$important
+@@||hg-edge.mozilla.org^$important
+@@||hg.cdn.mozilla.net^$important
+@@||hg.mozilla.org^$important
+@@||hg.public.mdc1.mozilla.com^$important
 @@||hi.link^$important
 @@||hilfeportal-missbrauch.de^$important
 @@||hilfetelefon.de^$important
@@ -3871,6 +3876,7 @@
 @@||ptbtime4.ptb.de^$important
 @@||ptci.net^$important
 @@||pubcerts.licenses.adobe.com^$important
+@@||public-data.telemetry.mozilla.org^$important
 @@||public.apps.ubuntu.com^$important
 @@||publicsuffix.org^$important
 @@||pubsub.plex.bz^$important
