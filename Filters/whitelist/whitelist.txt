@@ -4658,6 +4658,7 @@
 @@||versioncheck-bg.addons.mozilla.org^$important
 @@||versioncheck-bg.addons.thunderbird.net^$important
 @@||versioncheck.addons.mozilla.org^$important
+@@||versions.brave.com^$important
 @@||vertrouwenscentrum-kindermishandeling.be^$important
 @@||vetcenter.va.gov^$important
 @@||veterans.gc.ca^$important
