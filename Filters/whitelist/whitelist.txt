@@ -299,7 +299,9 @@
 @@||addons.thunderbird.net^$important
 @@||adfstichting.nl^$important
 @@||adguard-dns.io^$important
+@@||adguard-vpn.com^$important
 @@||adguard.com^$important
+@@||adguard.io^$important
 @@||adguard.org^$important
 @@||adguard.ru^$important
 @@||adhd.org.nz^$important
@@ -320,6 +322,7 @@
 @@||ageaction.ie^$important
 @@||ageuk.org.uk^$important
 @@||agrd.eu^$important
+@@||agrd.io^$important
 @@||agsupdate.adobe.com^$important
 @@||aia.pki.abb.com^$important
 @@||aia.sk.ee^$important
@@ -485,6 +488,7 @@
 @@||apt.ocf.berkeley.edu^$important
 @@||apt.ocf.io^$important
 @@||apt.sonarr.tv^$important
+@@||apt.wikimedia.org^$important
 @@||archive.mozilla.org^$important
 @@||archive.raspbian.org^$important
 @@||archive.ubuntu.com^$important
@@ -2209,6 +2213,7 @@
 @@||ftpmirror1.infania.net^$important
 @@||ftpmirror2.infania.net^$important
 @@||fundatiasensiblu.ro^$important
+@@||fus01.ps3.update.playstation.net^$important
 @@||fwupdate.asuswrt-merlin.net^$important
 @@||fxcapb.ocsp.secomtrust.net^$important
 @@||g2ocsp.managedpki.com^$important
@@ -3833,6 +3838,7 @@
 @@||p59-buy.itunes-apple.com.akadns.net^$important
 @@||p59-buy.itunes.apple.com^$important
 @@||pack.google.com^$important
+@@||packages.adoptium.net^$important
 @@||packages.mozilla.org^$important
 @@||palemoon.org^$important
 @@||palliumindia.org^$important
