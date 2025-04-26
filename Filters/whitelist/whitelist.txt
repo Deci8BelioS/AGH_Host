@@ -4033,6 +4033,7 @@
 @@||referrals.brave.com^$important
 @@||referrals.bravesoftware.com^$important
 @@||refuge.org.uk^$important
+@@||regio-guide.de^$important
 @@||register-development.appattest.apple.com^$important
 @@||register-development.appattest.v.aaplimg.com^$important
 @@||register.appattest.apple.com^$important
@@ -4154,6 +4155,7 @@
 @@||sb-ssl.google.com^$important
 @@||sb-ssl.l.google.com^$important
 @@||sb.google.com^$important
+@@||sbahnstuttgart.zugportal.de^$important
 @@||sbhk.org.hk^$important
 @@||sbux-j3.datavalet.io^$important
 @@||sbux-portal.globalreachtech.com^$important
@@ -4982,3 +4984,4 @@
 @@||zestni.org^$important
 @@||ziggo.dataxs.mobi^$important
 @@||zonamovil.com.pa^$important
+@@||zugportal.de^$important
