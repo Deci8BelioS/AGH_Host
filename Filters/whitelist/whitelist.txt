@@ -216,7 +216,6 @@
 @@||8-courier.push.apple.com^$important
 @@||8.courier-push-apple.com.akadns.net^$important
 @@||8ta.com^$important
-@@||8twyju.wework-us.auth0.com.pivot.prod.auth0edge.com^$important
 @@||9-courier.push.apple.com^$important
 @@||9.courier-push-apple.com.akadns.net^$important
 @@||988lifeline.org^$important
@@ -341,6 +340,7 @@
 @@||airtelmms.com^$important
 @@||airtelnet.es^$important
 @@||airtelwap.es^$important
+@@||airtime.geemedia.com^$important
 @@||ais.co.th^$important
 @@||aka.ms^$important
 @@||akamaihd.net^$important
@@ -407,6 +407,7 @@
 @@||amrau1202.accenture.com^$important
 @@||amt.aland.fi^$important
 @@||amtrakconnect.com^$important
+@@||amtrakwifi.com^$important
 @@||amzn.eu^$important
 @@||amzn.to^$important
 @@||ana-inflight-wifi.com^$important
@@ -509,6 +510,8 @@
 @@||armdl.adobe.com.edgesuite.net^$important
 @@||armmf.adobe.com^$important
 @@||aruba.odyssys.net^$important
+@@||arubanetworks.com^$important
+@@||arubanetworks.com.cn^$important
 @@||aspnetcdn.com^$important
 @@||asrock.com^$important
 @@||asrockchina.com.cn^$important
@@ -1017,6 +1020,7 @@
 @@||connect.rom.miui.com^$important
 @@||connect.viasat.com^$important
 @@||connect.vivacell.am^$important
+@@||connected.xfinity.com^$important
 @@||connectivity-check.ubuntu.com^$important
 @@||connectivity.ecloud.global^$important
 @@||connectivity.zorin-os.com^$important
@@ -1737,7 +1741,6 @@
 @@||d2c8v52ll5s99u.cloudfront.net^$important
 @@||d2gatte9o95jao.cloudfront.net^$important
 @@||d2l.org^$important
-@@||d5bx49i2dab8r.cloudfront.net^$important
 @@||dalan.cust.blueprintrf.com^$important
 @@||dan247.org.uk^$important
 @@||danger.rulez.sk^$important
@@ -2433,14 +2436,12 @@
 @@||ideasclaro.com^$important
 @@||ideasclaro.com.do^$important
 @@||ideasclaro.com.jm^$important
-@@||identity-login-page-prod-login-page-prod.hydra.prod.wwrk.co^$important
 @@||identity.apple.com^$important
 @@||identity.apple.com.akadns.net^$important
 @@||identrust.com^$important
 @@||idms-apple.com.akadns.net^$important
 @@||idmsa.apple.com^$important
 @@||idmsa.idms-apple.com.akadns.net^$important
-@@||idp.wework.com^$important
 @@||iesmms.porta.com.ec^$important
 @@||iesporta.com.ec^$important
 @@||ig.apple.com^$important
@@ -2482,6 +2483,7 @@
 @@||inet.vivacell.am^$important
 @@||inflight-wifi.com^$important
 @@||inflight.pacwisp.net^$important
+@@||inflightinternet.com^$important
 @@||info-link.stripe.com^$important
 @@||info.tailscale.com^$important
 @@||informationchildren.com^$important
@@ -2751,6 +2753,7 @@
 @@||live.com^$important
 @@||live.pre.vodafone.com^$important
 @@||live.thunderbird.net^$important
+@@||live.virginwifi.com^$important
 @@||live.vodafone.com^$important
 @@||live.vodafone.com.fj^$important
 @@||livepassdl.conviva.com^$important
@@ -2825,6 +2828,7 @@
 @@||marriottwifi.com^$important
 @@||mass.at^$important
 @@||massgrave.dev^$important
+@@||massportwifi.com^$important
 @@||mcita.cust.blueprintrf.com^$important
 @@||mclaropr.com^$important
 @@||mda.nifty.com^$important
@@ -3771,6 +3775,7 @@
 @@||omniroot.com^$important
 @@||omnitel.net^$important
 @@||onate.com^$important
+@@||onboard.eurostar.com^$important
 @@||onboard.sbb.ch^$important
 @@||onboardicafe.com^$important
 @@||onetouch.com.gh^$important
@@ -4676,6 +4681,8 @@
 @@||vfinternet.fj^$important
 @@||vgw1-03.phl-philly-iap.lpv.attwifi.com^$important
 @@||viaero.com^$important
+@@||viasat.com^$important
+@@||viasat.com.00d70000000k0rweak.live.siteforce.com^$important
 @@||vibo.net.tw^$important
 @@||victimsupport.org.nz^$important
 @@||video-stats.l.google.com^$important
@@ -4698,6 +4705,7 @@
 @@||virginmobile.co.uk^$important
 @@||virginmobile.co.za^$important
 @@||virginvibe.com.au^$important
+@@||virginwifi.com^$important
 @@||vitamax.internet.vodafone.net^$important
 @@||viva.bh^$important
 @@||viva.com.bh^$important
@@ -4876,8 +4884,6 @@
 @@||wellnesstogether.ca^$important
 @@||westlinkcom.com^$important
 @@||westmerciawomensaid.org^$important
-@@||wework-prod-cd-ovrgwrc52v4ogfdk.edge.wework-us.auth0.com^$important
-@@||wework-prod.wework-us.auth0.com^$important
 @@||whatsup.co.nz^$important
 @@||wholesale.mmsmvno.com^$important
 @@||wideip-dlcdnets.isoi.asia^$important
@@ -4945,7 +4951,6 @@
 @@||wps.v.aaplimg.com^$important
 @@||wroaming.lguplus.co.kr^$important
 @@||ws.audioscrobbler.com^$important
-@@||www-static.wework.com^$important
 @@||www1.defence.gov.au^$important
 @@||www1.dell-cidr.akadns.net^$important
 @@||www2.hse.ie^$important
