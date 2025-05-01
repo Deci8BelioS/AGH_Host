@@ -405,6 +405,7 @@
 @@||amp-api.music.apple.com^$important
 @@||amplitude-studios.us12.list-manage.com^$important
 @@||amrau1202.accenture.com^$important
+@@||ams-analytics-usr01.controld.com^$important
 @@||amt.aland.fi^$important
 @@||amtrakconnect.com^$important
 @@||amtrakwifi.com^$important
@@ -2076,6 +2077,7 @@
 @@||etsaca2017-ocsp2.e-szigno.hu^$important
 @@||etsaca2017-ocsp3.e-szigno.hu^$important
 @@||etxr^$important
+@@||europe.analytics.controld.com^$important
 @@||euskaltel.mobi^$important
 @@||euw1-elb.cloudguest.central.arubanetworks.com^$important
 @@||euw1.cloudguest.central.arubanetworks.com^$important
