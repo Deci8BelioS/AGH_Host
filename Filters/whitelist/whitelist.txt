@@ -220,7 +220,6 @@
 @@||9.courier-push-apple.com.akadns.net^$important
 @@||988lifeline.org^$important
 @@||_http._tcp.security.ubuntu.com^$important
-@@||_https._tcp.packages.mozilla.org^$important
 @@||a-subca1.athexnet.gr^$important
 @@||a1.net^$important
 @@||a2bouygtel.com^$important
@@ -534,6 +533,7 @@
 @@||aterm.me^$important
 @@||atl.mirrors.clouvider.net^$important
 @@||att.mvno^$important
+@@||attachments.prod.remote-settings.prod.webservices.mozgcp.net^$important
 @@||attestation.app^$important
 @@||attwifi.apple.com^$important
 @@||au.au-net.ne.jp^$important
@@ -543,10 +543,13 @@
 @@||audiocontentdownload.g.aaplimg.com^$important
 @@||aur.archlinux.org^$important
 @@||auroraoss.com^$important
+@@||aus-api.mozilla.org^$important
 @@||aus.thunderbird.net^$important
 @@||aus1.torproject.org^$important
 @@||aus2.torproject.org^$important
+@@||aus3.mozilla.org^$important
 @@||aus4-admin.mozilla.org^$important
+@@||aus4.mozilla.org^$important
 @@||aus5.mozilla.org^$important
 @@||aut2know.co.za^$important
 @@||auth.contracts.canonical.com^$important
@@ -590,7 +593,10 @@
 @@||balchik1.sonikstart.eu^$important
 @@||balrog-admin-static-prod.prod.mozaws.net^$important
 @@||balrog-admin-static-stage.stage.mozaws.net^$important
+@@||balrog-api.services.mozilla.com^$important
+@@||balrog-aus3.r53-2.services.mozilla.com^$important
 @@||balrog-aus4-admin.r53-2.services.mozilla.com^$important
+@@||balrog-aus4.r53-2.services.mozilla.com^$important
 @@||balrog-aus5.r53-2.services.mozilla.com^$important
 @@||balrog.nonprod.cloudops.mozgcp.net^$important
 @@||balrog.prod.cloudops.mozgcp.net^$important
@@ -606,6 +612,7 @@
 @@||beeline.kz^$important
 @@||befrienders.org^$important
 @@||bell.ca^$important
+@@||beta.mozilla.org^$important
 @@||bew.orange.co.ke^$important
 @@||beyondblue.org.au^$important
 @@||bfotoronto.ca^$important
@@ -1276,6 +1283,8 @@
 @@||console.gl-inet.com^$important
 @@||contact.org.uk^$important
 @@||content-signature-2.cdn.mozilla.net^$important
+@@||content-signature-chains.nonprod.webservices.mozgcp.net^$important
+@@||content-signature-chains.prod.autograph.services.mozaws.net^$important
 @@||content-signature-chains.prod.webservices.mozgcp.net^$important
 @@||contracts.canonical.com^$important
 @@||controller.access.network^$important
@@ -1893,6 +1902,7 @@
 @@||dovasan.ocsp.certigna.fr^$important
 @@||dovasan.ocsp.dhimyotis.com^$important
 @@||dove.celenity.dev^$important
+@@||download-cdn.prod.mozaws.net^$important
 @@||download-developer.g.aaplimg.com^$important
 @@||download-installer.cdn.mozilla.net^$important
 @@||download-stls.adobe.com.edgesuite.net^$important
@@ -2144,6 +2154,7 @@
 @@||fedir.comsign.co.il^$important
 @@||fedsso.yum.com^$important
 @@||feeds.dshield.org^$important
+@@||fennec-catalog-cdn.prod.mozaws.net^$important
 @@||feodotracker.abuse.ch^$important
 @@||fi.omv.es^$important
 @@||fido.ca^$important
@@ -2153,6 +2164,7 @@
 @@||filters.adtidy.org^$important
 @@||fire.walla^$important
 @@||firefox-settings-attachments.cdn.mozilla.net^$important
+@@||firefox.etp^$important
 @@||firefox.settings.services.mozilla.com^$important
 @@||fireoscaptiveportal.com^$important
 @@||firmaprofesional.com^$important
@@ -3960,11 +3972,16 @@
 @@||private.centennialwireless.com^$important
 @@||probeinfo.telemetry.mozilla.org^$important
 @@||prod-pubcerts.licensingstack.com^$important
+@@||prod.autograph.services.mozaws.net^$important
 @@||prod.balrog.prod.cloudops.mozgcp.net^$important
 @@||prod.braze-cdn.prod.webservices.mozgcp.net^$important
 @@||prod.content-signature-chains.prod.webservices.mozgcp.net^$important
 @@||prod.detectportal.prod.cloudops.mozgcp.net^$important
 @@||prod.outgoing.prod.webservices.mozgcp.net^$important
+@@||prod.productdelivery.prod.webservices.mozgcp.net^$important
+@@||prod.remote-settings.prod.webservices.mozgcp.net^$important
+@@||productdelivery.nonprod.webservices.mozgcp.net^$important
+@@||productdelivery.prod.webservices.mozgcp.net^$important
 @@||proget.makedeb.org^$important
 @@||protonapps.com^$important
 @@||proximus.be^$important
@@ -4071,6 +4088,8 @@
 @@||repo.vivaldi.com^$important
 @@||report.cybertip.org^$important
 @@||repository.mullvad.net^$important
+@@||repository.prod.productdelivery.prod.webservices.mozgcp.net^$important
+@@||repository.stage.productdelivery.nonprod.webservices.mozgcp.net^$important
 @@||repository.swisssign.com^$important
 @@||reprolegalhelpline.org^$important
 @@||reputation.alienvault.com^$important
@@ -4212,6 +4231,8 @@
 @@||setar.aw^$important
 @@||setera.fi^$important
 @@||settings.dev.mozaws.net^$important
+@@||settings.prod.mozaws.net^$important
+@@||settings.services.mozilla.com^$important
 @@||setup.fe.apple-dns.net^$important
 @@||setup.icloud.com^$important
 @@||sf-saas.cdn-apple.com^$important
@@ -4243,6 +4264,7 @@
 @@||sloughsafeguardingpartnership.org.uk^$important
 @@||small.oisd.nl^$important
 @@||smart.com^$important
+@@||smartblock.firefox.etp^$important
 @@||smartone.com^$important
 @@||smartone.com.mo^$important
 @@||smartsites.t-mobile^$important
@@ -4296,8 +4318,12 @@
 @@||sso.arubanetworks.com^$important
 @@||sso.wendys.com^$important
 @@||st11p01su-swcdnlocator.swu-apple.com.akadns.net^$important
+@@||stage.balrog.nonprod.cloudops.mozgcp.net^$important
 @@||stage.connect.edge.ihg.com^$important
+@@||stage.content-signature-chains.nonprod.webservices.mozgcp.net^$important
 @@||stage.outgoing.nonprod.webservices.mozgcp.net^$important
+@@||stage.productdelivery.nonprod.webservices.mozgcp.net^$important
+@@||stage.remote-settings.nonprod.webservices.mozgcp.net^$important
 @@||standffov.org^$important
 @@||stanev.org^$important
 @@||starbucks-east.datavalet.io^$important
@@ -4325,6 +4351,7 @@
 @@||storeedgefd.dsx.mp.microsoft.com.edgekey.net.globalredir.akadns.net^$important
 @@||storeedgefd.xbetservices.akadns.net^$important
 @@||stratum1.time.cifelli.xyz^$important
+@@||stubdownloader.prod.mozaws.net^$important
 @@||stun.services.mozilla.com^$important
 @@||su-applak.itunes-apple.com.akadns.net^$important
 @@||su-cdn.itunes-apple.com.akadns.net^$important
@@ -4673,6 +4700,7 @@
 @@||versioncheck-bg.addons.mozilla.org^$important
 @@||versioncheck-bg.addons.thunderbird.net^$important
 @@||versioncheck.addons.mozilla.org^$important
+@@||versioncheck.prod.mozaws.net^$important
 @@||versions.brave.com^$important
 @@||vertrouwenscentrum-kindermishandeling.be^$important
 @@||vetcenter.va.gov^$important
