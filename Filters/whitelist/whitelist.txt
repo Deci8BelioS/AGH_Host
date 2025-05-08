@@ -3899,7 +3899,9 @@
 @@||pieta.ie^$important
 @@||pinebelt.net^$important
 @@||ping.archlinux.org^$important
+@@||ping.eu^$important
 @@||ping.manjaro.org^$important
+@@||ping.nextdns.io^$important
 @@||ping.ubnt.com^$important
 @@||ping.ui.com^$important
 @@||ping2.ui.com^$important
