@@ -330,6 +330,7 @@
 @@||aiowireless.net^$important
 @@||aip-bg.org^$important
 @@||airborne.gogoinflight.com^$important
+@@||airbornemedia.inflightinternet.com^$important
 @@||airbornesecure.inflightinternet.com^$important
 @@||airbox.home^$important
 @@||aircanadawifi.com^$important
@@ -1031,6 +1032,7 @@
 @@||connect.rom.miui.com^$important
 @@||connect.viasat.com^$important
 @@||connect.vivacell.am^$important
+@@||connected.southwestwifi.com^$important
 @@||connected.xfinity.com^$important
 @@||connectivity-check.ubuntu.com^$important
 @@||connectivity.ecloud.global^$important
@@ -2312,6 +2314,7 @@
 @@||globe.com.ph^$important
 @@||gloworld.com^$important
 @@||go-updater.brave.com^$important
+@@||go.bsky.app^$important
 @@||go.microsoft.com.edgekey.net^$important
 @@||gocbw.com^$important
 @@||godaddy.com^$important
@@ -2509,6 +2512,7 @@
 @@||init.itunes.apple.com^$important
 @@||init.itunes.apple.com.edgesuite.net^$important
 @@||init.push-apple.com.akadns.net^$important
+@@||initial.southwestwifi.com^$important
 @@||initiative-vermisste-kinder.de^$important
 @@||inland3g.com^$important
 @@||insite.intelli-shop.com^$important
@@ -2855,6 +2859,7 @@
 @@||mdsc.ca^$important
 @@||medallionclass.com^$important
 @@||media.ng^$important
+@@||media.southwestwifi.com^$important
 @@||media.videotron.com^$important
 @@||mediamessaging.co.uk^$important
 @@||meditel.ma^$important
@@ -4298,6 +4303,7 @@
 @@||sos.org.sg^$important
 @@||soscentrum.cz^$important
 @@||southallblacksisters.org.uk^$important
+@@||southwest.com^$important
 @@||southwestwifi.com^$important
 @@||sp.koodo.com^$important
 @@||sp.mb.com^$important
@@ -4386,6 +4392,7 @@
 @@||surfmail.com^$important
 @@||survey.medallia.com^$important
 @@||survey3.medallia.com^$important
+@@||swa.mychasecreditcards.com^$important
 @@||swcdn.apple.com^$important
 @@||swcdn.g.aaplimg.com^$important
 @@||swcdnlocator.apple.com^$important
@@ -4486,6 +4493,7 @@
 @@||termwapgsm2.vivo.com.br^$important
 @@||tesa.hr^$important
 @@||tescomobile.liffeytelecom.com^$important
+@@||test-crm.southwestwifi.com^$important
 @@||test.rsp.sysmocom.de^$important
 @@||test.steampowered.com^$important
 @@||tetaneutral.net^$important
