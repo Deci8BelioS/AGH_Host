@@ -213,6 +213,7 @@
 @@||6.courier-push-apple.com.akadns.net^$important
 @@||7-courier.push.apple.com^$important
 @@||7.courier-push-apple.com.akadns.net^$important
+@@||7z9g.mjt.lu^$important
 @@||8-courier.push.apple.com^$important
 @@||8.courier-push-apple.com.akadns.net^$important
 @@||8ta.com^$important
@@ -536,6 +537,26 @@
 @@||asuswrt-merlin.net^$important
 @@||aterm.me^$important
 @@||atl.mirrors.clouvider.net^$important
+@@||atlanta-airport.com^$important
+@@||atlwifi.atlanta-airport.com^$important
+@@||atlwifi0.atlanta-airport.com^$important
+@@||atlwifi1.atlanta-airport.com^$important
+@@||atlwifi10.atlanta-airport.com^$important
+@@||atlwifi11.atlanta-airport.com^$important
+@@||atlwifi12.atlanta-airport.com^$important
+@@||atlwifi13.atlanta-airport.com^$important
+@@||atlwifi14.atlanta-airport.com^$important
+@@||atlwifi15.atlanta-airport.com^$important
+@@||atlwifi16.atlanta-airport.com^$important
+@@||atlwifi17.atlanta-airport.com^$important
+@@||atlwifi2.atlanta-airport.com^$important
+@@||atlwifi3.atlanta-airport.com^$important
+@@||atlwifi4.atlanta-airport.com^$important
+@@||atlwifi5.atlanta-airport.com^$important
+@@||atlwifi6.atlanta-airport.com^$important
+@@||atlwifi7.atlanta-airport.com^$important
+@@||atlwifi8.atlanta-airport.com^$important
+@@||atlwifi9.atlanta-airport.com^$important
 @@||att.mvno^$important
 @@||attachments.prod.remote-settings.prod.webservices.mozgcp.net^$important
 @@||attestation.app^$important
@@ -950,6 +971,9 @@
 @@||click-sap.sfmc-marketing.com^$important
 @@||click.discord.com^$important
 @@||click.e.krogermail.com^$important
+@@||click.e1.victoriassecret.com^$important
+@@||click.email.oldnavy.com^$important
+@@||click.email.pamperedchef.com^$important
 @@||click.email.sonypictures.com^$important
 @@||click.emails.paypal.com^$important
 @@||click.hulumail.com^$important
@@ -957,8 +981,10 @@
 @@||click.nvgaming.nvidia.com^$important
 @@||click.playstationemail.com^$important
 @@||click.redditmail.com^$important
+@@||click.s.kohls.com^$important
 @@||click.subscription.in.gov^$important
 @@||click.victoriassecret.com^$important
+@@||click.virt.s4.exacttarget.com^$important
 @@||clicks.cameo.com^$important
 @@||clicks.cameo.com.cdn.cloudflare.net^$important
 @@||clicks.mozilla.org^$important
@@ -1001,6 +1027,7 @@
 @@||comcel.com.co^$important
 @@||commerce.itunes.apple.com.edgesuite.net^$important
 @@||commercial.ocsp.identrust.com^$important
+@@||community-comcastxfinity.sprinklr.com^$important
 @@||community.chocolatey.org^$important
 @@||comodo.com^$important
 @@||comodoca.com^$important
@@ -1317,6 +1344,7 @@
 @@||cp-webapp.wifi-dev.connected.xfinity.com^$important
 @@||cp-webapp.wifi-stage.connected.xfinity.com^$important
 @@||cp-webapp.wifi.connected.xfinity.com^$important
+@@||cp.oldnavy.com^$important
 @@||cp.pki.abb.com^$important
 @@||cpms.spop10.ams.plex.bz^$important
 @@||cpms35.spop10.ams.plex.bz^$important
@@ -2193,6 +2221,7 @@
 @@||forcesafesearch.google.com^$important
 @@||formulae.brew.sh^$important
 @@||forums.sonarr.tv^$important
+@@||forums.xfinity.com^$important
 @@||foundation.abs-cbn.com^$important
 @@||fp.com.attz^$important
 @@||fpinit-us-w.edge-itunes-apple.com.akadns.net^$important
@@ -2246,6 +2275,7 @@
 @@||gamblinghelpline.co.nz^$important
 @@||gamblinghelponline.org.au^$important
 @@||gamcare.org.uk^$important
+@@||gammacdn.net^$important
 @@||gandhinivas.nz^$important
 @@||gandi.net^$important
 @@||gateway.unicert.com.br^$important
@@ -2730,6 +2760,7 @@
 @@||kymp.net^$important
 @@||kzd-nondiscrimination.com^$important
 @@||l.e.starbucks.com^$important
+@@||l.info.ms.aa.com^$important
 @@||la.mirrors.clouvider.net^$important
 @@||landing.sbb.ch^$important
 @@||laptop-updates-staging.brave.com^$important
@@ -3020,6 +3051,7 @@
 @@||mirrorservice.org^$important
 @@||missingkids.com^$important
 @@||mitmdetection.services.mozilla.com^$important
+@@||mjt.lu^$important
 @@||mm.fcix.net^$important
 @@||mm.movilnet.com.ve^$important
 @@||mm.myboostmobile.com^$important
