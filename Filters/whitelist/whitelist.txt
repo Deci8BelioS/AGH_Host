@@ -789,6 +789,7 @@
 @@||captive.apple.com^$important
 @@||captive.g.aaplimg.com^$important
 @@||captive.gogoinflight.com^$important
+@@||captive.inflightinternet.com^$important
 @@||captive.o2wifi.co.uk^$important
 @@||captivemgr.o2wifi.net.uk^$important
 @@||captiveportal-login.belex.com^$important
