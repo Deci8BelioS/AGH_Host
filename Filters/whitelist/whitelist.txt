@@ -312,7 +312,9 @@
 @@||adl.windows.com.edgesuite.net^$important
 @@||admin-stage.balrog.nonprod.cloudops.mozgcp.net^$important
 @@||admin.cs4glte.com^$important
+@@||admin.fedoraproject.org^$important
 @@||admindir.admin.ch^$important
+@@||ads-track-digest256.dummytracker.org^$important
 @@||adtidy.net^$important
 @@||adtidy.org^$important
 @@||adultadhd.org.au^$important
@@ -417,6 +419,7 @@
 @@||amzn.to^$important
 @@||ana-inflight-wifi.com^$important
 @@||anad.org^$important
+@@||analytics-track-digest256.dummytracker.org^$important
 @@||ancca.correo.com.uy^$important
 @@||ancelutil.com.uy^$important
 @@||andglobal.softbank.ne.jp^$important
@@ -742,6 +745,7 @@
 @@||ca.jotankers.com^$important
 @@||ca.kibs.com.mk^$important
 @@||ca.lispa.it^$important
+@@||ca.mirrors.cicku.me^$important
 @@||ca.mtin.es^$important
 @@||ca.rsasecurity.com^$important
 @@||ca.tipki.it^$important
@@ -1019,6 +1023,8 @@
 @@||cnzd.org^$important
 @@||coalitionforthehomeless.org^$important
 @@||codeberg.org^$important
+@@||cofractal-ewr.mm.fcix.net^$important
+@@||cofractal-sea.mm.fcix.net^$important
 @@||coherentpath.link^$important
 @@||colab.research.google.com^$important
 @@||collector-otp-prod.camsys-apps.com^$important
@@ -1323,6 +1329,7 @@
 @@||controller.access.network^$important
 @@||coop.it^$important
 @@||copr.fedorainfracloud.org^$important
+@@||coresite-atl.mm.fcix.net^$important
 @@||coriolis.fr^$important
 @@||cornerstonemn.org^$important
 @@||corporate-pki.telekom.de^$important
@@ -1938,6 +1945,7 @@
 @@||dove.celenity.dev^$important
 @@||download-cdn.prod.mozaws.net^$important
 @@||download-developer.g.aaplimg.com^$important
+@@||download-ib01.fedoraproject.org^$important
 @@||download-installer.cdn.mozilla.net^$important
 @@||download-stls.adobe.com.edgesuite.net^$important
 @@||download.apple.map.fastly.net^$important
@@ -1958,6 +1966,7 @@
 @@||download.opensuse.org^$important
 @@||download.rbn.com^$important
 @@||download.sonarr.tv^$important
+@@||download1.rpmfusion.org^$important
 @@||downloaddispatch-cdn.itunes-apple.com.akadns.net^$important
 @@||downloaddispatch.itunes.apple.com^$important
 @@||downloaddispatch.itunes.apple.com.edgesuite.net^$important
@@ -2186,6 +2195,7 @@
 @@||fe.csp.multicertify.com^$important
 @@||feddcsweb.managed.entrust.com^$important
 @@||fedir.comsign.co.il^$important
+@@||fedora.mirror.constant.com^$important
 @@||fedsso.yum.com^$important
 @@||feeds.dshield.org^$important
 @@||fennec-catalog-cdn.prod.mozaws.net^$important
@@ -2220,6 +2230,7 @@
 @@||foo.cust.blueprintrf.com^$important
 @@||foobar.turbo.net.id^$important
 @@||forcesafesearch.google.com^$important
+@@||forksystems.mm.fcix.net^$important
 @@||formulae.brew.sh^$important
 @@||forums.sonarr.tv^$important
 @@||forums.xfinity.com^$important
@@ -2243,7 +2254,10 @@
 @@||fritz.nas^$important
 @@||fritz.repeater^$important
 @@||froot.nau.edu^$important
+@@||ftp-chi.osuosl.org^$important
 @@||ftp-hpcom.glb1.hp.com^$important
+@@||ftp-nyc.osuosl.org^$important
+@@||ftp-osl.osuosl.org^$important
 @@||ftp-stud.hs-esslingen.de^$important
 @@||ftp.agdsn.de^$important
 @@||ftp.cvut.cz^$important
@@ -2546,6 +2560,7 @@
 @@||initial.southwestwifi.com^$important
 @@||initiative-vermisste-kinder.de^$important
 @@||inland3g.com^$important
+@@||insect.mm.fcix.net^$important
 @@||insite.intelli-shop.com^$important
 @@||int.movilnet.com.ve^$important
 @@||int.socialmas^$important
@@ -2718,6 +2733,7 @@
 @@||ivor.bg^$important
 @@||iwireless.dataonair.net^$important
 @@||iwireless.datonair.net^$important
+@@||ix-denver.mm.fcix.net^$important
 @@||izzy.zw.is^$important
 @@||jawalnet.com.sa^$important
 @@||jawwal.ps^$important
@@ -2947,12 +2963,14 @@
 @@||mirror.digitalpacific.com.au^$important
 @@||mirror.dst.ca^$important
 @@||mirror.ette.biz^$important
+@@||mirror.facebook.net^$important
 @@||mirror.fcix.net^$important
 @@||mirror.fel.cvut.cz^$important
 @@||mirror.fsf.org^$important
 @@||mirror.fsmg.org.nz^$important
 @@||mirror.funami.tech^$important
 @@||mirror.garr.it^$important
+@@||mirror.glbx.thefacebook.com^$important
 @@||mirror.hamakor.org.il^$important
 @@||mirror.hoobly.com^$important
 @@||mirror.hro.nl^$important
@@ -2983,6 +3001,7 @@
 @@||mirror.reenigne.net^$important
 @@||mirror.rustytel.net^$important
 @@||mirror.sabay.com.kh^$important
+@@||mirror.servaxnet.com^$important
 @@||mirror.serverion.com^$important
 @@||mirror.siena.edu^$important
 @@||mirror.steadfast.net^$important
@@ -2993,10 +3012,12 @@
 @@||mirror.umd.edu^$important
 @@||mirror.ungleich.ch^$important
 @@||mirror.us.leaseweb.net^$important
+@@||mirror.us.mirhosting.net^$important
 @@||mirror.us.oneandone.net^$important
 @@||mirror.vinehost.net^$important
 @@||mirror.wdc2.us.leaseweb.net^$important
 @@||mirror.wearetriple.com^$important
+@@||mirror.web-ster.com^$important
 @@||mirror.xtom.com.hk^$important
 @@||mirror.yandex.ru^$important
 @@||mirror1.hs-esslingen.de^$important
@@ -3037,6 +3058,7 @@
 @@||mirrors.ovh.net^$important
 @@||mirrors.pardisco.co^$important
 @@||mirrors.qontinuum.space^$important
+@@||mirrors.rpmfusion.org^$important
 @@||mirrors.seas.harvard.edu^$important
 @@||mirrors.sjtug.sjtu.edu.cn^$important
 @@||mirrors.sonic.net^$important
@@ -3521,6 +3543,7 @@
 @@||mni.mms^$important
 @@||mni.pl^$important
 @@||mnof.cz^$important
+@@||mnvoip.mm.fcix.net^$important
 @@||mobeelife.net^$important
 @@||mobil2.tmhgprs^$important
 @@||mobil2.tmhmms^$important
@@ -3641,6 +3664,7 @@
 @@||n.vmu.ispsn^$important
 @@||n.w1.ispsn^$important
 @@||n143.network-auth.com^$important
+@@||na.edge.kernel.org^$important
 @@||na.network-auth.com^$important
 @@||na.org.za^$important
 @@||naastencentraal.nl^$important
@@ -3706,7 +3730,9 @@
 @@||nine.plugins.plexapp.com^$important
 @@||nisd.gov.in^$important
 @@||nmcheck.gnome.org^$important
+@@||nnenix.mm.fcix.net^$important
 @@||no-ip.com^$important
+@@||nocix.mm.fcix.net^$important
 @@||node.plexapp.com^$important
 @@||nossl.com^$important
 @@||notabug.org^$important
@@ -3818,6 +3844,7 @@
 @@||office365.com^$important
 @@||ofnew.fr^$important
 @@||ohio.time.system76.com^$important
+@@||ohioix.mm.fcix.net^$important
 @@||oisd.nl^$important
 @@||oister.dk^$important
 @@||ola.com.co^$important
@@ -4327,6 +4354,7 @@
 @@||snu.lge.com^$important
 @@||software.opensuse.org^$important
 @@||solavei.mmsmvno.com^$important
+@@||solidrock.mm.fcix.net^$important
 @@||someonewhocares.org^$important
 @@||sonera.fi^$important
 @@||song.fi^$important
@@ -4436,6 +4464,7 @@
 @@||swdownload.apple.com^$important
 @@||swisssign.net^$important
 @@||switchboard.lgbt^$important
+@@||swquery.apple.com^$important
 @@||swscan-cdn.apple.com.akadns.net^$important
 @@||swscan.apple.com^$important
 @@||swupdl.adobe.com^$important
@@ -4717,6 +4746,7 @@
 @@||us.archive.ubuntu.com^$important
 @@||us.download.nvidia.com^$important
 @@||us.download.nvidia.com.global.ogslb.com^$important
+@@||us.mirrors.cicku.me^$important
 @@||us.timhortonswifi.com^$important
 @@||us12.list-manage.com^$important
 @@||uscc.net^$important
@@ -4820,6 +4850,7 @@
 @@||vodafone.pt^$important
 @@||vodaphone.com.gh^$important
 @@||void.gr^$important
+@@||volico.mm.fcix.net^$important
 @@||volte.aptg.com.tw^$important
 @@||volte.mobilefrdm.ca^$important
 @@||vowifi.jio.com^$important
