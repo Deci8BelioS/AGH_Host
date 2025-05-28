@@ -9,7 +9,7 @@
 | Links | Description | 
 | -- | -- |
 | [**Link raw to AGH_Host**](https://raw.githubusercontent.com/Deci8BelioS/AGH_Host/main/Filters/AGH_Host.txt) (Only AGH) | (100k+ of filters, eliminating subdomains if they appear in the original lists to block the main domain) |
-| [**Link raw to AGH_Host+**](https://raw.githubusercontent.com/Deci8BelioS/AGH_Host/main/Filters/AGH_Host%2B.txt) (Only AGH) | (200k+ of filters, eliminating subdomains if they appear in the original lists to block the main domain) |
+| [**Link raw to AGH_Host+**](https://raw.githubusercontent.com/Deci8BelioS/AGH_Host/main/Filters/AGH_Host%2B.txt) (Only AGH) | (250k+ of filters, eliminating subdomains if they appear in the original lists to block the main domain) |
 | [**Link raw to dnsmasq+**](https://raw.githubusercontent.com/Deci8BelioS/AGH_Host/main/Filters/dnsmasq.txt) (Only adblock-lean) | (200k+ of filters, eliminating subdomains if they appear in the original lists to block the main domain) |
 
 Note: dnsmasq+ list has only been tested in openWRT using [adblock-lean](https://github.com/lynxthecat/adblock-lean)
@@ -27,7 +27,7 @@ This list is being tested on the following O.S., routers and software
 
 | Operating System | Router | Software | 
 | -- | -- | -- |
-| OpenWrt 23.05.5 | Xiaomi Redmi Router AX6S/AX3200 | AdGuard Home v0.107.54 |
+| OpenWrt 23.05.5 | Xiaomi Redmi Router AX6S/AX3200 | AdGuard Home v0.107.62 |
 | OpenWrt 23.05.5 | Xiaomi Redmi Router AX6S/AX3200 | [adblock-lean](https://github.com/lynxthecat/adblock-lean) |
 
 ## Filters on which this list is based:
