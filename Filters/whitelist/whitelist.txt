@@ -420,6 +420,7 @@
 @@||ana-inflight-wifi.com^$important
 @@||anad.org^$important
 @@||analytics-track-digest256.dummytracker.org^$important
+@@||analytics.hatenadiary.com^$important
 @@||ancca.correo.com.uy^$important
 @@||ancelutil.com.uy^$important
 @@||andglobal.softbank.ne.jp^$important
