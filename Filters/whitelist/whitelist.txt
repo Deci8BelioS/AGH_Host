@@ -499,8 +499,10 @@
 @@||apt.ocf.io^$important
 @@||apt.sonarr.tv^$important
 @@||apt.wikimedia.org^$important
+@@||archive-01.torproject.org^$important
 @@||archive.mozilla.org^$important
 @@||archive.raspbian.org^$important
+@@||archive.torproject.org^$important
 @@||archive.ubuntu.com^$important
 @@||archlinux.cachyos.org^$important
 @@||arcor.easybox^$important
@@ -1809,6 +1811,7 @@
 @@||dd-cdn.origin-apple.com.akadns.net^$important
 @@||deb.debian.org^$important
 @@||deb.librewolf.net^$important
+@@||deb.torproject.org^$important
 @@||debian-archive.trafficmanager.net^$important
 @@||debian.cc.lehigh.edu^$important
 @@||debian.cs.binghamton.edu^$important
@@ -1947,7 +1950,9 @@
 @@||download-cdn.prod.mozaws.net^$important
 @@||download-developer.g.aaplimg.com^$important
 @@||download-ib01.fedoraproject.org^$important
+@@||download-installer-origin.cdn.mozilla.net^$important
 @@||download-installer.cdn.mozilla.net^$important
+@@||download-origin.cdn.mozilla.net^$important
 @@||download-stls.adobe.com.edgesuite.net^$important
 @@||download.apple.map.fastly.net^$important
 @@||download.asrock.com^$important
@@ -2259,10 +2264,13 @@
 @@||ftp-hpcom.glb1.hp.com^$important
 @@||ftp-nyc.osuosl.org^$important
 @@||ftp-osl.osuosl.org^$important
+@@||ftp-ssl.mozilla.org^$important
 @@||ftp-stud.hs-esslingen.de^$important
+@@||ftp-test.mozilla.org^$important
 @@||ftp.agdsn.de^$important
 @@||ftp.cvut.cz^$important
 @@||ftp.debian.org^$important
+@@||ftp.eu.mozilla.org^$important
 @@||ftp.fau.de^$important
 @@||ftp.gnome.org^$important
 @@||ftp.gnu.org^$important
@@ -2275,6 +2283,8 @@
 @@||ftp.mozilla.org^$important
 @@||ftp.osuosl.org^$important
 @@||ftp.otenet.gr^$important
+@@||ftp.prod.mozaws.net^$important
+@@||ftp.prod.mozilla.org^$important
 @@||ftp.udx.icscoe.jp^$important
 @@||ftp.us.debian.org^$important
 @@||ftpmirror.infania.net^$important
@@ -4052,6 +4062,7 @@
 @@||prod.outgoing.prod.webservices.mozgcp.net^$important
 @@||prod.productdelivery.prod.webservices.mozgcp.net^$important
 @@||prod.remote-settings.prod.webservices.mozgcp.net^$important
+@@||productdelivery.mozilla-backup.org^$important
 @@||productdelivery.nonprod.webservices.mozgcp.net^$important
 @@||productdelivery.prod.webservices.mozgcp.net^$important
 @@||proget.makedeb.org^$important
@@ -4140,6 +4151,7 @@
 @@||release.calyxinstitute.org^$important
 @@||release.org.uk^$important
 @@||releases.grapheneos.org^$important
+@@||releases.mozilla.com^$important
 @@||releases.mozilla.org^$important
 @@||releases.obsidian.md^$important
 @@||releases.ubuntu.com^$important
