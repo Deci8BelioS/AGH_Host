@@ -856,6 +856,8 @@
 @@||cdn2.optimizely.com^$important
 @@||cdn3.optimizely.com^$important
 @@||cdn77.cachyos.org^$important
+@@||cdnfonts.devolutions.net^$important
+@@||cdnfonts.devolutions.net.cdn.cloudflare.net^$important
 @@||cdnhotspot.afd.azureedge.net^$important
 @@||cdnhotspot.azureedge.net^$important
 @@||cdp-east.pki.disney.com^$important
@@ -2740,6 +2742,8 @@
 @@||ispcc.ie^$important
 @@||isrg.trustid.ocsp.identrust.com^$important
 @@||itelcel.com^$important
+@@||itisatracker.com^$important
+@@||itisatracker.org^$important
 @@||iusacell3g.com^$important
 @@||ivor.bg^$important
 @@||iwireless.dataonair.net^$important
@@ -4104,6 +4108,7 @@
 @@||quantum-mirror.hu^$important
 @@||queerythm.wordpress.com^$important
 @@||quit.org.nz^$important
+@@||quoting.devolutions.com^$important
 @@||quovadisglobal.com^$important
 @@||qxwz.com^$important
 @@||r.bing.com^$important
@@ -4662,6 +4667,7 @@
 @@||track.doordash.com^$important
 @@||track.mail.studentaid.gov^$important
 @@||tracker.gamesdonequick.com^$important
+@@||trackertest.org^$important
 @@||tracking-protection.cdn.mozilla.net^$important
 @@||tracking-protection.prod.mozaws.net^$important
 @@||tracking-protection.stage.mozaws.net^$important
