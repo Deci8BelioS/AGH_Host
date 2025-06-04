@@ -20,7 +20,7 @@ Nota: la lista dnsmasq+ solo ha sido testeada en openWRT usando [adblock-lean](h
 | -- | -- |
 | [**AGH_Host - Regex Blocklist**](https://raw.githubusercontent.com/Deci8BelioS/AGH_Host/main/Filters/blocklist/Regex%20Blocklist.txt) | [**AGH_Host - Custom Whitelist**](https://raw.githubusercontent.com/Deci8BelioS/AGH_Host/main/Filters/whitelist/Custom%20Whitelist.txt) |
 | [**AGH_Host - Custom Blocklist**](https://raw.githubusercontent.com/Deci8BelioS/AGH_Host/main/Filters/blocklist/Custom%20Blocklist.txt) | [**AGH_Host - Whitelist**](https://raw.githubusercontent.com/Deci8BelioS/AGH_Host/main/Filters/whitelist/whitelist.txt) |
-| [**swetoast - adguardhome-lists "REGEX"**](https://raw.githubusercontent.com/swetoast/adguardhome-lists/main/blacklist.txt) |
+| [**swetoast - adguardhome-lists "REGEX"**](https://raw.githubusercontent.com/swetoast/adguardhome-lists/main/blacklist.txt) | [**AGH_Host - Personal Whitelist**](https://raw.githubusercontent.com/Deci8BelioS/AGH_Host/refs/heads/main/Filters/whitelist/Personal%20Whitelist.txt) |
 
 # AVISO: Esta lista de filtros ha sido creada especificamente para Adguard Home y [adblock-lean](https://github.com/lynxthecat/adblock-lean)
 
