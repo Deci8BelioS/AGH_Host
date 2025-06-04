@@ -75,3 +75,9 @@
 @@||matchgroup-tinder.adsbynimbus.com^$important
 @@||sessions.bugsnag.com^$important
 @@||csstats.gg^$important
+@@||vpnbook.com^$important
+@@||teamspeak.com^$important
+@@||zerotier.com^$important
+@@||static-chomikuj.pl^$important
+@@||html-load.com^$important
+@@||whatsapp.net^$important
