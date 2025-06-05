@@ -5024,7 +5024,9 @@
 @@||wholesale.mmsmvno.com^$important
 @@||wideip-dlcdnets.isoi.asia^$important
 @@||widget-cdn.rpxnow.com^$important
+@@||wifi-dev.connected.xfinity.com^$important
 @@||wifi-keys.berkeley.edu^$important
+@@||wifi-stage.connected.xfinity.com^$important
 @@||wifi-viarail.ca^$important
 @@||wifi-xdb.boingohotspot.net^$important
 @@||wifi.airasia.com^$important
