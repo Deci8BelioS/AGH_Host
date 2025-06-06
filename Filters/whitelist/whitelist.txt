@@ -957,6 +957,7 @@
 @@||chinacdn2swupdl.adobe.com.edgesuite.net.globalredir.akadns.net^$important
 @@||chromewebstore.google.com^$important
 @@||chromiumdash.appspot.com^$important
+@@||chtbl.com^$important
 @@||cinet.spcs^$important
 @@||cingular.com^$important
 @@||cinsscore.com^$important
