@@ -213,6 +213,7 @@
 @@||6.courier-push-apple.com.akadns.net^$important
 @@||7-courier.push.apple.com^$important
 @@||7.courier-push-apple.com.akadns.net^$important
+@@||7tiv.net^$important
 @@||7z9g.mjt.lu^$important
 @@||8-courier.push.apple.com^$important
 @@||8.courier-push-apple.com.akadns.net^$important
@@ -643,6 +644,7 @@
 @@||beeline.kz^$important
 @@||befrienders.org^$important
 @@||bell.ca^$important
+@@||bestbuy.7tiv.net^$important
 @@||beta.mozilla.org^$important
 @@||bew.orange.co.ke^$important
 @@||beyondblue.org.au^$important
