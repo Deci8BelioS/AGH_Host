@@ -28,8 +28,8 @@ Esta lista está siendo probada en los siguientes S.O, routers y software
 
 | Sistema Operativo | Router | Software | 
 | -- | -- | -- |
-| OpenWrt 23.05.5 | Xiaomi Redmi Router AX6S/AX3200 | AdGuard Home v0.107.62 |
-| OpenWrt 23.05.5 | Xiaomi Redmi Router AX6S/AX3200 | [adblock-lean](https://github.com/lynxthecat/adblock-lean) |
+| OpenWrt 24.10.2 | Xiaomi Redmi Router AX6S/AX3200 | AdGuard Home v0.107.63 |
+| OpenWrt 24.10.2 | Xiaomi Redmi Router AX6S/AX3200 | [adblock-lean](https://github.com/lynxthecat/adblock-lean) |
 
 ## Filtros en los que se ha basado esta lista:
 
