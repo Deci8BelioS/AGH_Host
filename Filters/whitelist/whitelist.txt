@@ -763,6 +763,7 @@
 @@||ca1.magna.com^$important
 @@||ca1.magnapowertrain.com^$important
 @@||ca1.magnasteyr.com^$important
+@@||ca1.qualtrics.com^$important
 @@||ca2.empleo.gob.es^$important
 @@||ca2.magna.com^$important
 @@||ca2.magnapowertrain.com^$important
@@ -1030,6 +1031,7 @@
 @@||cname.createsend.com^$important
 @@||cnpea.ca^$important
 @@||cnzd.org^$important
+@@||co1.qualtrics.com^$important
 @@||coalitionforthehomeless.org^$important
 @@||codeberg.org^$important
 @@||cofractal-ewr.mm.fcix.net^$important
@@ -1045,6 +1047,7 @@
 @@||commercial.ocsp.identrust.com^$important
 @@||community-comcastxfinity.sprinklr.com^$important
 @@||community.chocolatey.org^$important
+@@||community.qualtrics.com^$important
 @@||comodo.com^$important
 @@||comodoca.com^$important
 @@||comodoca.com.cdn.cloudflare.net^$important
@@ -2512,6 +2515,7 @@
 @@||i.ytimg.com^$important
 @@||i1.ytimg.com^$important
 @@||i2.iwireless.com^$important
+@@||iad1.qualtrics.com^$important
 @@||iamgprs1.ma^$important
 @@||ibc.sasktel.com^$important
 @@||ibox.tim.it^$important
@@ -3754,6 +3758,7 @@
 @@||no-ip.com^$important
 @@||nocix.mm.fcix.net^$important
 @@||node.plexapp.com^$important
+@@||noscript.net^$important
 @@||nossl.com^$important
 @@||notabug.org^$important
 @@||notifications-stage.thunderbird.net^$important
@@ -4301,6 +4306,7 @@
 @@||secure.datavalet.io^$important
 @@||secure.fanboy.co.nz^$important
 @@||secure.guestinternet.com^$important
+@@||secure.informaction.com^$important
 @@||secure.surveymonkey.com^$important
 @@||secure.wayport.net^$important
 @@||securelogin.arubanetworks.com^$important
