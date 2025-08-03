@@ -225,6 +225,8 @@
 @@||988lifeline.org^$important
 @@||_http._tcp.security.ubuntu.com^$important
 @@||a-subca1.athexnet.gr^$important
+@@||a.livegrid.eset.systems^$important
+@@||a.livegrid.gtm.eset.systems^$important
 @@||a1.net^$important
 @@||a2bouygtel.com^$important
 @@||a2ocsp2009.e-szigno.hu^$important
@@ -271,6 +273,8 @@
 @@||acraiz.suscerte.gob.ve^$important
 @@||acrepositorio.icpbrasil.gov.br^$important
 @@||acrse.economia.gob.mx^$important
+@@||acs-home-prod-login-fde-hhd4d2h9drbfg7hy.a02.azurefd.net^$important
+@@||acs-home-prod-myeset-fde-atdba2caexbeadbb.a02.azurefd.net^$important
 @@||acs2.tc^$important
 @@||acs3ca2016-ocsp1.e-szigno.hu^$important
 @@||acsalaska.net^$important
@@ -589,6 +593,8 @@
 @@||audiocontentdownload-row-lb.apple.com.akadns.net^$important
 @@||audiocontentdownload.apple.com^$important
 @@||audiocontentdownload.g.aaplimg.com^$important
+@@||augur.scanners.eset.systems^$important
+@@||augur.scanners.gtm.eset.systems^$important
 @@||aur.archlinux.org^$important
 @@||auroraoss.com^$important
 @@||aus-api.mozilla.org^$important
@@ -615,6 +621,7 @@
 @@||autograph.services.mozaws.net^$important
 @@||autolinkmaker.itunes.apple.com^$important
 @@||autopush.prod.mozaws.net^$important
+@@||avcloud.e5.sk^$important
 @@||avea.com.tr^$important
 @@||aware.ie^$important
 @@||aware.org.sg^$important
@@ -639,6 +646,8 @@
 @@||bahnhoflda.tmhgprs^$important
 @@||bahnhoflda.tmhmms^$important
 @@||bakcell.com^$important
+@@||bal-kube-ecp-gw.trafficmanager.net^$important
+@@||bal-kube-edf-gw.trafficmanager.net^$important
 @@||balchik1.sonikstart.eu^$important
 @@||balrog-admin-static-prod.prod.mozaws.net^$important
 @@||balrog-admin-static-stage.stage.mozaws.net^$important
@@ -736,6 +745,7 @@
 @@||bullyingcanada.ca^$important
 @@||bulsat.com^$important
 @@||burncentrecare.co.uk^$important
+@@||business-account.iam.gtm.eset.systems^$important
 @@||butterfly.org.au^$important
 @@||buy.gogoinflight.com^$important
 @@||buy.itunes-apple.com.akadns.net^$important
@@ -764,6 +774,7 @@
 @@||ca-services.desc.gov.ae^$important
 @@||ca.accenture.com^$important
 @@||ca.actalis.it^$important
+@@||ca.business-account.iam.eset.systems^$important
 @@||ca.cht.com.tw^$important
 @@||ca.cloudguest.central.arubanetworks.com^$important
 @@||ca.darkmatter.ae^$important
@@ -780,12 +791,15 @@
 @@||ca.lispa.it^$important
 @@||ca.mirrors.cicku.me^$important
 @@||ca.mtin.es^$important
+@@||ca.network-access-protection.eset.systems^$important
 @@||ca.rsasecurity.com^$important
 @@||ca.tipki.it^$important
 @@||ca.trustpro.eu^$important
 @@||ca.unicredit.eu^$important
 @@||ca.unicreditgroup.eu^$important
 @@||ca.vodafone.com^$important
+@@||ca.web-access-protection.eset.systems^$important
+@@||ca01.agent.edr.eset.systems^$important
 @@||ca1.agid.gov.it^$important
 @@||ca1.magna.com^$important
 @@||ca1.magnapowertrain.com^$important
@@ -1851,6 +1865,10 @@
 @@||dataplicity.com^$important
 @@||datawikim^$important
 @@||dd-cdn.origin-apple.com.akadns.net^$important
+@@||de.business-account.iam.eset.systems^$important
+@@||de.network-access-protection.eset.systems^$important
+@@||de.web-access-protection.eset.systems^$important
+@@||de01.agent.edr.eset.systems^$important
 @@||deb.debian.org^$important
 @@||deb.librewolf.net^$important
 @@||deb.torproject.org^$important
@@ -1980,6 +1998,7 @@
 @@||dnapro.fi^$important
 @@||dns.msftncsi.com^$important
 @@||dnscheck.grapheneos.org^$important
+@@||dnsj.e5.sk^$important
 @@||doc.saphety.com^$important
 @@||doc.saphety.net^$important
 @@||docs-assets.developer.apple.com^$important
@@ -2011,6 +2030,7 @@
 @@||download.lenovo.com.edgekey.net^$important
 @@||download.lenovo.com.edgekey.net.globalredir.akadns.net^$important
 @@||download.lineageos.org^$important
+@@||download.liveinstaller.eset.systems^$important
 @@||download.mozilla.org^$important
 @@||download.opensuse.org^$important
 @@||download.rbn.com^$important
@@ -2091,6 +2111,7 @@
 @@||ecn.dev.virtualearth.net^$important
 @@||ecomm911.ca^$important
 @@||econet.net^$important
+@@||ecp.eset.systems^$important
 @@||ed.org.nz^$important
 @@||edge-w-balw.customer.io^$important
 @@||edge-west.customer.io^$important
@@ -2179,7 +2200,12 @@
 @@||etsaca2017-ocsp2.e-szigno.hu^$important
 @@||etsaca2017-ocsp3.e-szigno.hu^$important
 @@||etxr^$important
+@@||eu.business-account.iam.eset.systems^$important
+@@||eu.network-access-protection.eset.systems^$important
 @@||eu.qualtrics.com^$important
+@@||eu.web-access-protection.eset.systems^$important
+@@||eu01.agent.edr.eset.systems^$important
+@@||eu01.server.xdr.eset.systems^$important
 @@||europe.analytics.controld.com^$important
 @@||euskaltel.mobi^$important
 @@||euw1-elb.cloudguest.central.arubanetworks.com^$important
@@ -2316,6 +2342,7 @@
 @@||ftp.agdsn.de^$important
 @@||ftp.cvut.cz^$important
 @@||ftp.debian.org^$important
+@@||ftp.eset.sk^$important
 @@||ftp.eu.mozilla.org^$important
 @@||ftp.fau.de^$important
 @@||ftp.gnome.org^$important
@@ -2417,8 +2444,10 @@
 @@||globalsigncdn.com.cdn.cloudflare.net^$important
 @@||globe.com.ph^$important
 @@||gloworld.com^$important
+@@||go-eset-com.trafficmanager.net^$important
 @@||go-updater.brave.com^$important
 @@||go.bsky.app^$important
+@@||go.eset.eu^$important
 @@||go.microsoft.com.edgekey.net^$important
 @@||gocbw.com^$important
 @@||godaddy.com^$important
@@ -2554,8 +2583,16 @@
 @@||i.mxplayer.j2inter.com^$important
 @@||i.pki.goog^$important
 @@||i.ytimg.com^$important
+@@||i1.livegrid.eset.systems^$important
+@@||i1.livegrid.gtm.eset.systems^$important
 @@||i1.ytimg.com^$important
 @@||i2.iwireless.com^$important
+@@||i3.livegrid.eset.systems^$important
+@@||i3.livegrid.gtm.eset.systems^$important
+@@||i4.livegrid.eset.systems^$important
+@@||i4.livegrid.gtm.eset.systems^$important
+@@||i5.livegrid.eset.systems^$important
+@@||i5.livegrid.gtm.eset.systems^$important
 @@||iad1.qualtrics.com^$important
 @@||iamgprs1.ma^$important
 @@||ibc.sasktel.com^$important
@@ -2807,6 +2844,10 @@
 @@||jazztelmms.com^$important
 @@||jeevanaastha.com^$important
 @@||jo.zain.com^$important
+@@||jp01.agent.edr.eset.systems^$important
+@@||jpn.business-account.iam.eset.systems^$important
+@@||jpn.network-access-protection.eset.systems^$important
+@@||jpn.web-access-protection.eset.systems^$important
 @@||jquery.com^$important
 @@||js.hcaptcha.com^$important
 @@||js.radar.com^$important
@@ -2889,6 +2930,7 @@
 @@||links.mozilla.org^$important
 @@||linuxfreedom.com^$important
 @@||linuxmint.com^$important
+@@||lion.nod.sk^$important
 @@||list-manage.com^$important
 @@||lists.blocklist.de^$important
 @@||live.com^$important
@@ -2897,6 +2939,8 @@
 @@||live.virginwifi.com^$important
 @@||live.vodafone.com^$important
 @@||live.vodafone.com.fj^$important
+@@||livegrid.eset.systems^$important
+@@||livegrid.gtm.eset.systems^$important
 @@||livepassdl.conviva.com^$important
 @@||livepatch-files.canonical.com^$important
 @@||livepatch.canonical.com^$important
@@ -4223,6 +4267,8 @@
 @@||redcross.bg^$important
 @@||redcross.ru^$important
 @@||redirect.archlinux.org^$important
+@@||redirector-traf.trafficmanager.net^$important
+@@||redirector.eset.systems^$important
 @@||redirector.googlevideo.com^$important
 @@||rednose.org.au^$important
 @@||referrals.brave.com^$important
@@ -4554,6 +4600,7 @@
 @@||suicidepreventionlifeline.org^$important
 @@||suncom.net^$important
 @@||sunrise.ch^$important
+@@||support-go.eset.eu^$important
 @@||support.hp.com^$important
 @@||support.lenovo.com^$important
 @@||support.lenovo.com.edgekey.net^$important
@@ -4853,6 +4900,7 @@
 @@||updates.cdn-apple.com.akadns.net^$important
 @@||updates.g.aaplimg.com^$important
 @@||updates.mozilla.org^$important
+@@||updates.push.services.mozilla.com^$important
 @@||updates.zen-browser.app^$important
 @@||upload.apps.ubuntu.com^$important
 @@||upt.wifi.viasat.com^$important
@@ -4868,10 +4916,14 @@
 @@||us-sandbox-courier-4.push-apple.com.akadns.net^$important
 @@||us-west-2.awstrack.me^$important
 @@||us.archive.ubuntu.com^$important
+@@||us.business-account.iam.eset.systems^$important
 @@||us.download.nvidia.com^$important
 @@||us.download.nvidia.com.global.ogslb.com^$important
 @@||us.mirrors.cicku.me^$important
+@@||us.network-access-protection.eset.systems^$important
 @@||us.timhortonswifi.com^$important
+@@||us.web-access-protection.eset.systems^$important
+@@||us01.agent.edr.eset.systems^$important
 @@||us12.list-manage.com^$important
 @@||uscc.net^$important
 @@||usccims.com^$important
