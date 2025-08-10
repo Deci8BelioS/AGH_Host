@@ -331,6 +331,7 @@
 @@||adtidy.net^$important
 @@||adtidy.org^$important
 @@||adultadhd.org.au^$important
+@@||aerlingus-wifi.com^$important
 @@||aesigncrl.lawtrust.co.za^$important
 @@||afasic.org.uk^$important
 @@||affirmtrust.com^$important
@@ -855,6 +856,7 @@
 @@||carersaustralia.com.au^$important
 @@||carersuk.org^$important
 @@||carersupport.org.au^$important
+@@||carmel.izzysoft.de^$important
 @@||carnivalwifi.com^$important
 @@||carrefourdata.be^$important
 @@||carrefourmms.be^$important
@@ -1120,6 +1122,8 @@
 @@||connect-edge.ihg.com^$important
 @@||connect.box^$important
 @@||connect.edge.ihg.com^$important
+@@||connect.klm.com^$important
+@@||connect.klm.com-01.edgekey.net^$important
 @@||connect.mobilinkworld.com^$important
 @@||connect.rom.miui.com^$important
 @@||connect.viasat.com^$important
@@ -1990,6 +1994,7 @@
 @@||dl.vanadium.app^$important
 @@||dlcdnets.asus.com^$important
 @@||dlrguest-captive.disney.com^$important
+@@||dlstats.izzyondroid.org^$important
 @@||dlvr.it^$important
 @@||dm.jplat.net^$important
 @@||dmm.com^$important
@@ -2005,6 +2010,7 @@
 @@||docs.telemetry.mozilla.org^$important
 @@||doh.gov.ph^$important
 @@||domina.halcom.si^$important
+@@||dontkillmyapp.com^$important
 @@||doubletree.hiltonwifi.com^$important
 @@||dovasan.ocsp.certigna.fr^$important
 @@||dovasan.ocsp.dhimyotis.com^$important
@@ -4568,6 +4574,8 @@
 @@||static.redhat.com^$important
 @@||static2.ips.apple.com.edgekey.net^$important
 @@||statically.map.fastly.net^$important
+@@||stats.izzyondroid.org^$important
+@@||stats.izzysoft.de^$important
 @@||stay.marriottbonvoy.com^$important
 @@||stdm-drcn.platform.hicloud.com^$important
 @@||steamcdn-a.akamaihd.net^$important
@@ -5229,6 +5237,7 @@
 @@||windows.courier.push.apple.com^$important
 @@||windowsupdate.com^$important
 @@||windtre.it^$important
+@@||wingsconnect.aero^$important
 @@||winhelp2002.mvps.org^$important
 @@||wireless.dish.com^$important
 @@||wirelessfour.mmsmvno.com^$important
