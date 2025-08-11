@@ -26,14 +26,14 @@ jobs:
 
       - name: Install Python dependencies
         run: pip install -r requirements.txt
-        
+
       - name: Set Git user identity
         run: |
           git config --global user.name "${{ secrets.GIT_USER_NAME }}"
           git config --global user.email "${{ secrets.GIT_USER_EMAIL }}"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          
+
       - name: Execute script AGH_Whitelist.py
         run: |
           cd Scripts/
@@ -41,7 +41,7 @@ jobs:
           python3 ./AGH_Whitelist.py
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          
+
       - name: Execute script AGH_filters.py
         run: |
           cd Scripts/
@@ -57,7 +57,7 @@ jobs:
           python3 ./AGH_filters+.py
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          
+
       - name: Execute script dnsmasq_filters+.py
         run: |
           cd Scripts/
@@ -65,7 +65,15 @@ jobs:
           python3 ./dnsmasq_filters+.py
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          
+
+      - name: Execute script dnsmasq_filters.py
+        run: |
+          cd Scripts/
+          chmod +x dnsmasq_filters.py
+          python3 ./dnsmasq_filters.py
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
       - name: Apply changes
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
