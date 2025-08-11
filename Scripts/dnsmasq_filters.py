@@ -56,6 +56,8 @@ def filter_lines(lines):
         if line.endswith("teemill.com"):
             normal_domains.add("teemill.com")
             continue
+        if ".." in line:
+            continue
         else:
             normal_domains.add(line.strip())
     return normal_domains

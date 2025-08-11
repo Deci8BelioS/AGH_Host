@@ -47,6 +47,17 @@ def filter_lines(lines):
         if line.endswith("aomg5bzv7.com"):
             normal_domains.add("aomg5bzv7.com")
             continue
+        if line.endswith("startpage.com"):
+            normal_domains.add("startpage.com")
+            continue
+        if line.endswith("dbankedge.cn"):
+            normal_domains.add("dbankedge.cn")
+            continue
+        if line.endswith("teemill.com"):
+            normal_domains.add("teemill.com")
+            continue
+        if ".." in line:
+            continue
         else:
             normal_domains.add(line.strip())
     return normal_domains
