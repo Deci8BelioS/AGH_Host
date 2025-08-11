@@ -78,7 +78,7 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          git add Filters/AGH_Host.txt Filters/whitelist/whitelist.txt Filters/AGH_Host+.txt Filters/dnsmasq.txt
+          git add Filters/AGH_Host.txt Filters/whitelist/whitelist.txt Filters/AGH_Host+.txt Filters/dnsmasq.txt Filters/dnsmasq_small.txt
           # Check for changes in the staging area before attempting to commit.
           if git diff --cached --quiet; then
             echo "There are no changes to the selected files, nothing to do."
