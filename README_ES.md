@@ -15,7 +15,7 @@
 | [**Enlace a dnsmasq_small**](https://raw.githubusercontent.com/Deci8BelioS/AGH_Host/main/Filters/dnsmasq_small.txt) ([adblock-lean](https://github.com/lynxthecat/adblock-lean)) | (200k+ de filtros, eliminando subdominios si en las listas originales aparecen para bloquear el dominio principal) |
 | [**Enlace a dnsmasq_lite**](https://raw.githubusercontent.com/Deci8BelioS/AGH_Host/main/Filters/dnsmasq_lite.txt) ([adblock-lean](https://github.com/lynxthecat/adblock-lean)) | (150k+ de filtros, eliminando subdominios si en las listas originales aparecen para bloquear el dominio principal) |
 
-Nota: la lista dnsmasq+, dnsmasq_small y dnsmasq_lite  solo ha sido testeada en OpenWRT usando [adblock-lean](https://github.com/lynxthecat/adblock-lean)
+Nota: la lista dnsmasq+, dnsmasq_small y dnsmasq_lite solo ha sido testeada en OpenWRT usando [adblock-lean](https://github.com/lynxthecat/adblock-lean)
 
 # Se recomienda el uso de los siguientes filtros para complementar el archivo AGH_Host o AGH_Host+
 | Blocklist (Sólo AGH) | Whitelist (Sólo AGH) | 
