@@ -2266,6 +2266,8 @@
 @@||fastly-global.cdn.snapcraftcontent.com^$important
 @@||fastly.cdn.snapcraftcontent.com^$important
 @@||fastweb.it^$important
+@@||fcm.clients6.google.com^$important
+@@||fcmconnection.clients6.google.com^$important
 @@||fcs-keys-pub-prod.cdn-apple.com^$important
 @@||fcs-keys.g.aaplimg.com^$important
 @@||fcsc.caritas.org.hk^$important
@@ -3871,6 +3873,7 @@
 @@||noscript.net^$important
 @@||nossl.com^$important
 @@||notabug.org^$important
+@@||notifications-pa.clients6.google.com^$important
 @@||notifications-stage.thunderbird.net^$important
 @@||notifications.google.com^$important
 @@||notifications.thunderbird.net^$important
@@ -4186,6 +4189,7 @@
 @@||primgw.vowifi2.spcsdns.net^$important
 @@||privacy.sexy^$important
 @@||private.centennialwireless.com^$important
+@@||privateca.clients6.google.com^$important
 @@||probeinfo.telemetry.mozilla.org^$important
 @@||prod-pubcerts.licensingstack.com^$important
 @@||prod.autograph.services.mozaws.net^$important
@@ -4270,6 +4274,7 @@
 @@||recaptcha-cn.net^$important
 @@||recaptcha.net^$important
 @@||recaptcha.net.cn^$important
+@@||recaptchaenterprise.clients6.google.com^$important
 @@||redcross.bg^$important
 @@||redcross.ru^$important
 @@||redirect.archlinux.org^$important
