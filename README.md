@@ -12,6 +12,7 @@
 | [**Link raw to AGH_Host+**](https://raw.githubusercontent.com/Deci8BelioS/AGH_Host/main/Filters/AGH_Host%2B.txt) (Only AGH) | (300k+ of filters, eliminating subdomains if they appear in the original lists to block the main domain) |
 | [**Link raw to dnsmasq+**](https://raw.githubusercontent.com/Deci8BelioS/AGH_Host/main/Filters/dnsmasq.txt) (Only adblock-lean) | (300k+ of filters, eliminating subdomains if they appear in the original lists to block the main domain) |
 | [**Link raw to dnsmasq_small**](https://raw.githubusercontent.com/Deci8BelioS/AGH_Host/main/Filters/dnsmasq_small.txt) (Only adblock-lean) | (200k+ of filters, eliminating subdomains if they appear in the original lists to block the main domain) |
+| [**Link raw to dnsmasq_lite**](https://raw.githubusercontent.com/Deci8BelioS/AGH_Host/main/Filters/dnsmasq_lite.txt) (Only adblock-lean) | (150k+ of filters, eliminating subdomains if they appear in the original lists to block the main domain) |
 
 Note: dnsmasq+ and dnsmasq_small list has only been tested in OpenWRT using [adblock-lean](https://github.com/lynxthecat/adblock-lean)
 
