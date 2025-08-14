@@ -23,41 +23,26 @@ def clean_line(line):
     line = re.sub(r'#.*', '', line)
     line = re.sub(r'www\.', '', line)
     line = re.sub(r'\$.*$', '', line)
-    line = line.replace('http://', '').replace('https://', '').replace('||', '').replace('|', '').replace('^', '')
+    line = line.replace('http://', '').replace('https://', '').replace('||', '').replace('|', '').replace('^', '').replace('local=', '').replace('/', '')
     return line
 
 def filter_lines(lines):
     normal_domains = set()
-    for line in lines:
-        line = clean_line(line)
-        if line.startswith(tuple(l1n3)) or not line:
+    allowed_suffixes = {
+        "r2.dev", "dweb.link", "aomg5bzv7.com", "startpage.com",
+        "dbankedge.cn", "teemill.com", "ply.gg", "myportfolio.com",
+        "webflow.io", "zapto.org"
+    }
+    for raw_line in lines:
+        line = clean_line(raw_line)
+        if not line or line.startswith(tuple(l1n3)):
             continue
-        if "*" in line:
+        if "*" in line or ".." in line or "." not in line or line.endswith("."):
             continue
-        if not "." in line:
-            continue
-        if line.endswith("."):
-            continue
-        if line.endswith("r2.dev"):
-            normal_domains.add("r2.dev")
-            continue
-        if line.endswith("dweb.link"):
-            normal_domains.add("dweb.link")
-            continue
-        if line.endswith("aomg5bzv7.com"):
-            normal_domains.add("aomg5bzv7.com")
-            continue
-        if line.endswith("startpage.com"):
-            normal_domains.add("startpage.com")
-            continue
-        if line.endswith("dbankedge.cn"):
-            normal_domains.add("dbankedge.cn")
-            continue
-        if line.endswith("teemill.com"):
-            normal_domains.add("teemill.com")
-            continue
-        if ".." in line:
-            continue
+        for suffix in allowed_suffixes:
+            if line.endswith(suffix):
+                normal_domains.add(suffix)
+                break
         else:
             normal_domains.add(line.strip())
     return normal_domains
@@ -88,7 +73,7 @@ urls = [
     'https://pgl.yoyo.org/adservers/serverlist.php?hostformat=adblockplus&mimetype=plaintext',
     'https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/adguard.txt',
     'https://malware-filter.gitlab.io/malware-filter/phishing-filter-agh.txt',
-    'https://raw.githubusercontent.com/sjhgvr/oisd/refs/heads/main/oisd_big.txt',
+    'https://raw.githubusercontent.com/sjhgvr/oisd/refs/heads/main/dnsmasq2_big.txt',
     'https://raw.githubusercontent.com/StevenBlack/hosts/refs/heads/master/hosts',
     'https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Malware',
     'https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/dyndns.txt',
