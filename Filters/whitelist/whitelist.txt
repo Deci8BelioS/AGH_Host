@@ -669,6 +669,7 @@
 @@||bbnw.jp^$important
 @@||bcbh.ca^$important
 @@||bchydro.ca1.qualtrics.com^$important
+@@||beacondb.derpingu.in^$important
 @@||beateatingdisorders.org.uk^$important
 @@||bedsdv.org.uk^$important
 @@||beeline.kz^$important
@@ -2027,6 +2028,9 @@
 @@||download.cdn.mozilla.net^$important
 @@||download.copr.fedorainfracloud.org^$important
 @@||download.developer.apple.com^$important
+@@||download.garmin.cn^$important
+@@||download.garmin.com^$important
+@@||download.garmin.com.cdn.cloudflare.net^$important
 @@||download.gigabyte.com^$important
 @@||download.gigabyte.com.akamaized.net^$important
 @@||download.gnome.org^$important
@@ -2584,6 +2588,7 @@
 @@||httpforever.com^$important
 @@||hu.upcmobile.com^$important
 @@||huaweimobilewifi.com^$important
+@@||hugedomains.com^$important
 @@||humb.apple.com^$important
 @@||humb.v.aaplimg.com^$important
 @@||i.cvs.com^$important
@@ -3052,6 +3057,7 @@
 @@||meta-db-worker02.pop.ric.plex.bz^$important
 @@||meta.plex.bz^$important
 @@||metric.gstatic.com^$important
+@@||metrics.beacondb.net^$important
 @@||metrics.torproject.org^$important
 @@||metropcs.mmsmvno.com^$important
 @@||metropcs.net^$important
@@ -3997,6 +4003,9 @@
 @@||omms.nate.com^$important
 @@||omniroot.com^$important
 @@||omnitel.net^$important
+@@||omt.garmin.cn^$important
+@@||omt.garmin.com^$important
+@@||omt.garmin.com.cdn.cloudflare.net^$important
 @@||onate.com^$important
 @@||onboard.eurostar.com^$important
 @@||onboard.sbb.ch^$important
@@ -4823,6 +4832,7 @@
 @@||tplinkplclogin.net^$important
 @@||tplinkrepeater.net^$important
 @@||tplinkwifi.net^$important
+@@||trace.moe^$important
 @@||tracfone.com^$important
 @@||tracfone.vzwentp^$important
 @@||track.customer.io^$important
@@ -4844,6 +4854,7 @@
 @@||triangle.org.za^$important
 @@||trib.al^$important
 @@||triplezero.gov.au^$important
+@@||trk.thewanderclub.com^$important
 @@||trueh.com^$important
 @@||truelife.com^$important
 @@||trueworld.net^$important
