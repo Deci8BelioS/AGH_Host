@@ -299,6 +299,7 @@
 @@||active.bhmobile.ba^$important
 @@||activehosted.com^$important
 @@||acwifi.com^$important
+@@||ad.jp^$important
 @@||adaway.org^$important
 @@||adblock.ee^$important
 @@||adblock.mahakala.is^$important
@@ -4194,6 +4195,7 @@
 @@||pqm.arubanetworks.com^$important
 @@||prepago.ancel^$important
 @@||prepay.tesco-mobile.com^$important
+@@||prestream.mov^$important
 @@||pricelist.skype.com^$important
 @@||primgw.vowifi2.spcsdns.net^$important
 @@||privacy.sexy^$important
