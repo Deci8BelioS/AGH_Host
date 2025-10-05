@@ -3939,6 +3939,7 @@
 @@||o2world.sk^$important
 @@||oap7.sprintpcs.com^$important
 @@||oasis-smartsim.com^$important
+@@||obed.servehalflife.com^$important
 @@||obs-login.opensuse.org^$important
 @@||obtainium.imranr.dev^$important
 @@||ocasa.org.nz^$important
