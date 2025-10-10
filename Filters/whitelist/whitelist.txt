@@ -4593,6 +4593,7 @@
 @@||statically.map.fastly.net^$important
 @@||stats.izzyondroid.org^$important
 @@||stats.izzysoft.de^$important
+@@||stats.labs.apnic.net^$important
 @@||stay.marriottbonvoy.com^$important
 @@||stdm-drcn.platform.hicloud.com^$important
 @@||steamcdn-a.akamaihd.net^$important
