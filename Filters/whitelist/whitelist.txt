@@ -3778,6 +3778,7 @@
 @@||my.keenetic.net^$important
 @@||my.plexapp.com^$important
 @@||my.router^$important
+@@||myactivity.google.com^$important
 @@||myblue.com^$important
 @@||mychoicesfoundation.org^$important
 @@||mycricket.com^$important
