@@ -515,6 +515,7 @@
 @@||apps.skype.com^$important
 @@||appsbackup-pa.clients6.google.com^$important
 @@||appspot-preview.l.google.com^$important
+@@||appstore-api.accrescent.app^$important
 @@||apt.izzysoft.de^$important
 @@||apt.ocf.berkeley.edu^$important
 @@||apt.ocf.io^$important
