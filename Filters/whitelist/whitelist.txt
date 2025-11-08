@@ -3717,6 +3717,8 @@
 @@||molly.im^$important
 @@||momms.smartone.com^$important
 @@||monaco-telecom.mc^$important
+@@||monitoring-mfecdn-prod.solaredge.com^$important
+@@||monitoring.solaredge.com^$important
 @@||monternet.com^$important
 @@||mopera.flat.foma.ne.jp^$important
 @@||mopera.net^$important
