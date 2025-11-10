@@ -4473,6 +4473,7 @@
 @@||seniorline.org.nz^$important
 @@||seniors.gov.au^$important
 @@||sentry.libbyapp.com^$important
+@@||sequoia.cdn-apple.com^$important
 @@||sercomtel.com.br^$important
 @@||service.thecloud.net^$important
 @@||services.addons.allizom.org^$important
