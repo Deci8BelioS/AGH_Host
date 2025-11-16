@@ -58,27 +58,11 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Execute script dnsmasq_filters+.py
-        run: |
-          cd Scripts/
-          chmod +x dnsmasq_filters+.py
-          python3 ./dnsmasq_filters+.py
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
       - name: Execute script dnsmasq_filters.py
         run: |
           cd Scripts/
           chmod +x dnsmasq_filters.py
           python3 ./dnsmasq_filters.py
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-      - name: Execute script dnsmasq_filters_lite.py
-        run: |
-          cd Scripts/
-          chmod +x dnsmasq_filters_lite.py
-          python3 ./dnsmasq_filters_lite.py
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
