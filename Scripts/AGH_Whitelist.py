@@ -1,5 +1,5 @@
 import requests, re
-
+from concurrent.futures import ThreadPoolExecutor, as_completed
 from regex import DOMAIN_WHITELIST, DOMAIN_WHITELIST2, DOMAIN_WHITELIST3
 
 urls = [
@@ -13,39 +13,58 @@ unfiltered_urls = [
 
 output_file = r'/home/runner/work/AGH_Host/AGH_Host/Filters/whitelist/whitelist.txt'
 
-l1n3 = ['#', '!']
-l1n3_2 = ['apple.com', 's3.amazonaws.com', 'wp.com', 'amazonaws.com']
+l1n3 = tuple(['#', '!'])
+l1n3_2 = tuple(['apple.com', 's3.amazonaws.com', 'wp.com', 'amazonaws.com'])
+
+IP_PATTERN = re.compile(r'^(0\.0\.0\.0|127\.0\.0\.1)\s+')
+IP_REMOVE = re.compile(r'\b(?:\d{1,3}\.){3}\d{1,3}\b')
+COMMENT_HASH = re.compile(r'##.*')
+COMMENT = re.compile(r'#.*')
+WWW = re.compile(r'www\.')
+DOLLAR = re.compile(r'\$.*$')
+
+DOMAIN_WHITELIST_TUPLE = tuple(DOMAIN_WHITELIST)
+DOMAIN_WHITELIST2_TUPLE = tuple(DOMAIN_WHITELIST2)
+
+download_cache = {}
 
 def download_file(url):
+    if url in download_cache:
+        print(f"  ✓ Using cached version of '{url.split('/')[-1]}'")
+        return download_cache[url]
     try:
-        response = requests.get(url)
+        print(f"  ↓ Downloading '{url.split('/')[-1]}'...", flush=True)
+        response = requests.get(url, timeout=30)
         response.raise_for_status()
-        return response.text.splitlines()
+        lines = response.text.splitlines()
+        download_cache[url] = lines
+        return lines
     except requests.exceptions.RequestException as e:
-        print(f"Error downloading '{url}': {e}")
+        print(f"  ✗ Error downloading from '{url}': {e}")
+        download_cache[url] = []
         return []
 
 def clean_line(line):
     line = line.strip()
-    line = re.sub(r'^(0\.0\.0\.0|127\.0\.0\.1)\s+', '', line)
-    line = re.sub(r'\b(?:\d{1,3}\.){3}\d{1,3}\b', '', line)
-    line = re.sub(r'##.*', '', line)
-    line = re.sub(r'#.*', '', line)
-    line = re.sub(r'www\.', '', line)
-    line = re.sub(r'\$.*$', '', line)
+    line = IP_PATTERN.sub('', line)
+    line = IP_REMOVE.sub('', line)
+    line = COMMENT_HASH.sub('', line)
+    line = COMMENT.sub('', line)
+    line = WWW.sub('', line)
+    line = DOLLAR.sub('', line)
     line = line.replace('http://', '').replace('https://', '').replace('@@||', '').replace('^', '').replace('@@|', '')
     return line
 
 def line_filter(lines):
     valid_domains = set()
-    for line in lines:
-        line = clean_line(line)
+    for raw_line in lines:
+        line = clean_line(raw_line)
         if line.endswith("ntp.org"):
             valid_domains.add("ntp.org")
             continue
-        if line.startswith(tuple(l1n3)) or not line:
+        if not line or line.startswith(l1n3):
             continue
-        if line.startswith(tuple(l1n3_2)) or not line:
+        if line.startswith(l1n3_2):
             continue
         valid_domains.add(line.strip())
     return valid_domains
@@ -53,36 +72,73 @@ def line_filter(lines):
 def unfiltered_lines(lines):
     valid_domains = set()
     for line in lines:
-        if line.startswith(tuple(l1n3)) or not line:
-            continue
         line = line.strip()
-        valid_domains.add(line.strip())
+        if not line or line.startswith(l1n3):
+            continue
+        valid_domains.add(line)
     return valid_domains
 
-unified_content = set()
-
-for url in urls:
-    print(f"Downloading from '{url}'...")
+def download_and_process_filtered(url):
     lines = download_file(url)
-    filtered_domains = line_filter(lines)
-    unified_content.update(filtered_domains)
+    return line_filter(lines)
 
-for url in unfiltered_urls:
-    print(f"Downloading from '{url}'...")
+def download_and_process_unfiltered(url):
     lines = download_file(url)
-    unfiltered_domains = unfiltered_lines(lines)
-    unified_content.update(unfiltered_domains)
+    return unfiltered_lines(lines)
 
-with open(output_file, 'w', encoding='utf-8') as f:
+def process_urls_parallel(url_list, process_func, max_workers=5):
+    all_domains = set()
+    with ThreadPoolExecutor(max_workers=max_workers) as executor:
+        future_to_url = {executor.submit(process_func, url): url for url in url_list}
+        for future in as_completed(future_to_url):
+            url = future_to_url[future]
+            try:
+                domains = future.result()
+                all_domains.update(domains)
+            except Exception as exc:
+                print(f'  ✗ {url} generated an exception: {exc}')
+    return all_domains
+
+def main():
+    print("Starting whitelist generation with parallel downloads...")
+    print(f"Total URLs to process: {len(urls) + len(unfiltered_urls)}")
+    unified_content = set()
+    if urls:
+        print(f"\nProcessing {len(urls)} filtered URLs...")
+        filtered_domains = process_urls_parallel(urls, download_and_process_filtered)
+        unified_content.update(filtered_domains)
+        print(f" ✓ Collected {len(filtered_domains)} filtered domains")
+    if unfiltered_urls:
+        print(f"\nProcessing {len(unfiltered_urls)} unfiltered URLs...")
+        unfiltered_domains = process_urls_parallel(unfiltered_urls, download_and_process_unfiltered)
+        unified_content.update(unfiltered_domains)
+        print(f" ✓ Collected {len(unfiltered_domains)} unfiltered domains")
+    print(f"\n ✓ Total domains before final filtering: {len(unified_content)}")
+    filtered_count = 0
+    valid_domains = []
     for domain in sorted(unified_content):
+        if not domain:
+            filtered_count += 1
+            continue
         if domain.startswith(DOMAIN_WHITELIST3):
+            filtered_count += 1
             continue
-        if domain.endswith(tuple(DOMAIN_WHITELIST)) and not domain.startswith(tuple(DOMAIN_WHITELIST)) or not domain:
+        if domain.endswith(DOMAIN_WHITELIST_TUPLE) and not domain.startswith(DOMAIN_WHITELIST_TUPLE):
+            filtered_count += 1
             continue
-        if domain.endswith(tuple(DOMAIN_WHITELIST2)) and not domain.startswith(tuple(DOMAIN_WHITELIST2)) or not domain:
+        if domain.endswith(DOMAIN_WHITELIST2_TUPLE) and not domain.startswith(DOMAIN_WHITELIST2_TUPLE):
+            filtered_count += 1
             continue
         if not domain.startswith(('||', '@@', '|', '@@/', '/')) and not domain.endswith('$important'):
             domain = f'@@||{domain}^$important'
-        f.write(domain + '\n')
+        valid_domains.append(domain)
+    with open(output_file, 'w', encoding='utf-8') as f:
+        f.write('\n'.join(valid_domains) + '\n')
+    written_count = len(valid_domains)
+    print(f" ✓ Final domains written: {written_count}")
+    print(f" ✓ Domains filtered out: {filtered_count}")
+    print(f" ✓ File '{output_file}' generated successfully.")
+    print(f" ✓ Downloads made: {len(download_cache)}")
 
-print(f"File '{output_file}' generated successfully.")
+if __name__ == "__main__":
+    main()
