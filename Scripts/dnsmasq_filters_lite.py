@@ -15,6 +15,14 @@ def download_file(url):
         print(f"Error downloading from '{url}': {e}")
         return []
 
+def is_valid_domain(domain):
+    """Valida que sea un dominio real y no un patrón regex"""
+    regex_chars = ['\\', '{', '}', '(', ')', '[', ']', '+', '?', '$']
+    if any(char in domain for char in regex_chars):
+        return False
+    domain_pattern = re.compile(r'^(?:[a-zA-Z0-9](?:[a-zA-Z0-9-]{0,61}[a-zA-Z0-9])?\.)+[a-zA-Z]{2,}$')
+    return bool(domain_pattern.match(domain))
+
 def clean_line(line):
     line = line.strip()
     line = re.sub(r'^(0\.0\.0\.0|127\.0\.0\.1)\s+', '', line)
@@ -38,6 +46,8 @@ def filter_lines(lines):
         if not line or line.startswith(tuple(l1n3)):
             continue
         if "*" in line or ".." in line or "." not in line or line.endswith("."):
+            continue
+        if not is_valid_domain(line):
             continue
         for suffix in allowed_suffixes:
             if line.endswith(suffix):
