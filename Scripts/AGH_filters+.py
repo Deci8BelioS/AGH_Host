@@ -58,7 +58,7 @@ def download_file(url):
         print(f"  ✓ Using cached version of '{url.split('/')[-1]}'")
         return download_cache[url]
     try:
-        print(f"  ↓ Downloading '{url.split('/')[-1]}'...")
+        print(f"  ↓ Downloading '{url.split('/')[-1]}'...", flush=True)
         response = requests.get(url, timeout=30)
         response.raise_for_status()
         lines = response.text.splitlines()
@@ -82,8 +82,10 @@ def clean_line(line):
 
 def filter_lines(lines):
     normal_domains = set()
-    for line in lines:
-        line = clean_line(line)
+    for raw_line in lines:
+        if '@@' in raw_line or raw_line.strip().startswith('@@'):
+            continue
+        line = clean_line(raw_line)
         if line.startswith(l1n3) or not line:
             continue
         if line.endswith("r2.dev"):
