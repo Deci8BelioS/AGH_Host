@@ -1,12 +1,15 @@
 name: Build Filters AGH
 
+
 on:
   schedule: [{cron: "0 */6 * * *"}]
   workflow_dispatch:
 
+
 concurrency:
   group: ${{ github.workflow }}-${{ github.ref }}
   cancel-in-progress: true
+
 
 jobs:
   build:
@@ -14,9 +17,11 @@ jobs:
     permissions:
       contents: write
 
+
     steps:
       - name: Clone repository
         uses: actions/checkout@v4
+
 
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -24,8 +29,10 @@ jobs:
           python-version: 3.13
           cache: pip
 
+
       - name: Install Python dependencies
         run: pip install -r requirements.txt
+
 
       - name: Set Git user identity
         run: |
@@ -34,37 +41,33 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
+
       - name: Execute script AGH_Whitelist.py
         run: |
           cd Scripts/
-          chmod +x AGH_Whitelist.py
-          python3 ./AGH_Whitelist.py
+          python3 -u ./AGH_Whitelist.py
         env:
+          PYTHONUNBUFFERED: "1"
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Execute script AGH_filters.py
-        run: |
-          cd Scripts/
-          chmod +x AGH_filters.py
-          python3 ./AGH_filters.py
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Execute script AGH_filters+.py
         run: |
           cd Scripts/
-          chmod +x AGH_filters+.py
-          python3 ./AGH_filters+.py
+          python3 -u ./AGH_filters+.py
         env:
+          PYTHONUNBUFFERED: "1"
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
 
       - name: Execute script dnsmasq_filters.py
         run: |
           cd Scripts/
-          chmod +x dnsmasq_filters.py
-          python3 ./dnsmasq_filters.py
+          python3 -u ./dnsmasq_filters.py
         env:
+          PYTHONUNBUFFERED: "1"
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
 
       - name: Apply changes
         env:
