@@ -37,7 +37,7 @@
 /^(api|static0|digital-assets)\.fitbit\.com$/
 /^(auth|c(fg|hat|ontent-system|hat)|e(mbed|xternal-(accounts|users))|galaxy-(library|promos)|game(play|sdb)|images|login|marketing-sections|menu|notifications(-pusher(-aws)?)?|presence|r(ecommendations-api|emote-config)|www)\.gog\.com$/
 /^(beehive|nucleo)\.neatocloud\.com$/
-/^(cava(notification|internal)|mexx|www)\.bankid\.com$/
+/^(cava(notification|internal)|mexx|www|cu)\.bankid\.com$/
 /^(current\.cvd|database|www)\.clamav\.net$/
 /^(d([12]|ci)\.sophosupd\.com$|^4\.sophosxl\.net)$/
 /^(data-cloud|www)\.flightradar24\.com$/
