@@ -68777,6 +68777,7 @@ sdkapi.kookong.com
 sdkapicdn.applanga.com
 sdkapp.mobile.sina.cn
 sdkauth.hpplay.cn
+sdkc.vervegroupinc.net
 sdkclick.mobile.sina.cn
 sdkconf.avlyun.com
 sdkconf.msstatic.com
