@@ -2289,6 +2289,7 @@
 @@||fedir.comsign.co.il^$important
 @@||fedora.mirror.constant.com^$important
 @@||fedsso.yum.com^$important
+@@||feedburner.com^$important
 @@||feeds.dshield.org^$important
 @@||fennec-catalog-cdn.prod.mozaws.net^$important
 @@||feodotracker.abuse.ch^$important
@@ -4370,6 +4371,7 @@
 @@||rsc.wayport.net^$important
 @@||rsp.sysmocom.de^$important
 @@||rsp.truphone.com^$important
+@@||rss.libsyn.com^$important
 @@||rules.emergingthreats.net^$important
 @@||s-mzstatic-applak.itunes-apple.com.akadns.net^$important
 @@||s.marketwatch.com^$important
