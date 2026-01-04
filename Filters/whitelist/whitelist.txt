@@ -257,6 +257,7 @@
 @@||aca-ocsp.disig.sk^$important
 @@||aca3-ocsp.disig.sk^$important
 @@||account.network-auth.com^$important
+@@||accounts.us1.gigya.com^$important
 @@||accrescent.app^$important
 @@||accv.es^$important
 @@||acedicom.edicomgroup.com^$important
@@ -635,6 +636,7 @@
 @@||ax.init.itunes.apple.com^$important
 @@||ax.init.itunes.apple.com.edgesuite.net^$important
 @@||ax.phobos.apple.com.edgesuite.net^$important
+@@||axios-http.com^$important
 @@||az1.qualtrics.com^$important
 @@||azercell.com^$important
 @@||azkz.hr^$important
@@ -890,6 +892,7 @@
 @@||cdn-dell.com-v2.edgekey.net.globalredir.akadns.net^$important
 @@||cdn-drivers.amd.com.edgekey.net^$important
 @@||cdn-drivers.amd.com.edgekey.net.globalredir.akadns.net^$important
+@@||cdn.akamai.steamstatic.com.edgesuite.net^$important
 @@||cdn.altstore.io^$important
 @@||cdn.cloudflare.net^$important
 @@||cdn.d-trust-cloudcrl.net^$important
@@ -1855,6 +1858,7 @@
 @@||d-trust-ca-2-1-2015.ocsp.d-trust.net^$important
 @@||d-trust-ca-2-2-ev-2016.ocsp.d-trust.net^$important
 @@||d-trust.net^$important
+@@||d1u9wuqimc88kc.cloudfront.net^$important
 @@||d2c8v52ll5s99u.cloudfront.net^$important
 @@||d2gatte9o95jao.cloudfront.net^$important
 @@||d2l.org^$important
@@ -3044,7 +3048,11 @@
 @@||medallionclass.com^$important
 @@||media.ng^$important
 @@||media.southwestwifi.com^$important
+@@||media.steampowered.com^$important
 @@||media.videotron.com^$important
+@@||media2.steampowered.com^$important
+@@||media4.steampowered.com^$important
+@@||media4.steampowered.com.edgesuite.net^$important
 @@||mediamessaging.co.uk^$important
 @@||meditel.ma^$important
 @@||meldmisdaadanoniem.nl^$important
@@ -4145,6 +4153,7 @@
 @@||pix.cellularsouth.com^$important
 @@||pix.cspire.com^$important
 @@||pkg.adfinis.com^$important
+@@||pkgs.tailscale.com^$important
 @@||pki-goog.l.google.com^$important
 @@||pki.goog^$important
 @@||pki.google.com^$important
@@ -4538,6 +4547,7 @@
 @@||snrlink-page.com^$important
 @@||snu-dev.lge.com^$important
 @@||snu.lge.com^$important
+@@||socialize.gigya.com.edgekey.net^$important
 @@||software.opensuse.org^$important
 @@||solavei.mmsmvno.com^$important
 @@||solidrock.mm.fcix.net^$important
