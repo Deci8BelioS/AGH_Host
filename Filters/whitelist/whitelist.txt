@@ -4768,6 +4768,7 @@
 @@||test-crm.southwestwifi.com^$important
 @@||test.rsp.sysmocom.de^$important
 @@||test.steampowered.com^$important
+@@||testsafebrowsing.appspot.com^$important
 @@||tetaneutral.net^$important
 @@||tethering.cs4glte.com^$important
 @@||tethering.dish.com^$important
