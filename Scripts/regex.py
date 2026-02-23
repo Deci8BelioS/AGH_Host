@@ -103,6 +103,7 @@ DOMAIN_LIST = ["file.co.pl","apps.co.pl","metadsp.co.uk","i-mobile.co.jp","myish
 
 SUBDOMAIN_PATTERNS = {
     "vinted-": "*.*",
+    "vinted.": "*.*",
     "hotel-": "*.*",
     "piwik.": "*",
     "matomo.": "*",

@@ -2,9 +2,12 @@ import requests, re
 from concurrent.futures import ThreadPoolExecutor, as_completed
 from regex import DOMAIN_WHITELIST, DOMAIN_WHITELIST2, DOMAIN_WHITELIST3
 
+
 urls = [
     'https://raw.githubusercontent.com/celenityy/BadBlock/pages/wildcards-no-star/whitelist.txt',
-    'https://raw.githubusercontent.com/anudeepND/whitelist/master/domains/whitelist.txt'
+    'https://raw.githubusercontent.com/anudeepND/whitelist/master/domains/whitelist.txt',
+    'https://raw.githubusercontent.com/hl2guide/AdGuard-Home-Whitelist/main/whitelist.txt',
+    'https://raw.githubusercontent.com/cassis163/adguard-home-allowlist/refs/heads/main/allowlist.txt'
 ]
 
 unfiltered_urls = [
@@ -14,7 +17,6 @@ unfiltered_urls = [
 output_file = r'/home/runner/work/AGH_Host/AGH_Host/Filters/whitelist/whitelist.txt'
 
 l1n3 = tuple(['#', '!'])
-l1n3_2 = tuple(['apple.com', 's3.amazonaws.com', 'wp.com', 'amazonaws.com'])
 
 IP_PATTERN = re.compile(r'^(0\.0\.0\.0|127\.0\.0\.1)\s+')
 IP_REMOVE = re.compile(r'\b(?:\d{1,3}\.){3}\d{1,3}\b')
@@ -27,6 +29,10 @@ DOMAIN_WHITELIST_TUPLE = tuple(DOMAIN_WHITELIST)
 DOMAIN_WHITELIST2_TUPLE = tuple(DOMAIN_WHITELIST2)
 
 download_cache = {}
+
+# =========================
+# DOWNLOAD
+# =========================
 
 def download_file(url):
     if url in download_cache:
@@ -44,6 +50,11 @@ def download_file(url):
         download_cache[url] = []
         return []
 
+
+# =========================
+# CLEAN LINE
+# =========================
+
 def clean_line(line):
     line = line.strip()
     line = IP_PATTERN.sub('', line)
@@ -52,21 +63,23 @@ def clean_line(line):
     line = COMMENT.sub('', line)
     line = WWW.sub('', line)
     line = DOLLAR.sub('', line)
-    line = line.replace('http://', '').replace('https://', '').replace('@@||', '').replace('^', '').replace('@@|', '')
-    return line
+    line = line.replace('http://', '').replace('https://', '').replace('@@||', '').replace('@@|', '').replace('^', '')
+    return line.strip()
+
+# =========================
+# FILTER LINES
+# =========================
 
 def line_filter(lines):
     valid_domains = set()
     for raw_line in lines:
         line = clean_line(raw_line)
+        if not line or line.startswith(l1n3):
+            continue
         if line.endswith("ntp.org"):
             valid_domains.add("ntp.org")
             continue
-        if not line or line.startswith(l1n3):
-            continue
-        if line.startswith(l1n3_2):
-            continue
-        valid_domains.add(line.strip())
+        valid_domains.add(line)
     return valid_domains
 
 def unfiltered_lines(lines):
@@ -77,6 +90,10 @@ def unfiltered_lines(lines):
             continue
         valid_domains.add(line)
     return valid_domains
+
+# =========================
+# PARALLEL PROCESSING
+# =========================
 
 def download_and_process_filtered(url):
     lines = download_file(url)
@@ -89,7 +106,10 @@ def download_and_process_unfiltered(url):
 def process_urls_parallel(url_list, process_func, max_workers=5):
     all_domains = set()
     with ThreadPoolExecutor(max_workers=max_workers) as executor:
-        future_to_url = {executor.submit(process_func, url): url for url in url_list}
+        future_to_url = {
+            executor.submit(process_func, url): url
+            for url in url_list
+        }
         for future in as_completed(future_to_url):
             url = future_to_url[future]
             try:
@@ -98,6 +118,29 @@ def process_urls_parallel(url_list, process_func, max_workers=5):
             except Exception as exc:
                 print(f'  ✗ {url} generated an exception: {exc}')
     return all_domains
+
+# =========================
+# REMOVE REDUNDANT SUBDOMAINS
+# =========================
+
+def remove_redundant_subdomains(domains_set):
+    domains = set(d.strip() for d in domains_set if d.strip())
+    redundant = set()
+    for domain in domains:
+        parent = domain
+        while True:
+            dot = parent.find('.')
+            if dot == -1:
+                break
+            parent = parent[dot + 1:]
+            if parent in domains:
+                redundant.add(domain)
+                break
+    return domains - redundant
+
+# =========================
+# MAIN
+# =========================
 
 def main():
     print("Starting whitelist generation with parallel downloads...")
@@ -113,7 +156,9 @@ def main():
         unfiltered_domains = process_urls_parallel(unfiltered_urls, download_and_process_unfiltered)
         unified_content.update(unfiltered_domains)
         print(f" ✓ Collected {len(unfiltered_domains)} unfiltered domains")
-    print(f"\n ✓ Total domains before final filtering: {len(unified_content)}")
+    print(f"\n ✓ Total domains before deduplication: {len(unified_content)}")
+    unified_content = remove_redundant_subdomains(unified_content)
+    print(f" ✓ Domains after removing redundant subdomains: {len(unified_content)}")
     filtered_count = 0
     valid_domains = []
     for domain in sorted(unified_content):
@@ -139,6 +184,10 @@ def main():
     print(f" ✓ Domains filtered out: {filtered_count}")
     print(f" ✓ File '{output_file}' generated successfully.")
     print(f" ✓ Downloads made: {len(download_cache)}")
+
+# =========================
+# ENTRY
+# =========================
 
 if __name__ == "__main__":
     main()
