@@ -17,7 +17,6 @@ FILTER_CONFIGS = {
             'https://raw.githubusercontent.com/StevenBlack/hosts/refs/heads/master/hosts',
             'https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Malware',
             'https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/dyndns.txt',
-            'https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/hoster.txt',
             'https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/doh-vpn-proxy-bypass.txt',
             'https://raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/master/hosts.txt',
             'https://malware-filter.gitlab.io/malware-filter/urlhaus-filter-hosts.txt'
@@ -34,7 +33,6 @@ FILTER_CONFIGS = {
             'https://raw.githubusercontent.com/sjhgvr/oisd/refs/heads/main/dnsmasq2_small.txt',
             'https://raw.githubusercontent.com/StevenBlack/hosts/refs/heads/master/hosts',
             'https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/dyndns.txt',
-            'https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/hoster.txt',
             'https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/doh-vpn-proxy-bypass.txt',
             'https://raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/master/hosts.txt',
             'https://malware-filter.gitlab.io/malware-filter/urlhaus-filter-hosts.txt'
