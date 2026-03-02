@@ -296,6 +296,7 @@
 @@||admin.cs4glte.com^$important
 @@||admindir.admin.ch^$important
 @@||ads-track-digest256.dummytracker.org^$important
+@@||adsbexchange.com^$important
 @@||adtidy.net^$important
 @@||adtidy.org^$important
 @@||adult.com^$important
@@ -3399,6 +3400,7 @@
 @@||k535caawve-dsn.algolia.net^$important
 @@||ka-f.fontawesome.com^$important
 @@||kabel.box^$important
+@@||kaggle.com^$important
 @@||karmanirvana.org.uk^$important
 @@||kazooie.canonical.com^$important
 @@||kb.mozillazine.org^$important
