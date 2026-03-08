@@ -1,6 +1,6 @@
 import requests, re
 from concurrent.futures import ThreadPoolExecutor, as_completed
-from regex import REGEX, LIST_WHITELIST, DOMAIN_LIST, SUBDOMAIN_PATTERNS
+from regex import REGEX, LIST_WHITELIST, DOMAIN_LIST, SUBDOMAIN_PATTERNS, REGEX_WHITELIST
 
 l1n3 = tuple(['#', '!', '-', '*', '/', '.', '&', '%', '~', '?', '[', ']', '^', ':', '@', '<', 'fe80::', 'ff00::', 'ff02::'])
 
@@ -48,6 +48,7 @@ COMMENT = re.compile(r'#.*')
 WWW = re.compile(r'www\.')
 DOLLAR = re.compile(r'\$.*$')
 
+REGEX_WHITELIST_TUPLE = tuple(REGEX_WHITELIST)
 LIST_WHITELIST_TUPLE = tuple(LIST_WHITELIST)
 DOMAIN_LIST_TUPLE = tuple(DOMAIN_LIST)
 SUBDOMAIN_ITEMS = list(SUBDOMAIN_PATTERNS.items())
@@ -183,6 +184,9 @@ def process_filter(filter_name, config):
             filtered_count += 1
             continue
         if any(pattern.search(domain) for pattern in REGEX):
+            filtered_count += 1
+            continue
+        if domain.endswith(REGEX_WHITELIST_TUPLE):
             filtered_count += 1
             continue
         if domain.endswith(LIST_WHITELIST_TUPLE):

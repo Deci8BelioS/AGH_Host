@@ -1,6 +1,6 @@
 import requests, re
 from concurrent.futures import ThreadPoolExecutor, as_completed
-from regex import LIST_WHITELIST, DOMAIN_LIST
+from regex import LIST_WHITELIST, DOMAIN_LIST, REGEX_WHITELIST
 
 l1n3 = tuple(['#', '!', '-', '*', '/', '.', '&', '%', '~', '?', '[', ']', '^', ':', '@', '<', 'fe80::', 'ff00::', 'ff02::'])
 
@@ -60,6 +60,7 @@ WWW = re.compile(r'www\.')
 DOLLAR = re.compile(r'\$.*$')
 DOMAIN_PATTERN = re.compile(r'^(?:[a-zA-Z0-9](?:[a-zA-Z0-9-]{0,61}[a-zA-Z0-9])?\.)+[a-zA-Z]{2,}$')
 
+REGEX_WHITELIST_TUPLE = tuple(REGEX_WHITELIST)
 LIST_WHITELIST_TUPLE = tuple(LIST_WHITELIST)
 DOMAIN_LIST_TUPLE = tuple(DOMAIN_LIST)
 
@@ -172,6 +173,9 @@ def process_filter(filter_name, config):
     valid_domains = []
     for domain in sorted(unified_content):
         if not domain:
+            filtered_count += 1
+            continue
+        if domain.endswith(REGEX_WHITELIST_TUPLE):
             filtered_count += 1
             continue
         if domain.endswith(LIST_WHITELIST_TUPLE):
