@@ -5089,7 +5089,6 @@ adcv.jp
 adcy.net
 adcycle.com
 adcycle.footymad.net
-add-signal-groups.com
 add.f5haber.com
 add.luffy.my.id
 add.newmedia.cz
@@ -19785,6 +19784,7 @@ click-eu-v4.ecxclk.com
 click-eu-v4.exclk.com
 click-eu-v4.exmnclk.com
 click-eu-v4.exoclkneu.com
+click-eu-v4.expmclck.com
 click-eu-v4.expmidclk.com
 click-eu-v4.exppxxclck.com
 click-eu-v4.plarclck.com
@@ -19809,6 +19809,7 @@ click-v4.exclk.com
 click-v4.exmnclk.com
 click-v4.exoclkneu.com
 click-v4.explodnmainclck.com
+click-v4.expmclck.com
 click-v4.expmidclk.com
 click-v4.exppxxclck.com
 click-v4.fidmkrclk.com
@@ -19863,6 +19864,7 @@ click.emails.tuclothing.sainsburys.co.uk
 click.exclk.com
 click.exmnclk.com
 click.exoclkneu.com
+click.expmclck.com
 click.expmidclk.com
 click.exppxxclck.com
 click.fool.com
@@ -30644,7 +30646,6 @@ explorehousebuyer.com
 explorehousebuyers.com
 explorerapiecebachelor.com
 explorerippledisperse.com
-expmclck.com
 expmeet.live
 expmnclick.com
 expo-max.com
@@ -51749,7 +51750,6 @@ navi56.com
 navi59.ru
 navi6.com
 navi66.ru
-navi69.com
 navi7.com
 navi72.com
 navi72.ru
@@ -51762,7 +51762,6 @@ navi88.com
 navi89.com
 navi9.com
 navi90.com
-navi95.com
 navi98.com
 navi99.com
 navigateability.org
@@ -57396,6 +57395,7 @@ petrolgraphcredibility.com
 petronaremembered.com
 pets.channeladvisor.com
 pets.finaltips.com
+petsimulator.live
 petsmovies.com
 petsmuggler.com
 petsmuggler.net
@@ -83190,7 +83190,6 @@ wiinvent.tv
 wijjo.cloud
 wijqnlrjczisx.space
 wijrejzkekuvy.site
-wikeb.com
 wikgojdk.bar
 wikia-ads.wikia.com
 wikidevs.com
