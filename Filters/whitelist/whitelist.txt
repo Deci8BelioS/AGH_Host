@@ -1284,6 +1284,7 @@
 @@||codesector.nyc3.cdn.digitaloceanspaces.com^$important
 @@||coherentpath.link^$important
 @@||coles.com.au^$important
+@@||collection.sciencemuseumgroup.org.uk^$important
 @@||collector-otp-prod.camsys-apps.com^$important
 @@||collector-otp-qa.camsys-apps.com^$important
 @@||collector-service.api.lbry.tv^$important
@@ -2253,11 +2254,13 @@
 @@||download.garmin.cn^$important
 @@||download.garmin.com^$important
 @@||download.gnome.org^$important
+@@||download.java.net^$important
 @@||download.lenovo.com^$important
 @@||download.lenovo.com.edgekey.net^$important
 @@||download.lineageos.org^$important
 @@||download.liveinstaller.eset.systems^$important
 @@||download.nus.edu.sg^$important
+@@||download.oracle.com.edgekey.net^$important
 @@||download.rbn.com^$important
 @@||download.sonarr.tv^$important
 @@||downloaddispatch.itunes.apple.com.edgesuite.net^$important
@@ -2289,6 +2292,7 @@
 @@||drupal.org^$important
 @@||ds-3.c3pki.chamb.disa.mil^$important
 @@||ds-4.c3pki.den.disa.mil^$important
+@@||ds-edelivery.oracle.com.edgekey.net^$important
 @@||ds.nca.or.kr^$important
 @@||ds.yessign.or.kr^$important
 @@||dsa-amd.com.edgekey.net^$important
