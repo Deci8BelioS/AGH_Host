@@ -5363,6 +5363,7 @@
 @@||starhubgee.com.sg^$important
 @@||starthealing.org^$important
 @@||startssl.com^$important
+@@||stat.columbia.edu^$important
 @@||static*.cdn.ubi.com^$important
 @@||static*.ubi.com^$important
 @@||static-ah.xhcdn.com^$important
