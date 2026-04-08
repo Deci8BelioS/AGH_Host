@@ -10188,6 +10188,7 @@ amidbow.com
 amidischid.rest
 amidoxypochard.com
 amidoxytabagie.casa
+amidsttruly.com
 amiekofficial.com
 amillionads.com
 amintart.com
@@ -10860,7 +10861,6 @@ analytics.rechtslupe.org
 analytics.recruitics.com
 analytics.regex101.com
 analytics.reliant.com
-analytics.rev.iq
 analytics.rever.vn
 analytics.reyrey.net
 analytics.rogersmedia.com
@@ -47731,7 +47731,6 @@ js.our-will.com
 js.passaro-de-fogo.biz
 js.pulseinsights.com
 js.rating-widget.com
-js.rev.iq
 js.shangxueba.com
 js.shunqi.com
 js.smi2.ru
@@ -72948,6 +72947,7 @@ rev-cvnada-dep.com
 rev-stripe.com
 rev.avsforum.com
 rev.frankspeech.com
+rev.iq
 rev.lapippa.com
 revamcontr.rest
 revaminacne.pl
