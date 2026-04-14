@@ -572,10 +572,12 @@
 @@||asrockchina.com.cn^$important
 @@||asset-acms.anuvu.cloud^$important
 @@||assets-xbox.com^$important
+@@||assets.celenity.dev^$important
 @@||assets.ctfassets.net^$important
 @@||assets.esetstatic.com^$important
 @@||assets.gitlab-static.net^$important
 @@||assets.hulu.com^$important
+@@||assets.ironfoxoss.org^$important
 @@||assets.onestore.ms^$important
 @@||assets.oneweb.mercedes-benz.com^$important
 @@||assets.pippa.io^$important
@@ -920,6 +922,7 @@
 @@||caldav.fe.apple-dns.net^$important
 @@||caldav.icloud.com^$important
 @@||calendars.fe.apple-dns.net^$important
+@@||calibour.net^$important
 @@||calyxos.gitlab.io^$important
 @@||camera.postecert.it^$important
 @@||camo.githubusercontent.com^$important
@@ -4933,7 +4936,9 @@
 @@||relay.mms.telering.at^$important
 @@||release.calyxinstitute.org^$important
 @@||release.org.uk^$important
+@@||releases.celenity.dev^$important
 @@||releases.grapheneos.org^$important
+@@||releases.ironfoxoss.org^$important
 @@||releases.obsidian.md^$important
 @@||remote-settings-dev.allizom.org^$important
 @@||remote-settings.allizom.org^$important
