@@ -3568,6 +3568,7 @@
 @@||logincdn.msauth.net^$important
 @@||logincdn.msftauth.net^$important
 @@||logitech.com^$important
+@@||logseq.com^$important
 @@||logx.optimizely.com^$important
 @@||lon.mirror.rackspace.com^$important
 @@||loopmobile.in^$important
@@ -4671,6 +4672,7 @@
 @@||pinebelt.net^$important
 @@||ping.eu^$important
 @@||ping.nextdns.io^$important
+@@||ping.prod.colab.dev^$important
 @@||ping.ubnt.com^$important
 @@||ping.ui.com^$important
 @@||ping2.ui.com^$important
