@@ -43712,7 +43712,6 @@ ingest.m2catalyst.com
 ingest.make.rvapps.io
 ingest.make.rvohealth.com
 ingest.skarb.work
-ingest.webcol.sdp.peacocktv.com
 ingesteer.services-prod.nsvcs.net
 ingestion.webanalytics.italia.it
 ingherwas.com
@@ -72927,7 +72926,6 @@ sas.f.peacocktv.com
 sas.f.stable-int.peacocktv.com
 sas.int-nft.peacocktv.com
 sas.nsm-corp.com
-sas.peacocktv.com
 sas.stable-int.peacocktv.com
 sascentral.com
 sascirrtoxxfibs.com
