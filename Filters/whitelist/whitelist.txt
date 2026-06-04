@@ -5415,6 +5415,7 @@
 @@||statics-*.onestore.ms^$important
 @@||statics.cdntrex.com^$important
 @@||statics.teams.cdn.live.net^$important
+@@||statistics.kavakci.dev^$important
 @@||stats-prod.svc.gearsofwar.net^$important
 @@||stats.appwork.org^$important
 @@||stats.izzyondroid.org^$important
