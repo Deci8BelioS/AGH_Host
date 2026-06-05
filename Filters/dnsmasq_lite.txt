@@ -21448,6 +21448,7 @@ client-log.box.com
 client-log.karte.io
 client-logger.beta.salemove.com
 client-logger.salemove.com
+client-logs-a.wbx2.com
 client-metrics.chess.com
 client-sdk.hackle.io
 client-telemetry-preauth.hingeprod.net
@@ -32585,6 +32586,7 @@ events.funnelish.com
 events.getmodemagic.com
 events.getsitectrl.com
 events.gonative.io
+events.hotjar.io
 events.iap.unity3d.com
 events.ifunny.co
 events.il.fi
