@@ -532,6 +532,7 @@
 @@||arc.msn.com*^$important
 @@||archive-01.torproject.org^$important
 @@||archive.canonical.com^$important
+@@||archive.mozilla-backup.org^$important
 @@||archive.newpipe.net^$important
 @@||archive.org^$important
 @@||archive.raspbian.org^$important
@@ -626,8 +627,10 @@
 @@||augur.scanners.gtm.eset.systems^$important
 @@||auroraoss.com^$important
 @@||aus.thunderbird.net^$important
+@@||aus.waterfox.com^$important
 @@||aus1.torproject.org^$important
 @@||aus2.torproject.org^$important
+@@||aus5.mozilla-backup.org^$important
 @@||auspost.com.au^$important
 @@||australiaeast0-mediap.svc.ms^$important
 @@||ausyd1-edge1.cdn.i3d.net^$important
@@ -1589,6 +1592,7 @@
 @@||console.gl-inet.com^$important
 @@||contact.org.uk^$important
 @@||content-hacs.svc.halowaypoint.com^$important
+@@||content-signature-2-cdn.mozilla-backup.org^$important
 @@||content-signature-chains.nonprod.webservices.mozgcp.net^$important
 @@||content-signature-chains.prod.webservices.mozgcp.net^$important
 @@||content.halocdn.com^$important
@@ -2262,6 +2266,7 @@
 @@||download.lenovo.com.edgekey.net^$important
 @@||download.lineageos.org^$important
 @@||download.liveinstaller.eset.systems^$important
+@@||download.mozilla-backup.org^$important
 @@||download.nus.edu.sg^$important
 @@||download.oracle.com.edgekey.net^$important
 @@||download.rbn.com^$important
@@ -2625,6 +2630,8 @@
 @@||filtersadguard.b-cdn.net^$important
 @@||fiona.cdntrex.com^$important
 @@||fire.walla^$important
+@@||firefox-settings-attachments.mozilla-backup.org^$important
+@@||firefox-settings.mozilla-backup.org^$important
 @@||firefox.api.cdn-perfprod.com^$important
 @@||firefox.com^$important
 @@||firefox.etp^$important
@@ -6037,6 +6044,7 @@
 @@||updates.cdn-apple.com^$important
 @@||updates.dziemborowicz.com^$important
 @@||updates.g.aaplimg.com^$important
+@@||updates.helium.computer^$important
 @@||updates.zen-browser.app^$important
 @@||uplaypc-s-ubisoft.cdn.ubi.com^$important
 @@||uploaded.net^$important
@@ -6102,6 +6110,7 @@
 @@||verbreekdestilte.nl^$important
 @@||verisign.com^$important
 @@||version.cyberduck.io^$important
+@@||versioncheck-addons.mozilla-backup.org^$important
 @@||versioncheck-dev.allizom.org^$important
 @@||versioncheck.allizom.org^$important
 @@||versioncheck.dev.mozaws.net^$important
