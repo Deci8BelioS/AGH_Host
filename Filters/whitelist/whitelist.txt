@@ -497,11 +497,13 @@
 @@||api3.weather.com^$important
 @@||apis.live.net^$important
 @@||apkmirror.com^$important
+@@||apkudo.navattic.com^$important
 @@||apn01.cwpanama.com.pa^$important
 @@||apn02.cwpanama.com.pa^$important
 @@||app-api.ted.com^$important
 @@||app-yoda.arubathena.com^$important
 @@||app.futo.org^$important
+@@||app.growave.io^$important
 @@||app.hulu.com^$important
 @@||app.launchdarkly.com^$important
 @@||app.localhost.direct^$important
@@ -557,6 +559,7 @@
 @@||armdl.adobe.com.edgesuite.net^$important
 @@||armmf.adobe.com^$important
 @@||arstechnica.com^$important
+@@||artifacts.ironfoxoss.org^$important
 @@||aruba.odyssys.net^$important
 @@||arubanetworks.com^$important
 @@||arubanetworks.com.cn^$important
@@ -1244,6 +1247,7 @@
 @@||click.s.kohls.com^$important
 @@||click.victoriassecret.com^$important
 @@||clicks.cameo.com^$important
+@@||clicks.eventbrite.com^$important
 @@||client-abc.adamuser.app^$important
 @@||client-metrics-gateway-api.live.public.prod.tetra.fleet.ubi.com^$important
 @@||client-update.akamai.steamstatic.com^$important
@@ -1295,6 +1299,7 @@
 @@||collector-otp-qa.camsys-apps.com^$important
 @@||collector-service.api.lbry.tv^$important
 @@||collector.githubapp.com^$important
+@@||collector.se^$important
 @@||collinsdictionary.com^$important
 @@||combatstress.org.uk^$important
 @@||comcast.rslr.vzwentp^$important
@@ -2336,6 +2341,7 @@
 @@||e911.gov.ph^$important
 @@||ea.com^$important
 @@||eapu.com.au^$important
+@@||eardance.earjoy.cn^$important
 @@||easeus.com^$important
 @@||easy.box^$important
 @@||easyanticheat.net^$important
@@ -4564,6 +4570,7 @@
 @@||orangerun.acte^$important
 @@||orca.pet^$important
 @@||ord.mirror.rackspace.com^$important
+@@||order.online^$important
 @@||org.pelephone.net.il^$important
 @@||oridefinitiveprod.rtep.msgamestudios.com^$important
 @@||origin.com^$important
@@ -4865,6 +4872,7 @@
 @@||qemu.org^$important
 @@||qemu.weilnetz.de^$important
 @@||qlife.org.au^$important
+@@||qrcodes.pro^$important
 @@||qt.io^$important
 @@||quad9.net^$important
 @@||quam.com.ar^$important
@@ -5114,6 +5122,7 @@
 @@||sdafmh.org.uk^$important
 @@||sdk.virtualearth.net^$important
 @@||se-edge.itunes.apple.com.edgekey.net^$important
+@@||se2.itunes.apple.com.edgesuite.net^$important
 @@||sea1.discourse-cdn.com^$important
 @@||seagate.com^$important
 @@||seal-sanjose.bbb.org^$important
@@ -5393,6 +5402,7 @@
 @@||static.cloudflareinsights.com^$important
 @@||static.edge.microsoftapp.net^$important
 @@||static.freedownloadmanager.org^$important
+@@||static.growave.io^$important
 @@||static.gumtree.com.au.peakhour.zone^$important
 @@||static.hsstatic.net^$important
 @@||static.icloud.com^$important
