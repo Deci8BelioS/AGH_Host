@@ -5810,7 +5810,6 @@ adpmbts.com
 adpointbreakrtb.com
 adpon.net
 adpone.com
-adpool.bet
 adpopcorn.com
 adport.net
 adportonic.com
@@ -6909,7 +6908,6 @@ ads.tvmnews.mt
 ads.tvp.pl
 ads.tvpl.vn
 ads.twdcgrid.com
-ads.twitch.tv
 ads.twitter.com
 ads.twojatv.info
 ads.uigc.net
@@ -16006,7 +16004,6 @@ bmmads.com
 bmmetrix.com
 bmmlztvqsngih.online
 bmmwa.info
-bmndx.com
 bmnhbrjuekejj.site
 bmnuledgpd.com
 bmnwmfvjmltrl.space
@@ -29175,6 +29172,7 @@ edeclineryb.org
 edelog-dev.conclurer.cloud
 edexpvvr.com
 edge-west.customer.io
+edge.ads.twitch.tv
 edge.ayboll.com
 edge.metroleads.com
 edge.safedk.com
@@ -32830,6 +32828,7 @@ filter-eu.smartadexchange.xyz
 filter-eu.srvqck21.com
 filter-eu.srvqck23.com
 filter-eu.srvqck25.com
+filter-eu.srvqck27.com
 filter-eu.tat-adz.com
 filter-eu.techdoor.com
 filter-eu.tenxads.com
@@ -32938,6 +32937,7 @@ filter.smartadexchange.xyz
 filter.srvqck21.com
 filter.srvqck23.com
 filter.srvqck25.com
+filter.srvqck27.com
 filter.tat-adz.com
 filter.techdoor.com
 filter.tenxads.com
@@ -40554,6 +40554,7 @@ icon.eu.atmnd.com
 icon.eu.atmndx.com
 icon.eu.awmndw.com
 icon.eu.bbmnd.com
+icon.eu.bmndx.com
 icon.eu.cpmndl.com
 icon.eu.eemnd.com
 icon.eu.jramnd.com
@@ -68742,8 +68743,11 @@ s.yjtag.jp
 s.zixuntop.com
 s.zkcdn.net
 s.zline0.com
+s.zlink1.com
 s.zlink4.com
 s.zlink7.com
+s.zlink8.com
+s.zlinkb.com
 s.zlinkn.com
 s.zlinkr.com
 s.zlinkt.com
@@ -73716,7 +73720,6 @@ srvpub.com
 srvqck.com
 srvqck1.com
 srvqck2.com
-srvqck27.com
 srvqck3.com
 srvr.dmvs-apac.com
 srvtensz.com
@@ -74400,6 +74403,7 @@ static.srvqck20.com
 static.srvqck21.com
 static.srvqck24.com
 static.srvqck26.com
+static.srvqck27.com
 static.srvqk.com
 static.ssacdn.com
 static.strongmetrics.io
@@ -89383,6 +89387,7 @@ xml-eu-v4.springtides.xyz
 xml-eu-v4.srvqck21.com
 xml-eu-v4.srvqck23.com
 xml-eu-v4.srvqck25.com
+xml-eu-v4.srvqck27.com
 xml-eu-v4.starvalue-3.online
 xml-eu-v4.sttsxplc.online
 xml-eu-v4.svdva-e.online
@@ -89453,6 +89458,7 @@ xml-eu.rtbmedweb.com
 xml-eu.sdausa.online
 xml-eu.srvqck21.com
 xml-eu.srvqck23.com
+xml-eu.srvqck27.com
 xml-eu.sttsxplc.online
 xml-eu.svdva-e.online
 xml-eu.svdva-f.online
@@ -89588,6 +89594,7 @@ xml-v4.springtides.xyz
 xml-v4.srvqck21.com
 xml-v4.srvqck23.com
 xml-v4.srvqck25.com
+xml-v4.srvqck27.com
 xml-v4.starvalue-4.online
 xml-v4.strongkeyword.com
 xml-v4.strongmetrics.io
@@ -89822,6 +89829,7 @@ xml.srvqck23.com
 xml.srvqck24.com
 xml.srvqck25.com
 xml.srvqck26.com
+xml.srvqck27.com
 xml.srvqk.com
 xml.srvqk1.com
 xml.sttsxplc.online
@@ -91529,6 +91537,7 @@ z-milosci.pl
 z-promo.com
 z.5xntkn9je414bv.cyou
 z.abnad.net
+z.cdn.adpool.bet
 z.cdp-dev.cnn.com
 z.dkt-ib.com
 z.dynad.net
@@ -92284,13 +92293,10 @@ zlgfuyslcpekc.site
 zlhoteckelinie.wz.cz
 zlibrary.to
 zlink0.com
-zlink1.com
 zlink2.com
 zlink3.com
 zlink6.com
-zlink8.com
 zlink9.com
-zlinkb.com
 zlinkc.com
 zlinkd.com
 zlinkl.com
