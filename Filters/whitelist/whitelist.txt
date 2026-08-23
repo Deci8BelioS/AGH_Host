@@ -559,6 +559,7 @@
 @@||armdl.adobe.com.edgesuite.net^$important
 @@||armmf.adobe.com^$important
 @@||arstechnica.com^$important
+@@||artifacts.celenity.dev^$important
 @@||artifacts.ironfoxoss.org^$important
 @@||aruba.odyssys.net^$important
 @@||arubanetworks.com^$important
@@ -948,7 +949,9 @@
 @@||captcha.website^$important
 @@||captive-2020.aio.cloudauth.net^$important
 @@||captive-2022.aio.cloudauth.net^$important
+@@||captive.celenity.dev^$important
 @@||captive.g.aaplimg.com^$important
+@@||captive.ironfoxoss.org^$important
 @@||captive.o2wifi.co.uk^$important
 @@||captivemgr.o2wifi.net.uk^$important
 @@||captiveportal-login.belex.com^$important
@@ -3503,6 +3506,7 @@
 @@||libera.chat^$important
 @@||libreoffice.org^$important
 @@||librewolf-community.gitlab.io^$important
+@@||librewolf.dev^$important
 @@||librewolf.net^$important
 @@||license.hulu.com^$important
 @@||life.com.by^$important
@@ -6429,6 +6433,7 @@
 @@||wixmp-ed30a86b8c4ca887773594c2.wixmp.com^$important
 @@||wkms-public.v.aaplimg.com^$important
 @@||wlan.three.com.hk^$important
+@@||wlc02.indy.gov^$important
 @@||wmgmms.telia.se^$important
 @@||wo.vzwwo.com^$important
 @@||womencentre.org.hk^$important
