@@ -2064,6 +2064,8 @@
 @@||dashboard.snapcraft.io.localdomain^$important
 @@||dashlane.com^$important
 @@||data-cdn.mbamupdates.com^$important
+@@||data.m.starbucks.com^$important
+@@||data.m.starbucks.com.data.adobedc.net^$important
 @@||data1.eronet.ba^$important
 @@||data2.eronet.ba^$important
 @@||databridge.tdbtrk.com^$important
@@ -2508,6 +2510,7 @@
 @@||eve.cdntrex.com^$important
 @@||event.swisscom.ch^$important
 @@||event.vodafone.de^$important
+@@||events.cfa.sportscenter.espn.com^$important
 @@||evernote.com^$important
 @@||evernotesupport.zendesk.com^$important
 @@||eviltracker.net^$important
@@ -2639,6 +2642,7 @@
 @@||filtersadguard.b-cdn.net^$important
 @@||fiona.cdntrex.com^$important
 @@||fire.walla^$important
+@@||firefox-portal-detection.com^$important
 @@||firefox-settings-attachments.mozilla-backup.org^$important
 @@||firefox-settings.mozilla-backup.org^$important
 @@||firefox.api.cdn-perfprod.com^$important
@@ -4221,6 +4225,7 @@
 @@||my.gov.au^$important
 @@||my.kaspersky.com^$important
 @@||my.keenetic.net^$important
+@@||my.manychat.com^$important
 @@||my.plexapp.com^$important
 @@||my.router^$important
 @@||my1.speedtest.vodafone.com.au^$important
@@ -4653,6 +4658,7 @@
 @@||paypal.de^$important
 @@||paypalobjects.com^$important
 @@||paypalobjects.comimages^$important
+@@||paywall.sports.client.dtci.technology^$important
 @@||pcgamingwiki.com^$important
 @@||pcgw-static.nyc3.digitaloceanspaces.com^$important
 @@||pcmanagerconfig.azurewebsites.net^$important
@@ -4815,6 +4821,7 @@
 @@||programmingfonts.org^$important
 @@||progression-prod.svc.gearsofwar.net^$important
 @@||progression2-prod.svc.gearsofwar.net^$important
+@@||promo.api.my.chick-fil-a.com^$important
 @@||promo.kaspersky.com^$important
 @@||proton-me.cdn.prismic.io^$important
 @@||proton.me^$important
@@ -5347,6 +5354,8 @@
 @@||spmode.ne.jp^$important
 @@||spo-ring.msedge.net^$important
 @@||spoppe-b.azureedge.net^$important
+@@||sportscenter-cfa-api-cdn.espn.com^$important
+@@||sportscenter.fan.api.espn.com^$important
 @@||spotify.com^$important
 @@||sprboost.mmsmvno.com^$important
 @@||springmobil.se^$important
